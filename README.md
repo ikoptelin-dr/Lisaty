@@ -31,6 +31,10 @@ node build/lighthouse.mjs       # Lighthouse, мобильный профиль
 node build/review_sheet.mjs     # пересобрать review_plant.md из реестра
 ```
 
+```bash
+python3 -I build/brief.py       # бриф директору по науке: dist/brief_science_director.docx
+```
+
 Нужны Node 20+, Playwright с Chromium и `pdfinfo`/`pdftotext` (poppler-utils).
 
 ## Как добавить подтверждённый факт
