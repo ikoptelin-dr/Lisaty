@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Бактериальные лизаты — образец и спецификация</title>
+<meta name="description" content="Бактериальные лизаты для производителей БАД и дистрибьюторов пищевого сырья. Запросите образец и спецификацию.">
+<meta name="theme-color" content="#1f4f43">
+<link rel="icon" href="data:,">
+<meta name="robots" content="noindex, nofollow">
+<style>:root{
+  --bg:#f6f5f1;--surface:#fff;--alt:#eeede7;--ink:#1a1e1c;--muted:#535a56;--line:#d6d4cc;
+  --accent:#1f4f43;--accent-ink:#fff;--accent-soft:#e3ece8;
+  --pend-bg:#fbf6e6;--pend-line:#b49433;--pend-ink:#6b5410;
+  --r:10px;--gut:16px;
+  font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  color-scheme:light dark;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121514;--surface:#1a1f1d;--alt:#161a19;--ink:#e8ebe9;--muted:#a3aba7;--line:#2f3633;
+  --accent:#7cc2ab;--accent-ink:#0d1a16;--accent-soft:#1d2c27;
+  --pend-bg:#2a2414;--pend-line:#a88a33;--pend-ink:#e4cf8a;}}
+:root[data-theme="dark"]{
+  --bg:#121514;--surface:#1a1f1d;--alt:#161a19;--ink:#e8ebe9;--muted:#a3aba7;--line:#2f3633;
+  --accent:#7cc2ab;--accent-ink:#0d1a16;--accent-soft:#1d2c27;
+  --pend-bg:#2a2414;--pend-line:#a88a33;--pend-ink:#e4cf8a;}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);overflow-x:hidden}
+h1,h2,h3{line-height:1.2;margin:0 0 .5em;text-wrap:balance}
+h1{font-size:1.85rem;letter-spacing:-.01em}
+h2{font-size:1.45rem}
+h3{font-size:1.05rem}
+p{margin:0 0 .8em}
+a{color:var(--accent)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 var(--gut)}
+
+.draft{background:var(--pend-ink);color:var(--bg);text-align:center;font-weight:600;font-size:.9rem;padding:.5rem var(--gut)}
+.top{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.top-in{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:56px}
+.maker{font-size:.9rem;color:var(--muted);min-width:0}
+
+.btn{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:600;
+  padding:.8rem 1.15rem;border-radius:var(--r);border:0;font-size:1rem;cursor:pointer;min-height:44px;text-align:center}
+.btn:hover{filter:brightness(1.08)}
+.btn:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.btn-sm{padding:.55rem .85rem;font-size:.9rem;white-space:nowrap}
+
+.hero{padding:32px 0 28px;background:var(--surface);border-bottom:1px solid var(--line)}
+.kicker{color:var(--accent);font-weight:600;font-size:.9rem;margin-bottom:.4em}
+.lead{font-size:1.1rem;color:var(--muted);max-width:40em}
+.hero .btn{margin:.4rem 0 1.4rem;width:100%}
+.hero-facts{display:grid;gap:8px;margin:0 0 1rem}
+.hero-facts div{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--line);padding-top:8px}
+.hero-facts dt{color:var(--muted)}
+.hero-facts dd{margin:0;text-align:right}
+.howto{font-size:.88rem;color:var(--muted);max-width:44em;margin:0}
+
+.sec{padding:36px 0}
+.sec.alt{background:var(--alt)}
+.intro{color:var(--muted);max-width:44em}
+.sub{margin-top:1.6rem}
+
+.pending{display:inline-block;background:var(--pend-bg);color:var(--pend-ink);border:1px dashed var(--pend-line);
+  border-radius:6px;padding:0 .45em;font-size:.92em}
+.fact{font-weight:500}
+
+.cards{display:grid;gap:12px;margin-top:1rem}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.slot{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 .3em}
+.card-title{font-size:1.15rem}
+.rows{margin:0}
+.rows div{display:grid;grid-template-columns:minmax(7.5em,40%) 1fr;gap:8px;padding:8px 0;border-top:1px solid var(--line)}
+.rows dt{color:var(--muted)}
+.rows dd{margin:0}
+.rows.common{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:4px 16px}
+.rows.common div:first-child{border-top:0}
+
+.qas{margin:1rem 0 0;display:grid;gap:12px}
+.qa{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.qa dt{font-weight:600;margin-bottom:.35em}
+.qa dd{margin:0;color:var(--muted)}
+.qa dd p:last-child{margin-bottom:0}
+.vals{list-style:none;margin:.4em 0 0;padding:0;display:flex;flex-wrap:wrap;gap:6px}
+
+.table-wrap{overflow-x:auto;margin-top:1rem}
+.docs{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.docs th,.docs td{text-align:left;padding:10px 12px;border-top:1px solid var(--line);vertical-align:top}
+.docs thead th{border-top:0;font-size:.85rem;color:var(--muted);font-weight:600;background:var(--alt)}
+.docs tbody th{font-weight:500}
+
+.limits{list-style:none;margin:1rem 0 0;padding:0;display:grid;gap:12px}
+.limits>li{border-left:3px solid var(--pend-line);padding:4px 0 4px 14px}
+.limits p{color:var(--muted);margin-bottom:.4em}
+
+.req{background:var(--accent-soft)}
+.req-in{display:grid;gap:24px}
+.contacts{list-style:none;padding:0;margin:1rem 0 0;color:var(--muted)}
+.contacts li{padding:2px 0}
+.form{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:grid;gap:14px}
+.field{display:grid;gap:6px;border:0;margin:0;padding:0;min-width:0}
+.field label,.field legend{font-weight:600;font-size:.95rem;padding:0}
+.req{color:inherit}
+.field .req,.form .req{color:#a33}
+input[type=text],input[type=email],input[type=tel],select,textarea{width:100%;font:inherit;color:var(--ink);background:var(--bg);
+  border:1px solid var(--line);border-radius:8px;padding:.65rem .75rem;min-height:44px}
+.check{display:flex;gap:10px;align-items:flex-start;font-weight:400 !important;padding:6px 0 !important;min-height:32px}
+.check input{width:20px;height:20px;margin:2px 0 0;flex:none;accent-color:var(--accent)}
+.consent{font-size:.9rem;color:var(--muted)}
+.form .btn{width:100%}
+
+.foot{padding:24px 0 40px;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
+
+@media (min-width:720px){
+  h1{font-size:2.5rem}
+  .hero{padding:56px 0 44px}
+  .hero .btn{width:auto}
+  .hero-facts{grid-template-columns:repeat(3,1fr);gap:16px}
+  .hero-facts div{display:block}
+  .hero-facts dd{text-align:left}
+  .qas{grid-template-columns:repeat(2,1fr)}
+  .limits{grid-template-columns:repeat(2,1fr)}
+  .sec{padding:56px 0}
+}
+@media (min-width:960px){
+  .cards{grid-template-columns:repeat(3,1fr)}
+  .qas{grid-template-columns:repeat(3,1fr)}
+  .req-in{grid-template-columns:1fr 1.2fr;align-items:start}
+}
+</style>
+</head>
+<body>
+<div class="draft" role="note">Черновик. Документы производителя ещё не получены. Не для рассылки.</div>
+<header class="top">
+  <div class="wrap top-in">
+    <span class="maker"><span class="pending" data-claim="C-ORG-01" data-gap="G-01">Производитель — по карточке предприятия</span></span>
+    <a class="btn btn-sm" href="#request">Запросить образец</a>
+  </div>
+</header>
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <p class="kicker">Сырьё для БАД и пищевых производств</p>
+      <h1>Бактериальные лизаты для производителей БАД и дистрибьюторов</h1>
+      <p class="lead">Запросите образец и спецификацию. Здесь — только то, что подтверждено документами производителя.</p>
+      <a class="btn" href="#request">Запросить образец и спецификацию</a>
+      <dl class="hero-facts"><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Носитель</dt><dd><span class="pending" data-claim="C-CARR-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Назначение</dt><dd><span class="pending" data-claim="C-USE-01" data-gap="G-08">по запросу</span></dd></div></dl>
+      <p class="howto">«По запросу» значит: этих данных нет в открытых материалах. Их можно запросить через форму. Мы не публикуем цифры без документа.</p>
+    </div>
+  </section>
+
+  <section id="products" class="sec">
+    <div class="wrap">
+      <h2>Продукты</h2>
+      <p class="intro">Сравнивайте по спецификации: виды бактерий, число штаммов, носитель, показатели безопасности.</p>
+      <div class="cards">
+      <article class="card">
+        <p class="slot">Продукт А</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-BIF-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-BIF-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-BIF-03" data-gap="G-03">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-BIF-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article>
+      <article class="card">
+        <p class="slot">Продукт Б</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-LAK-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-LAK-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-LAK-03" data-gap="G-04">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-LAK-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article>
+      <article class="card">
+        <p class="slot">Продукт В</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-PRO-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-PRO-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-PRO-03" data-gap="G-04">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-PRO-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article>
+      </div>
+      <h3 class="sub">Общее для всех продуктов</h3>
+      <dl class="rows common"><div><dt>Технология</dt><dd><span class="pending" data-claim="C-TECH-01" data-gap="G-05">по запросу</span></dd></div><div><dt>Консервант</dt><dd><span class="pending" data-claim="C-PRES-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Состав и нормы</dt><dd><span class="pending" data-claim="C-COMP-01" data-gap="G-09">по спецификации</span></dd></div></dl>
+    </div>
+  </section>
+
+  <section id="producers" class="sec alt">
+    <div class="wrap">
+      <h2>Производителям и владельцам брендов БАД</h2>
+      <p class="intro">Ответы на вопросы, которые технолог задаёт до заказа образца.</p>
+      <dl class="qas">
+      <div class="qa"><dt>Чем это сырьё отличит ваш продукт</dt><dd><p>Решать вам по спецификации: виды бактерий и число штаммов в составе. Мы не сравниваем себя с другими поставщиками.</p><ul class="vals"><li><span class="pending" data-claim="C-BIF-03" data-gap="G-03">по запросу</span></li><li><span class="pending" data-claim="C-LAK-03" data-gap="G-04">по запросу</span></li><li><span class="pending" data-claim="C-PRO-03" data-gap="G-04">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Что можно писать на этикетке</dt><dd><p>Формулировки о пользе определяют документы о регистрации вашего продукта и требования ТР ТС 021/2011 и ТР ТС 022/2011. Мы таких формулировок не предлагаем.</p></dd></div>
+      <div class="qa"><dt>В какие формы выпуска входит</dt><dd><p>Если сырьё жидкое, его проще вводить в жидкие формы. Для твёрдых форм нужен отдельный этап у вас — проверьте с технологом до заказа.</p><ul class="vals"><li><span class="pending" data-claim="C-FORMS-01" data-gap="G-16">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Документы для регистрации вашего продукта</dt><dd><p>Запросите спецификацию, документ о регистрации сырья и сертификаты анализа партий.</p><ul class="vals"><li><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></li><li><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Аллерген на маркировке</dt><dd><p>Состав носителя определяет, что вы укажете на этикетке.</p><ul class="vals"><li><span class="pending" data-claim="C-ALLERG-01" data-gap="G-07">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Цена на дозу</dt><dd><p>Цена на дозу считается из цены за единицу сырья и нормы ввода. Обе величины пришлём по запросу.</p><ul class="vals"><li><span class="pending" data-claim="C-DOSE-01" data-gap="G-17">по запросу</span></li><li><span class="pending" data-claim="C-PRICE-01" data-gap="G-20">по запросу</span></li></ul></dd></div>
+    </dl>
+    </div>
+  </section>
+
+  <section id="distributors" class="sec">
+    <div class="wrap">
+      <h2>Дистрибьюторам пищевого и БАД-сырья</h2>
+      <p class="intro">Ответы на вопросы, которые задают до включения сырья в ассортимент.</p>
+      <dl class="qas">
+      <div class="qa"><dt>Качество от партии к партии</dt><dd><p>Запросите сертификаты анализа последних партий и сравните их сами.</p><ul class="vals"><li><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Пакет документов для клиентов</dt><dd><p>Спецификация, документ о регистрации, сертификаты системы менеджмента с областью действия.</p><ul class="vals"><li><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></li><li><span class="pending" data-claim="C-CERT-01" data-gap="G-15">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Минимальная партия и сроки</dt><dd><ul class="vals"><li><span class="pending" data-claim="C-MOQ-01" data-gap="G-19">по запросу</span></li><li><span class="pending" data-claim="C-LEAD-01" data-gap="G-19">по запросу</span></li><li><span class="pending" data-claim="C-PACK-01" data-gap="G-18">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Хранение и перевозка</dt><dd><p>Режим хранения влияет на склад и транспорт. Проверьте его до первой закупки.</p><ul class="vals"><li><span class="pending" data-claim="C-STOR-01" data-gap="G-13">по запросу</span></li><li><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Условия работы и эксклюзив</dt><dd><ul class="vals"><li><span class="pending" data-claim="C-EXCL-01" data-gap="G-22">по запросу</span></li></ul></dd></div>
+    </dl>
+    </div>
+  </section>
+
+  <section id="documents" class="sec alt">
+    <div class="wrap">
+      <h2>Документы и качество</h2>
+      <p class="intro">В таблице — только документы, которые есть у нас на руках. Остальные запрашиваем у производителя.</p>
+      <div class="table-wrap"><table class="docs"><thead><tr><th scope="col">Документ</th><th scope="col">Что известно</th></tr></thead><tbody><tr><th scope="row">Спецификация</th><td><span class="pending" data-claim="C-COMP-01" data-gap="G-09">по спецификации</span></td></tr><tr><th scope="row">Отсутствие живых клеток</th><td><span class="pending" data-claim="C-INACT-01" data-gap="G-10">по запросу</span></td></tr><tr><th scope="row">Безопасность</th><td><span class="pending" data-claim="C-SAFE-01" data-gap="G-11">по запросу</span></td></tr><tr><th scope="row">Сертификаты анализа партий</th><td><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></td></tr><tr><th scope="row">Регистрация сырья</th><td><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></td></tr><tr><th scope="row">Система менеджмента</th><td><span class="pending" data-claim="C-CERT-01" data-gap="G-15">по запросу</span></td></tr><tr><th scope="row">Срок годности</th><td><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <section id="limits" class="sec">
+    <div class="wrap">
+      <h2>Ограничения — до заказа</h2>
+      <p class="intro">Это стоит проверить заранее, чтобы образец не оказался лишним.</p>
+      <ul class="limits"><li><h3>Форма выпуска</h3><p>Если сырьё жидкое, для капсул и таблеток понадобится сорбция или сушка на вашей стороне.</p><ul class="vals"><li><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></li></ul></li><li><h3>Молочный носитель</h3><p>Если носитель молочный, укажите молоко как аллерген. Такое сырьё не подойдёт для линеек без молока и веганских.</p><ul class="vals"><li><span class="pending" data-claim="C-CARR-01" data-gap="G-06">по запросу</span></li><li><span class="pending" data-claim="C-ALLERG-01" data-gap="G-07">по запросу</span></li></ul></li><li><h3>Хранение</h3><p>Сверьте срок годности и режим хранения со своим циклом производства и складом.</p><ul class="vals"><li><span class="pending" data-claim="C-STOR-01" data-gap="G-13">по запросу</span></li><li><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></li></ul></li><li><h3>Для каких задач не подходит</h3><p>Лизат — это разрушенные клетки бактерий. Если вашему продукту нужны живые культуры, например закваска, лизат эту задачу не решает. Это сырьё, а не готовый продукт.</p></li></ul>
+    </div>
+  </section>
+
+  <section id="request" class="sec req">
+    <div class="wrap req-in">
+      <div>
+        <h2>Запросить образец и спецификацию</h2>
+        <p class="intro">Заполните форму. Пришлём то, что есть по вашему списку. Если документа нет — так и напишем.</p>
+        <ul class="contacts">
+        <li>[Компания-отправитель]</li>
+        <li>[Имя, должность]</li>
+        <li>[электронная почта]</li>
+        <li>[телефон]</li>
+      </ul>
+      </div>
+      <form class="form" method="post">
+        <div class="field"><label for="f-company">Компания <span class="req" aria-hidden="true">*</span></label><input id="f-company" name="company" type="text" required autocomplete="organization"></div>
+        <div class="field"><label for="f-role">Вы <span class="req" aria-hidden="true">*</span></label><select id="f-role" name="role" required><option value="">Выберите</option><option>Производитель или владелец бренда БАД</option><option>Дистрибьютор сырья</option><option>Пищевое производство</option><option>Другое</option></select></div>
+        <fieldset class="field"><legend>Какой продукт</legend><label class="check"><input type="checkbox" name="products" value="Продукт А" id="f-products-a"> Продукт А</label><label class="check"><input type="checkbox" name="products" value="Продукт Б" id="f-products-b"> Продукт Б</label><label class="check"><input type="checkbox" name="products" value="Продукт В" id="f-products-c"> Продукт В</label></fieldset>
+        <fieldset class="field"><legend>Что прислать</legend><label class="check"><input type="checkbox" name="need" value="Образец" id="f-need-a"> Образец</label><label class="check"><input type="checkbox" name="need" value="Спецификацию" id="f-need-b"> Спецификацию</label><label class="check"><input type="checkbox" name="need" value="Сертификаты анализа партий" id="f-need-c"> Сертификаты анализа партий</label><label class="check"><input type="checkbox" name="need" value="Документы о регистрации" id="f-need-d"> Документы о регистрации</label><label class="check"><input type="checkbox" name="need" value="Коммерческое предложение" id="f-need-e"> Коммерческое предложение</label></fieldset>
+        <div class="field"><label for="f-format">Форма выпуска вашего продукта</label><input id="f-format" name="format" type="text"></div>
+        <div class="field"><label for="f-volume">Ориентировочный объём в год</label><input id="f-volume" name="volume" type="text"></div>
+        <div class="field"><label for="f-name">Имя и должность <span class="req" aria-hidden="true">*</span></label><input id="f-name" name="name" type="text" required autocomplete="name"></div>
+        <div class="field"><label for="f-email">Электронная почта <span class="req" aria-hidden="true">*</span></label><input id="f-email" name="email" type="email" required autocomplete="email"></div>
+        <div class="field"><label for="f-phone">Телефон</label><input id="f-phone" name="phone" type="tel" autocomplete="tel"></div>
+        <div class="field"><label for="f-comment">Комментарий</label><textarea id="f-comment" name="comment" rows="4"></textarea></div>
+        <label class="check consent"><input type="checkbox" name="consent" required> Согласен на обработку персональных данных для ответа на этот запрос.</label>
+        <button class="btn" type="submit">Отправить запрос</button>
+      </form>
+    </div>
+  </section>
+</main>
+<footer class="foot"><div class="wrap"><p>Версия материала: 11.11.2026</p><p>«По запросу» значит: этих данных нет в открытых материалах. Их можно запросить через форму. Мы не публикуем цифры без документа.</p></div></footer>
+</body>
+</html>

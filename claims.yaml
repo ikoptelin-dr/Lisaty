@@ -1,0 +1,274 @@
+# Реестр утверждений. Единственный источник фактов для лендинга и PDF.
+#
+# Правила:
+#  - status: "подтверждено" — только если source.file лежит в inputs/ и указана страница.
+#  - status: "нет документа" — утверждение на страницу не попадает. В черновой сборке
+#    на его месте выводится placeholder («по запросу»), в чистовой сборка падает.
+#  - origin — откуда взялась формулировка-кандидат (это НЕ источник).
+#  - gap — номер запроса к заводу в gaps.md.
+#
+# Состояние на 2026-11-11: папка inputs/ пуста. Подтверждённых утверждений нет.
+
+meta:
+  updated: "2026-11-11"
+  statuses: ["подтверждено", "нет документа"]
+  inputs_dir: inputs
+
+claims:
+
+  # ---------- Производитель ----------
+  - id: C-ORG-01
+    text: "Производитель — АО «Вектор-БиАльгам», р. п. Кольцово, Новосибирская область"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "Производитель — по карточке предприятия"
+    origin: "задание"
+    gap: G-01
+
+  # ---------- БифиЛиз ----------
+  - id: C-BIF-01
+    text: "«БифиЛиз» — лизат бифидобактерий"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "Название — по спецификации"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-02
+  - id: C-BIF-02
+    text: "6 штаммов"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-03
+  - id: C-BIF-03
+    text: "Bifidobacterium longum, B. bifidum, B. adolescentis"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-03
+  - id: C-BIF-04
+    text: "Подходит для: [категории продуктов по ТУ]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата — нужна область применения из ТУ"
+    gap: G-08
+
+  # ---------- ЛактоЛиз ----------
+  - id: C-LAK-01
+    text: "«ЛактоЛиз» — лизат молочнокислых бактерий"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "Название — по спецификации"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-02
+  - id: C-LAK-02
+    text: "6–8 штаммов"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания). Диапазон недопустим для спецификации: нужно точное число или перечень вариантов"
+    gap: G-03
+  - id: C-LAK-03
+    text: "Lactobacillus acidophilus, L. fermentum, L. bulgaricus, Streptococcus thermophilus"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания). Названия устаревшие, см. gaps.md G-04"
+    gap: G-04
+  - id: C-LAK-04
+    text: "Подходит для: [категории продуктов по ТУ]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-08
+
+  # ---------- ПропиоЛиз ----------
+  - id: C-PRO-01
+    text: "«ПропиоЛиз» — лизат пропионовокислых бактерий"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "Название — по спецификации"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-02
+  - id: C-PRO-02
+    text: "2 штамма"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-03
+  - id: C-PRO-03
+    text: "Propionibacterium freudenreichii subsp. shermanii"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода: «P. shermanii». Современное название уточнить, G-04"
+    gap: G-04
+  - id: C-PRO-04
+    text: "Подходит для: [категории продуктов по ТУ]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-08
+
+  # ---------- Общее для линейки ----------
+  - id: C-TECH-01
+    text: "Технология: ферментативный гидролиз клеточных стенок"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-05
+  - id: C-FORM-01
+    text: "Жидкость"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-06
+  - id: C-CARR-01
+    text: "Носитель — молочная сыворотка"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-06
+  - id: C-ALLERG-01
+    text: "Содержит молоко (аллерген, указывается на маркировке)"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "вывод из C-CARR-01; нужна декларация аллергенов завода"
+    gap: G-07
+  - id: C-PRES-01
+    text: "Вариант с консервантом (сорбиновая кислота) — по запросу"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания, не проверено)"
+    gap: G-06
+  - id: C-USE-01
+    text: "Назначение: пищевая промышленность и производство БАД"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "сайт завода (со слов задания). Нужна область применения из ТУ и СГР/декларации"
+    gap: G-08
+
+  # ---------- Только по документу (в задании прямо запрещены без него) ----------
+  - id: C-COMP-01
+    text: "Количественный состав: [показатели и нормы по спецификации]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по спецификации"
+    origin: "запрещено без документа (задание)"
+    gap: G-09
+  - id: C-INACT-01
+    text: "Отсутствие жизнеспособных клеток: [метод, предел обнаружения]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-10
+  - id: C-SAFE-01
+    text: "Показатели безопасности: [микробиология, токсичные элементы — по ТР ТС 021/2011]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нужен протокол испытаний / CoA"
+    gap: G-11
+  - id: C-STAB-01
+    text: "Сертификаты анализа последних партий"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-12
+  - id: C-SHELF-01
+    text: "Срок годности: [по ТУ]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-13
+  - id: C-STOR-01
+    text: "Хранение и перевозка: [температура, режим]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-13
+  - id: C-REG-01
+    text: "СГР / декларация ЕАЭС: [номер, дата, продукт]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-14
+  - id: C-CERT-01
+    text: "Система менеджмента безопасности: [стандарт, орган, область действия, срок]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-15
+  - id: C-FORMS-01
+    text: "Формы выпуска, в которые входит продукт: [по данным технолога]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-16
+  - id: C-DOSE-01
+    text: "Рекомендуемая норма ввода: [по данным технолога]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-17
+  - id: C-PACK-01
+    text: "Фасовка: [тара, объём]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-18
+  - id: C-MOQ-01
+    text: "Минимальная партия: [объём]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-19
+  - id: C-LEAD-01
+    text: "Срок отгрузки: [дней от заказа]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-19
+  - id: C-PRICE-01
+    text: "Цена: [за кг/л, условия]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-20
+  - id: C-SAMPLE-01
+    text: "Образец: [объём, срок отправки, стоимость]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "нет даже кандидата"
+    gap: G-21
+  - id: C-EXCL-01
+    text: "Условия работы с дистрибьюторами: [территория, эксклюзив, объёмы]"
+    source: { file: null, page: null }
+    status: "нет документа"
+    placeholder: "по запросу"
+    origin: "запрещено без документа (задание)"
+    gap: G-22

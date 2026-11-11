@@ -1,0 +1,17 @@
+{
+  "name": "lizaty-b2b",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build/build.mjs",
+    "build:draft": "node build/build.mjs --draft",
+    "check": "node build/check_numbers.mjs",
+    "lighthouse": "node build/lighthouse.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "4.1.0"
+  },
+  "devDependencies": {
+    "lighthouse": "12.6.1"
+  }
+}

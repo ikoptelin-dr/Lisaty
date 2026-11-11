@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Бактериальные лизаты — образец и спецификация</title>
+<style>@page{size:A4;margin:14mm 14mm 14mm 14mm}
+:root{--ink:#16191a;--muted:#4e5552;--line:#cfccc3;--accent:#1f4f43;--soft:#eef3f0;--pend-bg:#fbf6e6;--pend-line:#a8892e;--pend-ink:#5e4a0e}
+*{box-sizing:border-box}
+html,body{margin:0;background:#fff;color:var(--ink);font:9.6pt/1.42 "Liberation Sans","Helvetica Neue",Arial,sans-serif;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+h1,h2,h3{line-height:1.18;margin:0 0 2.2mm;break-after:avoid}
+h1{font-size:21pt;letter-spacing:-.01em;margin-bottom:3mm}
+h2{font-size:13pt;margin-top:5mm;color:var(--accent)}
+h3{font-size:10.5pt}
+p{margin:0 0 2mm}
+.page{break-after:page}
+.page:last-child{break-after:auto}
+.draft{text-align:center;font-size:8pt;font-weight:700;color:var(--pend-ink);background:var(--pend-bg);border:.6pt dashed var(--pend-line);border-radius:3pt;padding:1mm;margin-bottom:4mm}
+.ph{display:flex;justify-content:space-between;border-bottom:1.2pt solid var(--accent);padding-bottom:2mm;margin-bottom:6mm;font-size:8.5pt;color:var(--muted)}
+.kicker{color:var(--accent);font-weight:700;font-size:9pt;margin-bottom:1.5mm}
+.lead{font-size:11.5pt;color:var(--muted);max-width:150mm}
+.howto{font-size:8.5pt;color:var(--muted);border-left:2pt solid var(--pend-line);padding-left:3mm}
+.intro{color:var(--muted)}
+.pending{background:var(--pend-bg);color:var(--pend-ink);border:.6pt dashed var(--pend-line);border-radius:3pt;padding:0 1.4mm;white-space:nowrap;font-size:.94em}
+.fact{font-weight:600}
+
+.hero-facts{display:grid;grid-template-columns:repeat(3,1fr);gap:4mm;margin:4mm 0}
+.hero-facts div{border-top:.6pt solid var(--line);padding-top:1.5mm}
+.hero-facts dt{color:var(--muted);font-size:8.5pt}
+.hero-facts dd{margin:0}
+
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:3.5mm;margin:3mm 0 4mm}
+.card{border:.6pt solid var(--line);border-radius:3pt;padding:3.5mm;break-inside:avoid}
+.slot{font-size:7.5pt;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 1mm}
+.card-title{font-size:10.5pt}
+.rows{margin:0}
+.rows div{display:grid;grid-template-columns:24mm 1fr;gap:2mm;padding:1.5mm 0;border-top:.5pt solid var(--line)}
+.rows dt{color:var(--muted)}
+.rows dd{margin:0}
+.rows.common div{grid-template-columns:35mm 1fr}
+
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:7mm}
+.cols h2{margin-top:0}
+.qas{margin:2mm 0 0}
+.qa{border-top:.6pt solid var(--line);padding:2.4mm 0;break-inside:avoid}
+.qa dt{font-weight:700;margin-bottom:1mm}
+.qa dd{margin:0;color:var(--muted)}
+.qa dd p:last-child{margin-bottom:0}
+.vals{list-style:none;margin:1.2mm 0 0;padding:0;display:flex;flex-wrap:wrap;gap:1.5mm}
+
+.docs{width:100%;border-collapse:collapse;margin-top:2mm}
+.docs th,.docs td{text-align:left;padding:1.8mm 2.5mm;border-bottom:.5pt solid var(--line);vertical-align:top}
+.docs thead th{font-size:8pt;color:var(--muted);background:var(--soft);border-bottom:.8pt solid var(--accent)}
+.docs tbody th{font-weight:400;width:62mm}
+
+.limits{list-style:none;margin:2mm 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:3mm 6mm}
+.limits>li{border-left:2pt solid var(--pend-line);padding-left:3mm;break-inside:avoid}
+.limits h3{margin-bottom:1mm}
+.limits p{color:var(--muted);margin-bottom:1mm}
+
+.req{background:var(--soft);border-radius:3pt;padding:4mm 5mm;margin-top:5mm;break-inside:avoid}
+.req h2{margin-top:0}
+.steps{margin:0 0 2mm;padding-left:4mm;list-style:'— '}
+.steps li{margin-bottom:1mm}
+.contacts{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:1mm 6mm;font-weight:600}
+a{color:inherit;text-decoration:none}
+</style>
+</head>
+<body>
+<section class="page p1">
+  <div class="draft" role="note">Черновик. Документы производителя ещё не получены. Не для рассылки.</div>
+  <header class="ph"><span class="maker"><span class="pending" data-claim="C-ORG-01" data-gap="G-01">Производитель — по карточке предприятия</span></span><span>Версия материала: 11.11.2026</span></header>
+  <p class="kicker">Сырьё для БАД и пищевых производств</p>
+  <h1>Бактериальные лизаты для производителей БАД и дистрибьюторов</h1>
+  <p class="lead">Запросите образец и спецификацию. Здесь — только то, что подтверждено документами производителя.</p>
+  <dl class="hero-facts"><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Носитель</dt><dd><span class="pending" data-claim="C-CARR-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Назначение</dt><dd><span class="pending" data-claim="C-USE-01" data-gap="G-08">по запросу</span></dd></div></dl>
+  <p class="howto">«По запросу» значит: этих данных нет в открытых материалах. Их можно запросить через форму. Мы не публикуем цифры без документа.</p>
+  <h2>Продукты</h2>
+  <p class="intro">Сравнивайте по спецификации: виды бактерий, число штаммов, носитель, показатели безопасности.</p>
+  <div class="cards">
+      <article class="card">
+        <p class="slot">Продукт А</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-BIF-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-BIF-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-BIF-03" data-gap="G-03">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-BIF-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article>
+      <article class="card">
+        <p class="slot">Продукт Б</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-LAK-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-LAK-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-LAK-03" data-gap="G-04">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-LAK-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article>
+      <article class="card">
+        <p class="slot">Продукт В</p>
+        <h3 class="card-title"><span class="pending" data-claim="C-PRO-01" data-gap="G-02">Название — по спецификации</span></h3>
+        <dl class="rows"><div><dt>Число штаммов</dt><dd><span class="pending" data-claim="C-PRO-02" data-gap="G-03">по запросу</span></dd></div><div><dt>Виды</dt><dd><span class="pending" data-claim="C-PRO-03" data-gap="G-04">по запросу</span></dd></div><div><dt>Форма</dt><dd><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Подходит для</dt><dd><span class="pending" data-claim="C-PRO-04" data-gap="G-08">по запросу</span></dd></div></dl>
+      </article></div>
+  <dl class="rows common"><div><dt>Технология</dt><dd><span class="pending" data-claim="C-TECH-01" data-gap="G-05">по запросу</span></dd></div><div><dt>Консервант</dt><dd><span class="pending" data-claim="C-PRES-01" data-gap="G-06">по запросу</span></dd></div><div><dt>Состав и нормы</dt><dd><span class="pending" data-claim="C-COMP-01" data-gap="G-09">по спецификации</span></dd></div></dl>
+</section>
+<section class="page p2">
+  <div class="draft" role="note">Черновик. Документы производителя ещё не получены. Не для рассылки.</div>
+  <div class="cols">
+    <div>
+      <h2>Производителям и владельцам брендов БАД</h2>
+      <p class="intro">Ответы на вопросы, которые технолог задаёт до заказа образца.</p>
+      <dl class="qas">
+      <div class="qa"><dt>Чем это сырьё отличит ваш продукт</dt><dd><p>Решать вам по спецификации: виды бактерий и число штаммов в составе. Мы не сравниваем себя с другими поставщиками.</p><ul class="vals"><li><span class="pending" data-claim="C-BIF-03" data-gap="G-03">по запросу</span></li><li><span class="pending" data-claim="C-LAK-03" data-gap="G-04">по запросу</span></li><li><span class="pending" data-claim="C-PRO-03" data-gap="G-04">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Что можно писать на этикетке</dt><dd><p>Формулировки о пользе определяют документы о регистрации вашего продукта и требования ТР ТС 021/2011 и ТР ТС 022/2011. Мы таких формулировок не предлагаем.</p></dd></div>
+      <div class="qa"><dt>В какие формы выпуска входит</dt><dd><p>Если сырьё жидкое, его проще вводить в жидкие формы. Для твёрдых форм нужен отдельный этап у вас — проверьте с технологом до заказа.</p><ul class="vals"><li><span class="pending" data-claim="C-FORMS-01" data-gap="G-16">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Документы для регистрации вашего продукта</dt><dd><p>Запросите спецификацию, документ о регистрации сырья и сертификаты анализа партий.</p><ul class="vals"><li><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></li><li><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Аллерген на маркировке</dt><dd><p>Состав носителя определяет, что вы укажете на этикетке.</p><ul class="vals"><li><span class="pending" data-claim="C-ALLERG-01" data-gap="G-07">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Цена на дозу</dt><dd><p>Цена на дозу считается из цены за единицу сырья и нормы ввода. Обе величины пришлём по запросу.</p><ul class="vals"><li><span class="pending" data-claim="C-DOSE-01" data-gap="G-17">по запросу</span></li><li><span class="pending" data-claim="C-PRICE-01" data-gap="G-20">по запросу</span></li></ul></dd></div>
+    </dl>
+    </div>
+    <div>
+      <h2>Дистрибьюторам пищевого и БАД-сырья</h2>
+      <p class="intro">Ответы на вопросы, которые задают до включения сырья в ассортимент.</p>
+      <dl class="qas">
+      <div class="qa"><dt>Качество от партии к партии</dt><dd><p>Запросите сертификаты анализа последних партий и сравните их сами.</p><ul class="vals"><li><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Пакет документов для клиентов</dt><dd><p>Спецификация, документ о регистрации, сертификаты системы менеджмента с областью действия.</p><ul class="vals"><li><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></li><li><span class="pending" data-claim="C-CERT-01" data-gap="G-15">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Минимальная партия и сроки</dt><dd><ul class="vals"><li><span class="pending" data-claim="C-MOQ-01" data-gap="G-19">по запросу</span></li><li><span class="pending" data-claim="C-LEAD-01" data-gap="G-19">по запросу</span></li><li><span class="pending" data-claim="C-PACK-01" data-gap="G-18">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Хранение и перевозка</dt><dd><p>Режим хранения влияет на склад и транспорт. Проверьте его до первой закупки.</p><ul class="vals"><li><span class="pending" data-claim="C-STOR-01" data-gap="G-13">по запросу</span></li><li><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></li></ul></dd></div>
+      <div class="qa"><dt>Условия работы и эксклюзив</dt><dd><ul class="vals"><li><span class="pending" data-claim="C-EXCL-01" data-gap="G-22">по запросу</span></li></ul></dd></div>
+    </dl>
+    </div>
+  </div>
+</section>
+<section class="page p3">
+  <div class="draft" role="note">Черновик. Документы производителя ещё не получены. Не для рассылки.</div>
+  <h2>Документы и качество</h2>
+  <p class="intro">В таблице — только документы, которые есть у нас на руках. Остальные запрашиваем у производителя.</p>
+  <table class="docs"><thead><tr><th scope="col">Документ</th><th scope="col">Что известно</th></tr></thead><tbody><tr><th scope="row">Спецификация</th><td><span class="pending" data-claim="C-COMP-01" data-gap="G-09">по спецификации</span></td></tr><tr><th scope="row">Отсутствие живых клеток</th><td><span class="pending" data-claim="C-INACT-01" data-gap="G-10">по запросу</span></td></tr><tr><th scope="row">Безопасность</th><td><span class="pending" data-claim="C-SAFE-01" data-gap="G-11">по запросу</span></td></tr><tr><th scope="row">Сертификаты анализа партий</th><td><span class="pending" data-claim="C-STAB-01" data-gap="G-12">по запросу</span></td></tr><tr><th scope="row">Регистрация сырья</th><td><span class="pending" data-claim="C-REG-01" data-gap="G-14">по запросу</span></td></tr><tr><th scope="row">Система менеджмента</th><td><span class="pending" data-claim="C-CERT-01" data-gap="G-15">по запросу</span></td></tr><tr><th scope="row">Срок годности</th><td><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></td></tr></tbody></table>
+  <h2>Ограничения — до заказа</h2>
+  <p class="intro">Это стоит проверить заранее, чтобы образец не оказался лишним.</p>
+  <ul class="limits"><li><h3>Форма выпуска</h3><p>Если сырьё жидкое, для капсул и таблеток понадобится сорбция или сушка на вашей стороне.</p><ul class="vals"><li><span class="pending" data-claim="C-FORM-01" data-gap="G-06">по запросу</span></li></ul></li><li><h3>Молочный носитель</h3><p>Если носитель молочный, укажите молоко как аллерген. Такое сырьё не подойдёт для линеек без молока и веганских.</p><ul class="vals"><li><span class="pending" data-claim="C-CARR-01" data-gap="G-06">по запросу</span></li><li><span class="pending" data-claim="C-ALLERG-01" data-gap="G-07">по запросу</span></li></ul></li><li><h3>Хранение</h3><p>Сверьте срок годности и режим хранения со своим циклом производства и складом.</p><ul class="vals"><li><span class="pending" data-claim="C-STOR-01" data-gap="G-13">по запросу</span></li><li><span class="pending" data-claim="C-SHELF-01" data-gap="G-13">по запросу</span></li></ul></li><li><h3>Для каких задач не подходит</h3><p>Лизат — это разрушенные клетки бактерий. Если вашему продукту нужны живые культуры, например закваска, лизат эту задачу не решает. Это сырьё, а не готовый продукт.</p></li></ul>
+  <div class="req">
+    <h2>Запросить образец и спецификацию</h2>
+    <ul class="steps"><li>Напишите нам на почту или позвоните.</li><li>Укажите продукт, форму выпуска вашего продукта и что прислать: образец, спецификацию, сертификаты анализа, документы о регистрации, коммерческое предложение.</li><li>Пришлём то, что есть по вашему списку. Если документа нет — так и напишем.</li></ul>
+    <ul class="contacts">
+        <li>[Компания-отправитель]</li>
+        <li>[Имя, должность]</li>
+        <li>[электронная почта]</li>
+        <li>[телефон]</li>
+      </ul>
+  </div>
+</section>
+</body>
+</html>
