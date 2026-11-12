@@ -21,6 +21,8 @@ claims:
     text: "Производитель — АО «Вектор-БиАльгам», р. п. Кольцово, Новосибирская область"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "Производитель — по карточке предприятия"
     origin: "задание"
     gap: G-01
@@ -30,6 +32,8 @@ claims:
     text: "«БифиЛиз» — лизат бифидобактерий"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "Название — по спецификации"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-02
@@ -37,6 +41,8 @@ claims:
     text: "6 штаммов"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-03
@@ -44,6 +50,8 @@ claims:
     text: "Bifidobacterium longum, B. bifidum, B. adolescentis"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-03
@@ -51,6 +59,8 @@ claims:
     text: "Подходит для: [категории продуктов по ТУ]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата — нужна область применения из ТУ"
     gap: G-08
@@ -60,6 +70,8 @@ claims:
     text: "«ЛактоЛиз» — лизат молочнокислых бактерий"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "Название — по спецификации"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-02
@@ -67,6 +79,8 @@ claims:
     text: "6–8 штаммов"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания). Диапазон недопустим для спецификации: нужно точное число или перечень вариантов"
     gap: G-03
@@ -74,6 +88,8 @@ claims:
     text: "Lactobacillus acidophilus, L. fermentum, L. bulgaricus, Streptococcus thermophilus"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания). Названия устаревшие, см. gaps.md G-04"
     gap: G-04
@@ -81,6 +97,8 @@ claims:
     text: "Подходит для: [категории продуктов по ТУ]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-08
@@ -90,6 +108,8 @@ claims:
     text: "«ПропиоЛиз» — лизат пропионовокислых бактерий"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "Название — по спецификации"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-02
@@ -97,6 +117,8 @@ claims:
     text: "2 штамма"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-03
@@ -104,6 +126,8 @@ claims:
     text: "Propionibacterium freudenreichii subsp. shermanii"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода: «P. shermanii». Современное название уточнить, G-04"
     gap: G-04
@@ -111,6 +135,8 @@ claims:
     text: "Подходит для: [категории продуктов по ТУ]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-08
@@ -120,6 +146,8 @@ claims:
     text: "Технология: ферментативный гидролиз клеточных стенок"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-05
@@ -127,6 +155,8 @@ claims:
     text: "Жидкость"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-06
@@ -134,6 +164,8 @@ claims:
     text: "Носитель — молочная сыворотка"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-06
@@ -141,6 +173,8 @@ claims:
     text: "Содержит молоко (аллерген, указывается на маркировке)"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "вывод из C-CARR-01; нужна декларация аллергенов завода"
     gap: G-07
@@ -148,6 +182,8 @@ claims:
     text: "Вариант с консервантом (сорбиновая кислота) — по запросу"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания, не проверено)"
     gap: G-06
@@ -155,6 +191,8 @@ claims:
     text: "Назначение: пищевая промышленность и производство БАД"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "сайт завода (со слов задания). Нужна область применения из ТУ и СГР/декларации"
     gap: G-08
@@ -164,6 +202,8 @@ claims:
     text: "Количественный состав: [показатели и нормы по спецификации]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по спецификации"
     origin: "запрещено без документа (задание)"
     gap: G-09
@@ -171,6 +211,8 @@ claims:
     text: "Отсутствие жизнеспособных клеток: [метод, предел обнаружения]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-10
@@ -178,6 +220,8 @@ claims:
     text: "Показатели безопасности: [микробиология, токсичные элементы — по ТР ТС 021/2011]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нужен протокол испытаний / CoA"
     gap: G-11
@@ -185,6 +229,8 @@ claims:
     text: "Сертификаты анализа последних партий"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-12
@@ -192,6 +238,8 @@ claims:
     text: "Срок годности: [по ТУ]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-13
@@ -199,6 +247,8 @@ claims:
     text: "Хранение и перевозка: [температура, режим]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-13
@@ -206,6 +256,8 @@ claims:
     text: "СГР / декларация ЕАЭС: [номер, дата, продукт]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-14
@@ -213,6 +265,8 @@ claims:
     text: "Система менеджмента безопасности: [стандарт, орган, область действия, срок]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-15
@@ -220,6 +274,8 @@ claims:
     text: "Формы выпуска, в которые входит продукт: [по данным технолога]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-16
@@ -227,6 +283,8 @@ claims:
     text: "Рекомендуемая норма ввода: [по данным технолога]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-17
@@ -234,6 +292,8 @@ claims:
     text: "Фасовка: [тара, объём]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-18
@@ -241,6 +301,8 @@ claims:
     text: "Минимальная партия: [объём]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-19
@@ -248,6 +310,8 @@ claims:
     text: "Срок отгрузки: [дней от заказа]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-19
@@ -255,6 +319,8 @@ claims:
     text: "Цена: [за кг/л, условия]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-20
@@ -262,6 +328,8 @@ claims:
     text: "Образец: [объём, срок отправки, стоимость]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "нет даже кандидата"
     gap: G-21
@@ -269,6 +337,362 @@ claims:
     text: "Условия работы с дистрибьюторами: [территория, эксклюзив, объёмы]"
     source: { file: null, page: null }
     status: "нет документа"
+    data_class: plant-document
+    evidence: "нет данных"
     placeholder: "по запросу"
     origin: "запрещено без документа (задание)"
     gap: G-22
+
+  # =====================================================================
+  # ДЕМО (12.11.2026). Поля:
+  #   data_class: literature | plant-document | synthetic
+  #   evidence:   in vitro | животные | человек | нет данных
+  #               («нет данных» — утверждение не о действии: определение, таксономия, статус, документ)
+  #   text: { ru, en }   — как показывается на странице
+  #   source.quote       — дословный фрагмент оригинала; сборка ищет его в source.file
+  #   ref                — id ссылки в demo/content.yaml → references (DOI)
+  #   disclosure         — предложение по раскрытию для директора: О / З / NDA
+  # Чистовая сборка (--release) падает на любом synthetic.
+  # =====================================================================
+
+  # ---------- Литература ----------
+  - id: L-ISAPP-DEF
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "определение консенсусной группы, не данные о действии"
+    status: "подтверждено"
+    ref: REF-ISAPP
+    text:
+      ru: "ISAPP (2021): постбиотик — «препарат неживых микроорганизмов и/или их компонентов, который приносит пользу здоровью хозяина»"
+      en: "ISAPP (2021): a postbiotic is a “preparation of inanimate microorganisms and/or their components that confers a health benefit on the host”"
+    source: { file: "literature/abstracts/10.1038_s41575-021-00440-6.txt", page: "аннотация", quote: "preparation of inanimate microorganisms and/or their components that confers a health benefit on the host" }
+  - id: L-ISAPP-REQ
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "требование определения"
+    status: "подтверждено"
+    ref: REF-ISAPP
+    text:
+      ru: "По ISAPP, такой препарат должен содержать инактивированные клетки или их компоненты — с метаболитами или без них"
+      en: "Under ISAPP, such a preparation must contain inactivated microbial cells or cell components, with or without metabolites"
+    source: { file: "literature/abstracts/10.1038_s41575-021-00440-6.txt", page: "аннотация", quote: "must contain inactivated microbial cells or cell components, with or without metabolites" }
+  - id: L-DISPUTE
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "письмо в редакцию; аннотации нет, проверено название"
+    status: "подтверждено"
+    ref: REF-DISPUTE
+    text:
+      ru: "Определение ISAPP оспаривается: группа авторов опубликовала возражение «Postbiotics — when simplification fails to clarify»"
+      en: "The ISAPP definition is contested: a group of authors published the response “Postbiotics — when simplification fails to clarify”"
+    source: { file: "literature/abstracts/10.1038_s41575-021-00521-6.txt", page: "заголовок", quote: "Postbiotics - when simplification fails to clarify" }
+  - id: L-PF-SCFA
+    data_class: literature
+    evidence: "in vitro"
+    status: "подтверждено"
+    ref: REF-DEPTULA
+    text:
+      ru: "P. freudenreichii образует короткоцепочечные жирные кислоты (пропионовую и уксусную) и витамин B12"
+      en: "P. freudenreichii produces short-chain fatty acids (propionic and acetic) and vitamin B12"
+    source: { file: "literature/abstracts/10.3389_fmicb.2017.00368.txt", page: "аннотация", quote: "producer of short chain fatty acids (propionic and acetic acids) as well as vitamin B12" }
+  - id: L-PF-B12ACT
+    data_class: literature
+    evidence: "in vitro"
+    status: "подтверждено"
+    ref: REF-DEPTULA
+    text:
+      ru: "Вид способен синтезировать биологически активную форму витамина B12"
+      en: "The species can synthesise the biologically active form of vitamin B12"
+    source: { file: "literature/abstracts/10.3389_fmicb.2017.00368.txt", page: "аннотация", quote: "able to synthesize biologically active form of the vitamin" }
+  - id: L-B12-METHOD
+    data_class: literature
+    evidence: "in vitro"
+    evidence_note: "ферментированные зерновые матрицы"
+    status: "подтверждено"
+    ref: REF-CHAMLAGAIN
+    text:
+      ru: "Микробиологический метод дал результаты на 20–40 % выше UHPLC — из-за неактивных для человека аналогов (псевдовитамин B12)"
+      en: "The microbiological assay read 20–40% higher than UHPLC, owing to analogues inactive in humans (pseudovitamin B12)"
+    source: { file: "literature/abstracts/10.1002_fsn3.528.txt", page: "аннотация", quote: "MBA gave ca. 20%-40% higher results" }
+  - id: L-DHNA
+    data_class: literature
+    evidence: "in vitro"
+    evidence_note: "штамм ET-3, культуральная жидкость"
+    status: "подтверждено"
+    ref: REF-ISAWA
+    text:
+      ru: "Бифидогенный стимулятор роста из культуральной жидкости штамма ET-3 идентифицирован как 1,4-дигидрокси-2-нафтойная кислота (DHNA); около 10 мг/л"
+      en: "The bifidogenic growth stimulator in the culture broth of strain ET-3 was identified as 1,4-dihydroxy-2-naphthoic acid (DHNA); about 10 mg/L"
+    source: { file: "literature/abstracts/10.1271_bbb.66.679.txt", page: "аннотация", quote: "Approximately 10 mg/L of DHNA" }
+  - id: L-PF-PROP
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "обзор физиологии"
+    status: "подтверждено"
+    ref: REF-THIERRY
+    text:
+      ru: "Главный конечный продукт брожения — пропионовая кислота (цикл Вуда — Веркмана)"
+      en: "Propionic acid is the main fermentation end-product (Wood–Werkman cycle)"
+    source: { file: "literature/abstracts/10.1016_j.ijfoodmicro.2011.04.026.txt", page: "аннотация", quote: "formation of propionic acid as main fermentation end-product" }
+  - id: L-PF-STRAIN
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "обзор"
+    status: "подтверждено"
+    ref: REF-THIERRY
+    text:
+      ru: "Многие свойства вида сильно зависят от штамма"
+      en: "Many properties of the species are highly strain-dependent"
+    source: { file: "literature/abstracts/10.1016_j.ijfoodmicro.2011.04.026.txt", page: "аннотация", quote: "are highly strain-dependent" }
+  - id: L-PF-SUBSP
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "геномная таксономия"
+    status: "подтверждено"
+    ref: REF-SCHOLZ
+    text:
+      ru: "По геномным данным деление P. freudenreichii на подвиды (в том числе shermanii) не обосновано"
+      en: "Genome data show that splitting P. freudenreichii into subspecies (including shermanii) is not warranted"
+    source: { file: "literature/abstracts/10.1099_ijsem.0.001367.txt", page: "аннотация", quote: "subdivision of Propionibacterium freudenreichii into subspecies is not warranted" }
+  - id: L-LACTO-TAX
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "таксономия"
+    status: "подтверждено"
+    ref: REF-ZHENG
+    text:
+      ru: "В 2020 году род Lactobacillus разделён на 25 родов; L. fermentum теперь Limosilactobacillus fermentum"
+      en: "In 2020 the genus Lactobacillus was split into 25 genera; L. fermentum is now Limosilactobacillus fermentum"
+    source: { file: "literature/abstracts/10.1099_ijsem.0.004107.txt", page: "аннотация", quote: "25 genera including the emended genus Lactobacillus" }
+  - id: L-QPS
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "регуляторная оценка безопасности вида (ЕС)"
+    status: "подтверждено"
+    ref: REF-QPS
+    text:
+      ru: "Все виды из состава лизатов, включая Propionibacterium freudenreichii, есть в списке QPS EFSA (17.09.2026) — при условии, что у штаммов нет приобретённых генов устойчивости к клинически значимым антимикробным препаратам"
+      en: "Every species in the lysates, including Propionibacterium freudenreichii, is on EFSA’s QPS list (17.09.2026) — on condition that the strains carry no acquired resistance genes to clinically relevant antimicrobials"
+    source: { file: "text/qps_list_PS24.txt", page: "лист «QPS List»", quote: "Propionibacterium | Propionibacterium freudenreichii | The strains should not harbour any acquired antimicrobial resistance genes to clinically relevant antimicrobials." }
+  - id: L-CAV-SEL
+    data_class: literature
+    evidence: "in vitro"
+    evidence_note: "E. coli, не пробиотические бактерии"
+    status: "подтверждено"
+    ref: REF-BALA
+    text:
+      ru: "Гидродинамическая кавитация разрушает клетки частично и избирательно: у E. coli высвободилось 48 % растворимого белка и 88 % периплазматического фермента от максимума"
+      en: "Hydrodynamic cavitation disrupts cells partially and selectively: in E. coli it released 48% of soluble protein and 88% of a periplasmic enzyme relative to the maximum"
+    source: { file: "literature/abstracts/10.1021_bp0502173.txt", page: "аннотация", quote: "48% of the total soluble protein, 88% of acid phosphatase" }
+  - id: L-CAV-MEAS
+    data_class: literature
+    evidence: "in vitro"
+    status: "подтверждено"
+    ref: REF-BALA
+    text:
+      ru: "Степень разрушения измеряют по растворимому белку, ферментам-маркерам и электрофорезу (SDS-PAGE)"
+      en: "Disruption is measured by soluble protein, marker enzymes and SDS-PAGE"
+    source: { file: "literature/abstracts/10.1021_bp0502173.txt", page: "аннотация", quote: "supported by SDS-PAGE analysis" }
+  - id: L-CAV-MECH
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "обзор"
+    status: "подтверждено"
+    ref: REF-ZUPANC
+    text:
+      ru: "Механизм разрушения клеток пузырьками кавитации до конца не объяснён"
+      en: "How cavitation bubbles destroy cells is still not fully explained"
+    source: { file: "literature/abstracts/10.1016_j.ultsonch.2019.05.009.txt", page: "аннотация", quote: "What precisely are the mechanisms how bubbles can" }
+  - id: L-ENZ
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "обзор"
+    status: "подтверждено"
+    ref: REF-SALAZAR
+    text:
+      ru: "Литические ферменты клеточной стенки (классический — лизоцим) применяют для выделения внутриклеточных продуктов бактерий и дрожжей"
+      en: "Cell-wall lytic enzymes (lysozyme being the classic one) are used to recover intracellular products from bacteria and yeast"
+    source: { file: "literature/abstracts/10.1007_s10529-007-9345-2.txt", page: "аннотация", quote: "recovering of intracellular products from yeast or bacteria" }
+  - id: L-CHOICE
+    data_class: literature
+    evidence: "нет данных"
+    evidence_note: "обзор"
+    status: "подтверждено"
+    ref: REF-GOMES
+    text:
+      ru: "Выбор способа разрушения зависит от состава клеточной стенки, природы целевых молекул, чистоты, масштабируемости и затрат энергии"
+      en: "The choice of disruption method depends on cell-wall composition, the target molecules, purity, scalability and energy input"
+    source: { file: "literature/abstracts/10.1080_10826068.2020.1728696.txt", page: "аннотация", quote: "cell wall composition, nature of biomolecule, purity degree, scalability, and energy input" }
+
+  # ---------- Документы и публичные заявления завода ----------
+  - id: P-ORIGIN
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Компания сформировалась на базе ГНЦ ВБ «Вектор» в 1996 году"
+      en: "The company was formed in 1996 on the basis of the State Research Center VECTOR"
+    source: { file: "text/about_o-kompanii.txt", page: "сайт, «О компании»", quote: "сформировавшийся на базе ГНЦ ВБ «Вектор» в 1996 году" }
+  - id: P-PATENT-ORIGIN
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "В патентах 2001 года патентообладатель — дочернее предприятие «Вектор-Биальгам» ГНЦ ВБ «Вектор»"
+      en: "In 2001 patents the holder is listed as the VECTOR subsidiary “Vector-BiAlgam”"
+    source: { file: "text/RU2165454C1.txt", page: "патентообладатель", quote: "Дочернее Государственное Унитарное Экспериментально-Производственное Предприятие" }
+  - id: P-DEF
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Продукт распада клеточных стенок бифидобактерий, лактобактерий или пропионовокислых бактерий и продукты их метаболизма в молочной сыворотке"
+      en: "Cell-wall breakdown products of bifidobacteria, lactobacilli or propionibacteria, with their metabolites, in milk whey"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "а также продукты их метаболизма в молочной сыворотке" }
+  - id: P-TECH
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Этот способ использует завод"
+      en: "This is the plant’s method"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "путем ферментативного гидролиза" }
+  - id: P-BIF-SP
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "6 штаммов: Bifidobacterium longum, B. bifidum, B. adolescentis"
+      en: "6 strains: Bifidobacterium longum, B. bifidum, B. adolescentis"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "Состоит из 6 штаммов бифидобактерий видов: Bifidobacterium longum, Bifidobacterium bifidum, Bifidobacterium adolescentis." }
+  - id: P-LAK-SP
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "6–8 штаммов: L. acidophilus, L. fermentum, L. bulgaricus, S. thermophilus (названия — как на сайте)"
+      en: "6–8 strains: L. acidophilus, L. fermentum, L. bulgaricus, S. thermophilus (names as on the plant website)"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "Содержит от 6 до 8 штаммов лактобактерий видов: Lactobacillus acidophilus, Lactobacillus fermentum, Lactobacillus bulgaricus, Str. thermophilus." }
+  - id: P-PRO-SP
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "2 штамма «Propionibacterium shermani» (написание сайта; современное название — P. freudenreichii)"
+      en: "2 strains of “Propionibacterium shermani” (website spelling; current name P. freudenreichii)"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "Содержит 2 штамма пропионовокислых бактерий вида Propionibacterium shermani." }
+  - id: P-COMP
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Молочная сыворотка, гидролизат клеточной стенки бактерий, моноглицериды"
+      en: "Milk whey, bacterial cell-wall hydrolysate, monoglycerides"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "Состав: молочная сыворотка, гидролизат клеточной стенки бифидобактерий, лактобактерий или молочнокислых бактерий, моноглицериды." }
+  - id: P-SORBIC
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Сорбиновая кислота — по желанию заказчика"
+      en: "Sorbic acid — at the customer’s option"
+    source: { file: "text/ingredients_lizaty.txt", page: "сайт, «Лизаты»", quote: "может использоваться консервант — сорбиновая кислота" }
+  - id: P-YEAR
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Лизаты созданы в 2009 году"
+      en: "The lysates were developed in 2009"
+    source: { file: "text/lizaty_lizaty-v-badakh-i-preparatakh.txt", page: "сайт, «Лизаты в БАДах»", quote: "В 2009 году, на основе накопленного опыта, мы создали лизаты" }
+  - id: P-DOSE
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Норма ввода в пищевые продукты — 0,1–5 % от объёма (по данным сайта)"
+      en: "Inclusion rate in foods — 0.1–5% of volume (per the plant website)"
+    source: { file: "text/lizaty_lizaty-v-produktakh-pitaniya.txt", page: "сайт, «Лизаты в продуктах питания»", quote: "ввод лизатов составляет 0,1-5% от общего объема" }
+  - id: P-CATEGORY
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Сырьё продовольственное для изготовления БАД и пищевой продукции (декларация ЕАЭС)"
+      en: "Food raw material for dietary supplements and foods (EAEU declaration)"
+    source: { file: "text/decl_lizaty_2019_transcription.txt", page: "расшифровка, «заявляет что»", quote: "Сырьё продовольственное (пищевое) для изготовления биологически активных добавок к пище, пищевой продукции" }
+  - id: P-STORAGE
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "О"
+    text:
+      ru: "Не выше +25 °C; срок годности 12 месяцев в невскрытой упаковке (декларация 2019 г.)"
+      en: "No more than +25 °C; shelf life 12 months unopened (2019 declaration)"
+    source: { file: "text/decl_lizaty_2019_transcription.txt", page: "расшифровка, «Дополнительная информация»", quote: "Срок годности -12 месяцев от даты изготовления в невскрытой заводской упаковке." }
+  - id: P-DECL-VALID
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "З"
+    text:
+      ru: "Декларация ЕАЭС на сайте действовала по 19.02.2022 — нужна действующая"
+      en: "The EAEU declaration on the website was valid until 19.02.2022 — a current one is needed"
+    source: { file: "text/decl_lizaty_2019_transcription.txt", page: "расшифровка", quote: "действительна с даты регистрации по 19.02.2022 включительно" }
+  - id: P-GMP-VALID
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "З"
+    text:
+      ru: "Сертификат SGS (GMP по Codex) действовал до 14.05.2024; в области — БАД, закваски и кисломолочные продукты, лизаты не названы"
+      en: "The SGS certificate (Codex GMP) was valid until 14.05.2024; its scope names supplements, starters and fermented milk products, not lysates"
+    source: { file: "text/gmp_probiotiki.txt", page: "сертификат", quote: "Настоящий сертификат действителен с 15 мая 2019 г. по 14 мая 2024 г." }
+  - id: P-SITE-MED
+    data_class: plant-document
+    evidence: "нет данных"
+    status: "подтверждено"
+    disclosure: "З"
+    text:
+      ru: "На сайте лизаты названы иммуностимуляторами и дана дозировка для детей — для пищевого сырья это недопустимо"
+      en: "The website calls the lysates immunostimulants and gives a dose for children — not acceptable for a food raw material"
+    source: { file: "text/lizaty_lizaty-v-badakh-i-preparatakh.txt", page: "сайт, «Лизаты в БАДах»", quote: "Детям — по 5 капель на 1 прием 3 раза в день, курс приема 21 день." }
+
+  # ---------- Синтетика (демо) ----------
+  - { id: S-DM-BIF, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "6,0–8,0 %", en: "6.0–8.0%" } }
+  - { id: S-DM-LAK, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "5,5–7,5 %", en: "5.5–7.5%" } }
+  - { id: S-DM-PRO, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "6,5–8,5 %", en: "6.5–8.5%" } }
+  - { id: S-PH-BIF, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "4,6–5,4", en: "4.6–5.4" } }
+  - { id: S-PH-LAK, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "4,2–5,0", en: "4.2–5.0" } }
+  - { id: S-PH-PRO, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "5,0–5,8", en: "5.0–5.8" } }
+  - { id: S-PROT, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "не менее 0,8 %", en: "at least 0.8%" } }
+  - { id: S-VIAB, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "не обнаружены в 1 г", en: "not detected in 1 g" } }
+  - { id: S-B12-PRO, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "1,5–3,0 мкг/100 г (UHPLC)", en: "1.5–3.0 µg/100 g (UHPLC)" } }
+  - { id: S-MICRO-TAMC, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "не более 1·10³ КОЕ/г", en: "≤ 1·10³ CFU/g" } }
+  - { id: S-MICRO-COLI, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "не допускаются в 0,1 г", en: "absent in 0.1 g" } }
+  - { id: S-MICRO-YM, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "не более 50 КОЕ/г", en: "≤ 50 CFU/g" } }
+  - { id: S-COA-1, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "6,8 % · pH 5,3", en: "6.8% · pH 5.3" } }
+  - { id: S-COA-2, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "7,1 % · pH 5,4", en: "7.1% · pH 5.4" } }
+  - { id: S-COA-3, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "6,9 % · pH 5,2", en: "6.9% · pH 5.2" } }
+  - { id: S-MOQ, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "20 кг", en: "20 kg" } }
+  - { id: S-LEAD, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "14 рабочих дней", en: "14 working days" } }
+  - { id: S-PACK, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "канистры 5 и 20 л", en: "5 L and 20 L canisters" } }
+  - { id: S-SAMPLE, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "100 мл с CoA партии", en: "100 mL with batch CoA" } }
+  - { id: S-CAV-TYPE, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "лизат, кавитационная обработка", en: "lysate, cavitation-treated" } }
+  - { id: S-CAV-BASE, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "лактобактерии, 4 штамма", en: "lactobacilli, 4 strains" } }
+  - { id: S-PROT-TYPE, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "протеолитический гидролизат биомассы", en: "proteolytic biomass hydrolysate" } }
+  - { id: S-PROT-PEP, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "пептиды до 5 кДа — не менее 60 %", en: "peptides under 5 kDa — at least 60%" } }
+  - { id: S-FER-TYPE, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "ферментативный лизат, концентрат", en: "enzymatic lysate, concentrate" } }
+  - { id: S-FER-DM, data_class: synthetic, evidence: "нет данных", status: "нет документа", text: { ru: "сухие вещества 12–15 %", en: "dry matter 12–15%" } }

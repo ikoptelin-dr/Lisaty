@@ -1,6 +1,6 @@
 {
   "mode": "draft",
-  "built": "2026-11-11T09:31:17.678Z",
+  "built": "2026-11-12T15:41:52.951Z",
   "claims_used": 34,
   "confirmed": 0,
   "pending_rendered_as_placeholder": [
@@ -39,5 +39,5 @@
     "C-INACT-01",
     "C-SAFE-01"
   ],
-  "pdf_pages": 3
+  "pdf_pages": null
 }

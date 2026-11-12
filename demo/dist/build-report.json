@@ -1,0 +1,9 @@
+{
+  "mode": "demo",
+  "claims_used": 55,
+  "by_class": {
+    "synthetic": 25,
+    "plant-document": 13,
+    "literature": 17
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "checked": "2026-11-12T15:52:40.316Z",
+  "pages": {
+    "index.html": {
+      "axe": {
+        "390": [],
+        "1440": []
+      },
+      "digits_in_text": 286,
+      "unmarked": [],
+      "synthetic_spans": 35,
+      "synthetic_without_S": []
+    },
+    "en.html": {
+      "axe": {
+        "390": [],
+        "1440": []
+      },
+      "digits_in_text": 286,
+      "unmarked": [],
+      "synthetic_spans": 35,
+      "synthetic_without_S": []
+    }
+  },
+  "doi": {
+    "10.1007/s10529-007-9345-2": {
+      "live": "302 https://link.springer.com/10.1007/s10529-007-9345-2",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1016/j.ultsonch.2019.05.009": {
+      "live": "302 https://linkinghub.elsevier.com/retrieve/pii/S1350417719302305",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1021/bp0502173": {
+      "live": "302 http://doi.wiley.com/10.1021/bp0502173",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1080/10826068.2020.1728696": {
+      "live": "302 https://www.tandfonline.com/doi/full/10.1080/10826068.2020.1728696",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1099/ijsem.0.004107": {
+      "live": "302 https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004107",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1099/ijsem.0.001367": {
+      "live": "302 https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001367",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1016/j.ijfoodmicro.2011.04.026": {
+      "live": "302 https://linkinghub.elsevier.com/retrieve/pii/S0168160511002649",
+      "recorded": true,
+      "ok": true
+    },
+    "10.3389/fmicb.2017.00368": {
+      "live": "302 http://journal.frontiersin.org/article/10.3389/fmicb.2017.00368/full",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1002/fsn3.528": {
+      "live": "302 https://onlinelibrary.wiley.com/doi/10.1002/fsn3.528",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1271/bbb.66.679": {
+      "live": "302 https://academic.oup.com/bbb/article/66/3/679-681/5944843",
+      "recorded": true,
+      "ok": true
+    },
+    "10.5281/zenodo.22812707": {
+      "live": "302 https://zenodo.org/doi/10.5281/zenodo.22812707",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1038/s41575-021-00440-6": {
+      "live": "302 https://www.nature.com/articles/s41575-021-00440-6",
+      "recorded": true,
+      "ok": true
+    },
+    "10.1038/s41575-021-00521-6": {
+      "live": "302 https://www.nature.com/articles/s41575-021-00521-6",
+      "recorded": true,
+      "ok": true
+    }
+  },
+  "parity": {
+    "S-DM-PRO": "ok",
+    "S-PH-PRO": "ok",
+    "S-B12-PRO": "ok",
+    "S-VIAB": "ok",
+    "P-TECH": "ok",
+    "L-ENZ": "ok",
+    "P-DEF": "ok",
+    "L-CAV-MECH": "ok",
+    "L-CAV-SEL": "ok",
+    "L-CAV-MEAS": "ok",
+    "L-CHOICE": "ok",
+    "P-BIF-SP": "ok",
+    "S-DM-BIF": "ok",
+    "S-PH-BIF": "ok",
+    "S-PROT": "ok",
+    "P-LAK-SP": "ok",
+    "L-LACTO-TAX": "ok",
+    "S-DM-LAK": "ok",
+    "S-PH-LAK": "ok",
+    "P-PRO-SP": "ok",
+    "L-PF-SUBSP": "ok",
+    "S-CAV-TYPE": "ok",
+    "S-CAV-BASE": "ok",
+    "S-PROT-TYPE": "ok",
+    "S-PROT-PEP": "ok",
+    "S-FER-TYPE": "ok",
+    "S-FER-DM": "ok",
+    "P-COMP": "ok",
+    "P-SORBIC": "ok",
+    "P-CATEGORY": "ok",
+    "P-STORAGE": "ok",
+    "S-MICRO-TAMC": "ok",
+    "S-MICRO-COLI": "ok",
+    "S-MICRO-YM": "ok",
+    "L-PF-PROP": "ok",
+    "L-PF-SCFA": "ok",
+    "L-PF-B12ACT": "ok",
+    "L-B12-METHOD": "ok",
+    "L-DHNA": "ok",
+    "L-PF-STRAIN": "ok",
+    "L-QPS": "ok",
+    "P-DOSE": "ok",
+    "S-SAMPLE": "ok",
+    "S-COA-1": "ok",
+    "S-COA-2": "ok",
+    "S-COA-3": "ok",
+    "S-MOQ": "ok",
+    "S-LEAD": "ok",
+    "S-PACK": "ok",
+    "L-ISAPP-DEF": "ok",
+    "L-ISAPP-REQ": "ok",
+    "L-DISPUTE": "ok",
+    "P-DECL-VALID": "ok",
+    "P-GMP-VALID": "ok",
+    "P-SITE-MED": "ok"
+  },
+  "failures": []
+}

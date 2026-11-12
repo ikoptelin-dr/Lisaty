@@ -12,6 +12,9 @@
     "js-yaml": "4.1.0"
   },
   "devDependencies": {
+    "@fontsource/geist-mono": "^5.1.1",
+    "@fontsource/inter": "^5.1.1",
+    "axe-core": "^4.10.2",
     "lighthouse": "12.6.1"
   }
 }

@@ -1,0 +1,271 @@
+# Демо-лендинг: тексты обеих страниц (ru — index.html, en — en.html).
+# Разметка внутри строк:
+#   {{ID}}      — утверждение из claims.yaml (текст на языке страницы + метка класса данных)
+#   <<текст>>   — разрешённый идентификатор с цифрами (регламент, версия, дата материала)
+#   *слово*     — тёплый градиент (только в заголовке, одно слово)
+# В остальном тексте цифры запрещены — их ловит линтер demo/build.mjs.
+
+meta:
+  version: "v0.3-demo"
+  date: "12.11.2026"
+  title: { ru: "Лизаты пробиотических бактерий", en: "Probiotic bacterial lysates" }
+  description:
+    ru: "Демо-материал для согласования с директором по науке. Синтетические значения помечены."
+    en: "Demo material for review by the scientific director. Synthetic values are marked."
+
+nav:
+  brand: { ru: "Вектор-БиАльгам", en: "Vector-BiAlgam" }
+  links:
+    - { href: "#tech", ru: "Технология", en: "Process" }
+    - { href: "#products", ru: "Продукты", en: "Products" }
+    - { href: "#evidence", ru: "Доказательства", en: "Evidence" }
+    - { href: "#buyers", ru: "Брендам и дистрибьюторам", en: "Brands & distributors" }
+    - { href: "#director", ru: "Согласование", en: "Sign-off" }
+  lang: { ru: { label: "EN", href: "en.html" }, en: { label: "RU", href: "index.html" } }
+  cta: { ru: "Образец", en: "Sample" }
+
+hero:
+  eyebrow: { ru: "Сырьё для БАД и пищевых продуктов · Кольцово", en: "Raw material for supplements and foods · Koltsovo, Russia" }
+  h1:
+    ru: ["Лизаты пробиотических бактерий", "— сырьё с *проверяемой* спецификацией"]
+    en: ["Probiotic bacterial lysates", "with a *traceable* specification"]
+  sub:
+    ru: "Жидкое сырьё для БАД и пищевых продуктов. Каждая цифра на странице связана с источником: документом завода, публикацией или протоколом."
+    en: "Liquid raw material for food supplements and foods. Every figure on this page links to its source: a plant document, a publication or a test report."
+  keys:
+    - { href: "#request", icon: flask, ru: "Запросить образец", en: "Request a sample" }
+    - { href: "#request", icon: doc, ru: "Скачать спецификацию", en: "Get the specification" }
+  caption: { ru: "материал <<v0.3-demo>> · <<12.11.2026>> · все цифры — из реестра claims.yaml", en: "material <<v0.3-demo>> · <<12.11.2026>> · every figure comes from claims.yaml" }
+  panel:
+    query: { ru: "ПропиоЛиз — спецификация", en: "PropioLyz — specification" }
+    mode: { ru: "Спецификация", en: "Specification" }
+    rows:
+      - { icon: drop, label: { ru: "Сухие вещества", en: "Dry matter" }, value: "{{S-DM-PRO}}", chip: { ru: "ТУ", en: "Spec" } }
+      - { icon: ph, label: { ru: "pH", en: "pH" }, value: "{{S-PH-PRO}}", chip: { ru: "ТУ", en: "Spec" } }
+      - { icon: vial, label: { ru: "Витамин <<B12>>", en: "Vitamin <<B12>>" }, value: "{{S-B12-PRO}}", chip: { ru: "UHPLC", en: "UHPLC" } }
+      - { icon: dish, label: { ru: "Живые клетки", en: "Viable cells" }, value: "{{S-VIAB}}", chip: { ru: "Посев", en: "Plate count" } }
+    hints: { ru: "↑↓ показатель · ↵ источник · esc закрыть", en: "↑↓ parameter · ↵ source · esc close" }
+  badge:
+    title: { ru: "Демо на синтетических данных", en: "Demo on synthetic data" }
+    text: { ru: "S — синтетическое значение, не данные завода", en: "S — synthetic value, not plant data" }
+  ghost: { href: "#director", ru: "Как устроено согласование", en: "How sign-off works" }
+
+legend:
+  title: { ru: "Как читать метки", en: "How to read the marks" }
+  items:
+    - { mark: "S", cls: s, ru: "синтетическое значение для демонстрации — не данные завода", en: "synthetic value for the demo — not plant data" }
+    - { mark: "Д", mark_en: "D", cls: d, ru: "документ или публичное заявление завода — с дословной цитатой в реестре", en: "plant document or public statement — quoted verbatim in the register" }
+    - { mark: "[ ]", cls: l, ru: "публикация с DOI — фраза сверена с аннотацией", en: "publication with a DOI — wording checked against the abstract" }
+
+tech:
+  title: { ru: "Как разрушают клетку — и что из этого измеримо", en: "How the cell is disrupted — and what can be measured" }
+  intro:
+    ru: "Сравнение способов лизиса по литературе. Параметры процессов завода здесь не раскрываются."
+    en: "Lysis methods compared from the literature. The plant’s process parameters are not disclosed here."
+  head:
+    ru: ["Способ", "Что разрушается", "Что получается", "Чем измеряется"]
+    en: ["Method", "What is disrupted", "What results", "How it is measured"]
+  rows:
+    - method: { ru: "Ферментативный гидролиз", en: "Enzymatic hydrolysis" }
+      note: "{{P-TECH}}"
+      breaks: "{{L-ENZ}}"
+      yields: "{{P-DEF}}"
+      measured: { ru: "Источник не найден — заполняет директор по науке", en: "No source found — to be completed by the scientific director" }
+      gap: true
+    - method: { ru: "Гидродинамическая кавитация", en: "Hydrodynamic cavitation" }
+      breaks: "{{L-CAV-MECH}}"
+      yields: "{{L-CAV-SEL}}"
+      measured: "{{L-CAV-MEAS}}"
+    - method: { ru: "Протеолиз", en: "Proteolysis" }
+      breaks: { ru: "Источник не найден", en: "No source found" }
+      yields: { ru: "Источник не найден", en: "No source found" }
+      measured: { ru: "Публикацию о протеолизе как способе лизиса пробиотических бактерий найти не удалось. Строку заполняет директор по науке.", en: "No publication on proteolysis as a lysis method for probiotic bacteria was found. To be completed by the scientific director." }
+      gap: true
+  foot: "{{L-CHOICE}}"
+
+products:
+  title: { ru: "Продукты", en: "Products" }
+  intro:
+    ru: "Названия, виды и число штаммов — с сайта завода. Показатели качества — синтетические, для демонстрации формы спецификации."
+    en: "Names, species and strain counts are from the plant website. Quality figures are synthetic and show the specification layout only."
+  items:
+    - name: { ru: "«БифиЛиз»", en: "BifiLyz" }
+      kind: { ru: "Лизат бифидобактерий жидкий", en: "Liquid bifidobacteria lysate" }
+      status: doc
+      rows:
+        - { label: { ru: "Штаммы", en: "Strains" }, value: "{{P-BIF-SP}}" }
+        - { label: { ru: "Сухие вещества", en: "Dry matter" }, value: "{{S-DM-BIF}}" }
+        - { label: { ru: "pH", en: "pH" }, value: "{{S-PH-BIF}}" }
+        - { label: { ru: "Белок", en: "Protein" }, value: "{{S-PROT}}" }
+        - { label: { ru: "Живые клетки", en: "Viable cells" }, value: "{{S-VIAB}}" }
+    - name: { ru: "«ЛактоЛиз»", en: "LaktoLyz" }
+      kind: { ru: "Лизат лактобактерий жидкий", en: "Liquid lactobacilli lysate" }
+      status: doc
+      rows:
+        - { label: { ru: "Штаммы", en: "Strains" }, value: "{{P-LAK-SP}}" }
+        - { label: { ru: "Номенклатура", en: "Nomenclature" }, value: "{{L-LACTO-TAX}}" }
+        - { label: { ru: "Сухие вещества", en: "Dry matter" }, value: "{{S-DM-LAK}}" }
+        - { label: { ru: "pH", en: "pH" }, value: "{{S-PH-LAK}}" }
+        - { label: { ru: "Живые клетки", en: "Viable cells" }, value: "{{S-VIAB}}" }
+    - name: { ru: "«ПропиоЛиз»", en: "PropioLyz" }
+      kind: { ru: "Лизат пропионовокислых бактерий жидкий", en: "Liquid propionibacteria lysate" }
+      status: doc
+      rows:
+        - { label: { ru: "Штаммы", en: "Strains" }, value: "{{P-PRO-SP}}" }
+        - { label: { ru: "Номенклатура", en: "Nomenclature" }, value: "{{L-PF-SUBSP}}" }
+        - { label: { ru: "Сухие вещества", en: "Dry matter" }, value: "{{S-DM-PRO}}" }
+        - { label: { ru: "Витамин <<B12>>", en: "Vitamin <<B12>>" }, value: "{{S-B12-PRO}}" }
+        - { label: { ru: "Живые клетки", en: "Viable cells" }, value: "{{S-VIAB}}" }
+    - name: { ru: "Cavitol", en: "Cavitol" }
+      kind: { ru: "Состав не подтверждён", en: "Composition not confirmed" }
+      status: unconfirmed
+      rows:
+        - { label: { ru: "Тип", en: "Type" }, value: "{{S-CAV-TYPE}}" }
+        - { label: { ru: "Основа", en: "Base" }, value: "{{S-CAV-BASE}}" }
+    - name: { ru: "ProteoLyse", en: "ProteoLyse" }
+      kind: { ru: "Состав не подтверждён", en: "Composition not confirmed" }
+      status: unconfirmed
+      rows:
+        - { label: { ru: "Тип", en: "Type" }, value: "{{S-PROT-TYPE}}" }
+        - { label: { ru: "Пептиды", en: "Peptides" }, value: "{{S-PROT-PEP}}" }
+    - name: { ru: "«ФерЛиз Про»", en: "FerLyz Pro" }
+      kind: { ru: "Состав не подтверждён", en: "Composition not confirmed" }
+      status: unconfirmed
+      rows:
+        - { label: { ru: "Тип", en: "Type" }, value: "{{S-FER-TYPE}}" }
+        - { label: { ru: "Концентрация", en: "Concentration" }, value: "{{S-FER-DM}}" }
+  common_title: { ru: "Общее для линейки", en: "Common to the range" }
+  common:
+    - { label: { ru: "Состав", en: "Composition" }, value: "{{P-COMP}}" }
+    - { label: { ru: "Консервант", en: "Preservative" }, value: "{{P-SORBIC}}" }
+    - { label: { ru: "Категория", en: "Category" }, value: "{{P-CATEGORY}}" }
+    - { label: { ru: "Хранение", en: "Storage" }, value: "{{P-STORAGE}}" }
+    - { label: { ru: "КМАФАнМ", en: "Total aerobic count" }, value: "{{S-MICRO-TAMC}}" }
+    - { label: { ru: "БГКП", en: "Coliforms" }, value: "{{S-MICRO-COLI}}" }
+    - { label: { ru: "Дрожжи и плесени", en: "Yeasts and moulds" }, value: "{{S-MICRO-YM}}" }
+
+propio:
+  title: { ru: "Пропионовокислые бактерии: что известно о виде", en: "Propionibacteria: what is known about the species" }
+  intro:
+    ru: "Ниже — свойства вида и отдельных штаммов в культуре. Это не свойства лизата: что из этого сохраняется в продукте, показывает только измерение."
+    en: "Below are properties of the species and of individual strains in culture. They are not properties of the lysate: only measurement shows what survives in the product."
+  facts: ["{{L-PF-PROP}}", "{{L-PF-SCFA}}", "{{L-PF-B12ACT}}", "{{L-B12-METHOD}}", "{{L-DHNA}}", "{{L-PF-STRAIN}}", "{{L-QPS}}"]
+  measured_title: { ru: "Что измеряется в лизате", en: "What is measured in the lysate" }
+  measured:
+    - { label: { ru: "Витамин <<B12>>, активная форма", en: "Vitamin <<B12>>, active form" }, value: "{{S-B12-PRO}}" }
+    - { label: { ru: "DHNA", en: "DHNA" }, value: { ru: "не измерялось", en: "not measured" } }
+    - { label: { ru: "Пропионовая кислота", en: "Propionic acid" }, value: { ru: "не измерялось", en: "not measured" } }
+  rarity_title: { ru: "Насколько это редкое сырьё", en: "How rare this ingredient is" }
+  rarity_intro:
+    ru: "Редкость проверяется сравнением открытых спецификаций, а не словами. Таблица заполняется по документам конкурентов."
+    en: "Rarity is checked by comparing open specifications, not by adjectives. The table is filled from competitors’ documents."
+  rarity_head:
+    ru: ["Поставщик", "Вид", "Форма", "Инактивация", "Единица количества", "Документ"]
+    en: ["Supplier", "Species", "Form", "Inactivation", "Unit of quantity", "Document"]
+  rarity_empty:
+    ru: "Сравнение не выполнено: открытые спецификации конкурентов не получены. Что запрошено — в inputs/SOURCES_NEEDED.md."
+    en: "Comparison not done: no open competitor specifications were obtained. Requested sources are listed in inputs/SOURCES_NEEDED.md."
+
+buyers:
+  brands:
+    title: { ru: "Производителям и владельцам брендов БАД", en: "For supplement brands" }
+    items:
+      - q: { ru: "В какие формы выпуска", en: "Which dosage forms" }
+        a: { ru: "Сырьё жидкое — проще всего вводить в жидкие формы. Норма ввода по данным завода:", en: "The ingredient is liquid, so liquid formats are simplest. Inclusion rate per the plant:" }
+        v: ["{{P-DOSE}}"]
+      - q: { ru: "Что писать на этикетке", en: "What goes on the label" }
+        a: { ru: "Состав, вид бактерий, носитель. Заявления о пользе — только в объёме документов о регистрации вашего продукта. Данные о лекарственных лизатах к этому сырью не относятся.", en: "Composition, bacterial species, carrier. Benefit wording only within your own product’s registration. Data on pharmaceutical lysates do not apply to this ingredient." }
+      - q: { ru: "Аллерген", en: "Allergen" }
+        a: { ru: "Носитель — молочная сыворотка: учитывайте при маркировке.", en: "The carrier is milk whey: declare accordingly." }
+        v: ["{{P-COMP}}"]
+      - q: { ru: "Образец", en: "Sample" }
+        v: ["{{S-SAMPLE}}"]
+  distributors:
+    title: { ru: "Дистрибьюторам сырья", en: "For ingredient distributors" }
+    items:
+      - q: { ru: "Партия к партии", en: "Batch to batch" }
+        a: { ru: "Сертификаты анализа трёх последних партий:", en: "Certificates of analysis for the last three batches:" }
+        v: ["{{S-COA-1}}", "{{S-COA-2}}", "{{S-COA-3}}"]
+      - q: { ru: "Партия и сроки", en: "Order size and lead time" }
+        v: ["{{S-MOQ}}", "{{S-LEAD}}", "{{S-PACK}}"]
+      - q: { ru: "Хранение", en: "Storage" }
+        v: ["{{P-STORAGE}}"]
+      - q: { ru: "Безопасность видов", en: "Species safety status" }
+        v: ["{{L-QPS}}"]
+  docs:
+    ru:
+      title: "Документы для рынка ЕАЭС"
+      items: ["Действующая декларация ЕАЭС или СГР на сырьё", "Технические условия или спецификация", "Протоколы испытаний аккредитованной лаборатории", "Сертификат анализа каждой партии"]
+    en:
+      title: "Documents for EU and US buyers"
+      items: ["Specification in English", "Certificate of analysis per batch", "Allergen statement (milk — whey carrier)", "Non-GMO statement", "QPS status of each species, with strain-level resistance-gene data"]
+
+evidence:
+  title: { ru: "Три слоя доказательств — раздельно", en: "Three layers of evidence — kept apart" }
+  intro:
+    ru: "Литература о видах и лизатах, данные этого продукта и разрешённые формулировки этикетки — разные вещи. Мы их не смешиваем."
+    en: "Literature on species and lysates, data on this product, and permitted label wording are different things. We do not mix them."
+  cols:
+    - title: { ru: "Литература", en: "Literature" }
+      lead: { ru: "О видах и понятиях. Не о нашем продукте.", en: "About species and concepts. Not about our product." }
+      items: ["{{L-ISAPP-DEF}}", "{{L-ISAPP-REQ}}", "{{L-DISPUTE}}"]
+      note: { ru: "Данные о лекарственных лизатах (препаратах) на пищевое сырьё не переносятся.", en: "Data on pharmaceutical lysates (medicinal products) are not transferred to a food ingredient." }
+    - title: { ru: "Данные продукта", en: "Product data" }
+      lead: { ru: "Сейчас — только синтетические значения. Настоящие появятся после подписи директора по науке.", en: "Synthetic values only for now. Real data appear after the scientific director signs off." }
+      items: ["{{S-VIAB}}", "{{S-B12-PRO}}"]
+    - title: { ru: "Этикетка", en: "Label" }
+      lead:
+        ru: "Состав, виды, носитель — да. Функциональные заявления — нет. Рамка: <<ТР ТС 021/2011>>, <<ТР ТС 022/2011>>; для экспорта — <<Регламент (ЕС) № 1924/2006>> и <<21 CFR 101.93>>. Решает специалист по регистрации."
+        en: "Composition, species, carrier — yes. Function claims — no. Framework: <<Regulation (EC) No 1924/2006>> in the EU and <<21 CFR 101.93>> in the US; <<TR CU 021/2011>> and <<TR CU 022/2011>> in the EAEU. A regulatory specialist decides."
+
+director:
+  title: { ru: "Согласование: каждая цифра под контролем директора по науке", en: "Sign-off: every figure under the scientific director’s control" }
+  steps:
+    ru:
+      - "У каждой цифры есть id в реестре, класс данных и источник с дословной цитатой."
+      - "Сборка находит цитату в файле-оригинале. Не нашла — страница не собирается."
+      - "Директор назначает уровень раскрытия: О — открыто, З — по запросу, NDA — под соглашение."
+      - "Чистовая сборка не пропускает ни одного синтетического значения."
+      - "Без подписи директора по науке материал не выходит."
+    en:
+      - "Every figure has a register id, a data class and a source with a verbatim quote."
+      - "The build finds the quote in the original file. If it does not, the page is not built."
+      - "The director sets the disclosure level: O — open, R — on request, NDA — under agreement."
+      - "The release build rejects every synthetic value."
+      - "Nothing is released without the scientific director’s signature."
+  table_head:
+    ru: ["Утверждение", "Класс", "Источник", "Раскрытие", "Подпись"]
+    en: ["Claim", "Class", "Source", "Disclosure", "Signature"]
+  table: ["P-BIF-SP", "P-STORAGE", "L-PF-B12ACT", "S-DM-PRO", "S-COA-1"]
+  status_title: { ru: "Что показала проверка открытых источников", en: "What the check of open sources found" }
+  status: ["{{P-DECL-VALID}}", "{{P-GMP-VALID}}", "{{P-SITE-MED}}", "{{L-PF-SUBSP}}"]
+  sign: { ru: "Подпись директора по науке: не подписано — демо", en: "Scientific director’s signature: not signed — demo" }
+
+request:
+  title: { ru: "Запросить образец и спецификацию", en: "Request a sample and specification" }
+  intro: { ru: "Ответим и пришлём то, что есть по вашему списку. Если документа нет — так и напишем.", en: "We reply with what exists on your list. If a document does not exist, we say so." }
+  fields:
+    - { name: company, type: text, req: true, ac: organization, ru: "Компания", en: "Company" }
+    - { name: role, type: select, req: true, ru: "Вы", en: "You are", options: { ru: ["Бренд БАД", "Дистрибьютор", "Пищевое производство", "Другое"], en: ["Supplement brand", "Distributor", "Food manufacturer", "Other"] } }
+    - { name: need, type: checks, ru: "Что прислать", en: "What to send", options: { ru: ["Образец", "Спецификацию", "CoA партий", "Документы о регистрации"], en: ["Sample", "Specification", "Batch CoAs", "Registration documents"] } }
+    - { name: email, type: email, req: true, ac: email, ru: "Электронная почта", en: "Email" }
+    - { name: comment, type: textarea, ru: "Комментарий", en: "Comment" }
+  consent: { ru: "Согласен на обработку персональных данных для ответа на запрос", en: "I agree to the processing of my personal data to answer this request" }
+  submit: { ru: "Отправить запрос", en: "Send request" }
+  note: { ru: "Демо: форма никуда не отправляет.", en: "Demo: the form does not send anything." }
+
+refs_title: { ru: "Источники", en: "Sources" }
+references:
+  REF-ISAPP: { cite: "Salminen S. et al. The ISAPP consensus statement on the definition and scope of postbiotics. Nat Rev Gastroenterol Hepatol. 2021;18(9):649–667.", doi: "10.1038/s41575-021-00440-6" }
+  REF-DISPUTE: { cite: "Aguilar-Toalá J. E. et al. Postbiotics — when simplification fails to clarify. Nat Rev Gastroenterol Hepatol. 2021;18(11):825–826.", doi: "10.1038/s41575-021-00521-6" }
+  REF-DEPTULA: { cite: "Deptula P. et al. Food-like growth conditions support production of active vitamin B12 by Propionibacterium freudenreichii 2067… Front Microbiol. 2017;8:368.", doi: "10.3389/fmicb.2017.00368" }
+  REF-CHAMLAGAIN: { cite: "Chamlagain B. et al. In situ production of active vitamin B12 in cereal matrices using Propionibacterium freudenreichii. Food Sci Nutr. 2017.", doi: "10.1002/fsn3.528" }
+  REF-ISAWA: { cite: "Isawa K. et al. Isolation and identification of a new bifidogenic growth stimulator produced by Propionibacterium freudenreichii ET-3. Biosci Biotechnol Biochem. 2002;66(3):679–681.", doi: "10.1271/bbb.66.679" }
+  REF-THIERRY: { cite: "Thierry A. et al. New insights into physiology and metabolism of Propionibacterium freudenreichii. Int J Food Microbiol. 2011;149(1):19–27.", doi: "10.1016/j.ijfoodmicro.2011.04.026" }
+  REF-BALA: { cite: "Balasundaram B., Harrison S. T. L. Study of physical and biological factors involved in the disruption of E. coli by hydrodynamic cavitation. Biotechnol Prog. 2006.", doi: "10.1021/bp0502173" }
+  REF-ZUPANC: { cite: "Žlahtič Zupanc M. et al. Effects of cavitation on different microorganisms. Ultrason Sonochem. 2019.", doi: "10.1016/j.ultsonch.2019.05.009" }
+  REF-GOMES: { cite: "Gomes T. A. et al. An overview of cell disruption methods for intracellular biomolecules recovery. Prep Biochem Biotechnol. 2020.", doi: "10.1080/10826068.2020.1728696" }
+  REF-SALAZAR: { cite: "Salazar O., Asenjo J. A. Enzymatic lysis of microbial cells. Biotechnol Lett. 2007;29(7):985–994.", doi: "10.1007/s10529-007-9345-2" }
+  REF-ZHENG: { cite: "Zheng J. et al. A taxonomic note on the genus Lactobacillus… Int J Syst Evol Microbiol. 2020;70(4):2782–2858.", doi: "10.1099/ijsem.0.004107" }
+  REF-SCHOLZ: { cite: "Scholz C. F. P., Kilian M. The natural history of cutaneous propionibacteria… Int J Syst Evol Microbiol. 2016;66(11):4422–4432.", doi: "10.1099/ijsem.0.001367" }
+  REF-QPS: { cite: "EFSA BIOHAZ Panel. Updated list of QPS-recommended microorganisms for safety risk assessments carried out by EFSA. Zenodo, 17.09.2026.", doi: "10.5281/zenodo.22812707" }
