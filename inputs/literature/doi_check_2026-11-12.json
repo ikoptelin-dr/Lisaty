@@ -1,0 +1,153 @@
+{
+ "checked": "2026-11-12",
+ "method": "api.crossref.org/works/{doi} (метаданные; для Zenodo — DataCite через doi.org) + https://doi.org/{doi} без перехода по ссылке: код 30x и заголовок Location = DOI зарегистрирован и разрешается",
+ "items": {
+  "10.1038/s41575-021-00440-6": {
+   "local_file": "abstracts/10.1038_s41575-021-00440-6.txt",
+   "registry": "crossref",
+   "title": "The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics",
+   "container": "Nature Reviews Gastroenterology &amp; Hepatology",
+   "year": 2021,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.nature.com/articles/s41575-021-00440-6",
+   "resolves": true
+  },
+  "10.3389/fmicb.2023.1324565": {
+   "local_file": "abstracts/10.3389_fmicb.2023.1324565.txt",
+   "registry": "crossref",
+   "title": "Frequently asked questions about the ISAPP postbiotic definition",
+   "container": "Frontiers in Microbiology",
+   "year": 2024,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1324565/full",
+   "resolves": true
+  },
+  "10.1038/s41575-021-00521-6": {
+   "local_file": "abstracts/10.1038_s41575-021-00521-6.txt",
+   "registry": "crossref",
+   "title": "Postbiotics — when simplification fails to clarify",
+   "container": "Nature Reviews Gastroenterology &amp; Hepatology",
+   "year": 2021,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.nature.com/articles/s41575-021-00521-6",
+   "resolves": true
+  },
+  "10.3389/fmicb.2017.00368": {
+   "local_file": "abstracts/10.3389_fmicb.2017.00368.txt",
+   "registry": "crossref",
+   "title": "Food-Like Growth Conditions Support Production of Active Vitamin B12 by Propionibacterium freudenreichii 2067 without DMBI, the Lower Ligand Base, or Cobalt Supplementation",
+   "container": "Frontiers in Microbiology",
+   "year": 2017,
+   "doi_org_http": "302",
+   "doi_org_location": "http://journal.frontiersin.org/article/10.3389/fmicb.2017.00368/full",
+   "resolves": true
+  },
+  "10.1002/fsn3.528": {
+   "local_file": "abstracts/10.1002_fsn3.528.txt",
+   "registry": "crossref",
+   "title": "<i>In situ</i> production of active vitamin B12 in cereal matrices using <i>Propionibacterium freudenreichii</i>",
+   "container": "Food Science &amp; Nutrition",
+   "year": 2017,
+   "doi_org_http": "302",
+   "doi_org_location": "https://onlinelibrary.wiley.com/doi/10.1002/fsn3.528",
+   "resolves": true
+  },
+  "10.1271/bbb.66.679": {
+   "local_file": "abstracts/10.1271_bbb.66.679.txt",
+   "registry": "crossref",
+   "title": "Isolation and Identification of a New Bifidogenic Growth Stimulator Produced by<i>Propionibacterium freudenreichii</i>ET-3",
+   "container": "Bioscience, Biotechnology, and Biochemistry",
+   "year": 2002,
+   "doi_org_http": "302",
+   "doi_org_location": "https://academic.oup.com/bbb/article/66/3/679-681/5944843",
+   "resolves": true
+  },
+  "10.1016/j.ijfoodmicro.2011.04.026": {
+   "local_file": "abstracts/10.1016_j.ijfoodmicro.2011.04.026.txt",
+   "registry": "crossref",
+   "title": "New insights into physiology and metabolism of Propionibacterium freudenreichii",
+   "container": "International Journal of Food Microbiology",
+   "year": 2011,
+   "doi_org_http": "302",
+   "doi_org_location": "https://linkinghub.elsevier.com/retrieve/pii/S0168160511002649",
+   "resolves": true
+  },
+  "10.1021/bp0502173": {
+   "local_file": "abstracts/10.1021_bp0502173.txt",
+   "registry": "crossref",
+   "title": "Study of Physical and Biological Factors Involved in the Disruption of E. coli by Hydrodynamic Cavitation",
+   "container": "Biotechnology Progress",
+   "year": 2006,
+   "doi_org_http": "302",
+   "doi_org_location": "http://doi.wiley.com/10.1021/bp0502173",
+   "resolves": true
+  },
+  "10.1016/j.ultsonch.2019.05.009": {
+   "local_file": "abstracts/10.1016_j.ultsonch.2019.05.009.txt",
+   "registry": "crossref",
+   "title": "Effects of cavitation on different microorganisms: The current understanding of the mechanisms taking place behind the phenomenon. A review and proposals for further research",
+   "container": "Ultrasonics Sonochemistry",
+   "year": 2019,
+   "doi_org_http": "302",
+   "doi_org_location": "https://linkinghub.elsevier.com/retrieve/pii/S1350417719302305",
+   "resolves": true
+  },
+  "10.1080/10826068.2020.1728696": {
+   "local_file": "abstracts/10.1080_10826068.2020.1728696.txt",
+   "registry": "crossref",
+   "title": "An overview of cell disruption methods for intracellular biomolecules recovery",
+   "container": "Preparative Biochemistry &amp; Biotechnology",
+   "year": 2020,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.tandfonline.com/doi/full/10.1080/10826068.2020.1728696",
+   "resolves": true
+  },
+  "10.1007/s10529-007-9345-2": {
+   "local_file": "abstracts/10.1007_s10529-007-9345-2.txt",
+   "registry": "crossref",
+   "title": "Enzymatic lysis of microbial cells",
+   "container": "Biotechnology Letters",
+   "year": 2007,
+   "doi_org_http": "302",
+   "doi_org_location": "https://link.springer.com/10.1007/s10529-007-9345-2",
+   "resolves": true
+  },
+  "10.1099/ijsem.0.004107": {
+   "local_file": "abstracts/10.1099_ijsem.0.004107.txt",
+   "registry": "crossref",
+   "title": "A taxonomic note on the genus Lactobacillus: Description of 23 novel genera, emended description of the genus Lactobacillus Beijerinck 1901, and union of Lactobacillaceae and Leuconostocaceae",
+   "container": "International Journal of Systematic and Evolutionary Microbiology",
+   "year": 2020,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004107",
+   "resolves": true
+  },
+  "10.1099/ijsem.0.001367": {
+   "local_file": "abstracts/10.1099_ijsem.0.001367.txt",
+   "registry": "crossref",
+   "title": "The natural history of cutaneous propionibacteria, and reclassification of selected species within the genus Propionibacterium to the proposed novel genera Acidipropionibacterium gen. nov., Cutibacterium gen. nov. and Pseudopropionibacterium gen. nov.",
+   "container": "International Journal of Systematic and Evolutionary Microbiology",
+   "year": 2016,
+   "doi_org_http": "302",
+   "doi_org_location": "https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001367",
+   "resolves": true
+  },
+  "10.31549/2542-1174-2021-1-41-54": {
+   "local_file": "../web/jsms/article_683.html",
+   "registry": "crossref",
+   "title": "Immunomodulating properties of the probiotic preparation, VedaBiotic in aging",
+   "container": "JOURNAL of SIBERIAN MEDICAL SCIENCES",
+   "year": 2021,
+   "doi_org_http": "302",
+   "doi_org_location": "http://jsms.ngmu.ru/articles/1_2021/41-54.pdf",
+   "resolves": true
+  },
+  "10.5281/zenodo.22812707": {
+   "local_file": "efsa/qps_list_PS24_zenodo22812707.xlsx",
+   "registry": "not-crossref",
+   "doi_org_http": "302",
+   "doi_org_location": "https://zenodo.org/doi/10.5281/zenodo.22812707",
+   "resolves": true
+  }
+ }
+}

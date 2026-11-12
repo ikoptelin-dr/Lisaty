@@ -1,0 +1,38 @@
+1. Int J Syst Evol Microbiol. 2016 Nov;66(11):4422-4432. doi: 
+10.1099/ijsem.0.001367. Epub 2016 Aug 2.
+
+The natural history of cutaneous propionibacteria, and reclassification of 
+selected species within the genus Propionibacterium to the proposed novel genera 
+Acidipropionibacterium gen. nov., Cutibacterium gen. nov. and 
+Pseudopropionibacterium gen. nov.
+
+Scholz CFP(1), Kilian M(1).
+
+Author information:
+(1)Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+
+Comment in
+    Br J Dermatol. 2018 Nov;179(5):1227. doi: 10.1111/bjd.17085.
+
+The genus Propionibacterium in the family Propionibacteriaceaeconsists of 
+species of various habitats, including mature cheese, cattle rumen and human 
+skin. Traditionally, these species have been grouped as either classical or 
+cutaneous propionibacteria based on characteristic phenotypes and source of 
+isolation. To re-evaluate the taxonomy of the family and to elucidate the 
+interspecies relatedness we compared 162 public whole-genome sequences of 
+strains representing species of the family Propionibacteriaceae. We found 
+substantial discrepancies between the phylogenetic signals of 16S rRNA gene 
+sequence analysis and our high-resolution core-genome analysis. To accommodate 
+these discrepancies, and to address the long-standing issue of the taxonomically 
+problematic Propionibacterium propionicum, we propose three novel genera, 
+Acidipropionibacterium gen. nov., Cutibacterium gen. nov. and 
+Pseudopropionibacterium gen. nov., and an amended description of the genus 
+Propionibacterium. Furthermore, our genome-based analyses support the amounting 
+evidence that the subdivision of Propionibacterium freudenreichii into 
+subspecies is not warranted. Our proposals are supported by phylogenetic 
+analyses, DNA G+C content, peptidoglycan composition and patterns of the gene 
+losses and acquisitions in the cutaneous propionibacteria during their 
+adaptation to the human host.
+
+DOI: 10.1099/ijsem.0.001367
+PMID: 27488827 [Indexed for MEDLINE]

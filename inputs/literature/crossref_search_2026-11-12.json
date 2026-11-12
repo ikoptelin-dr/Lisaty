@@ -1,0 +1,4152 @@
+{
+ "Salminen 2021 The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics": [
+  {
+   "DOI": "10.1038/s41575-021-00440-6",
+   "title": [
+    "The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9737-7642",
+     "authenticated-orcid": false,
+     "given": "Seppo",
+     "family": "Salminen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Carmen",
+     "family": "Collado",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7108-1202",
+     "authenticated-orcid": false,
+     "given": "Akihito",
+     "family": "Endo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8527-1445",
+     "authenticated-orcid": false,
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4151-7180",
+     "authenticated-orcid": false,
+     "given": "Eamonn M. M.",
+     "family": "Quigley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6321-3423",
+     "authenticated-orcid": false,
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Raanan",
+     "family": "Shamir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan R.",
+     "family": "Swann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4596-2874",
+     "authenticated-orcid": false,
+     "given": "Hania",
+     "family": "Szajewska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      5,
+      4
+     ]
+    ]
+   },
+   "container-title": [
+    "Nature Reviews Gastroenterology &amp; Hepatology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1038/s41575-021-00481-x",
+   "title": [
+    "Publisher Correction: The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9737-7642",
+     "authenticated-orcid": false,
+     "given": "Seppo",
+     "family": "Salminen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Carmen",
+     "family": "Collado",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7108-1202",
+     "authenticated-orcid": false,
+     "given": "Akihito",
+     "family": "Endo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8527-1445",
+     "authenticated-orcid": false,
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4151-7180",
+     "authenticated-orcid": false,
+     "given": "Eamonn M. M.",
+     "family": "Quigley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6321-3423",
+     "authenticated-orcid": false,
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Raanan",
+     "family": "Shamir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan R.",
+     "family": "Swann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4596-2874",
+     "authenticated-orcid": false,
+     "given": "Hania",
+     "family": "Szajewska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      6,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Nature Reviews Gastroenterology &amp; Hepatology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1038/s41575-021-00506-5",
+   "title": [
+    "Publisher Correction: Publisher Correction: The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9737-7642",
+     "authenticated-orcid": false,
+     "given": "Seppo",
+     "family": "Salminen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Carmen",
+     "family": "Collado",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7108-1202",
+     "authenticated-orcid": false,
+     "given": "Akihito",
+     "family": "Endo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8527-1445",
+     "authenticated-orcid": false,
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4151-7180",
+     "authenticated-orcid": false,
+     "given": "Eamonn M. M.",
+     "family": "Quigley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-6321-3423",
+     "authenticated-orcid": false,
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Raanan",
+     "family": "Shamir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan R.",
+     "family": "Swann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4596-2874",
+     "authenticated-orcid": false,
+     "given": "Hania",
+     "family": "Szajewska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      7,
+      29
+     ]
+    ]
+   },
+   "container-title": [
+    "Nature Reviews Gastroenterology &amp; Hepatology"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Vinderola 2024 Frequently asked questions about the ISAPP postbiotic definition": [
+  {
+   "DOI": "10.3389/fmicb.2023.1324565",
+   "title": [
+    "Frequently asked questions about the ISAPP postbiotic definition"
+   ],
+   "author": [
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marla",
+     "family": "Cunningham",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      1,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Frontiers in Microbiology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1515/9783110404012-011",
+   "title": [
+    "VI. Frequently Asked Questions about German Employment Law"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      4,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Expats in Germany – Inbound and Outbound"
+   ],
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1037/e604452012-001",
+   "title": [
+    "Frequently Asked Questions about I-VAWA"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "container-title": [
+    "PsycEXTRA Dataset"
+   ],
+   "type": "dataset"
+  }
+ ],
+ "Aguilar-Toala 2021 Postbiotics when simplification fails to clarify": [
+  {
+   "DOI": "10.1038/s41575-021-00522-5",
+   "title": [
+    "Reply to: Postbiotics — when simplification fails to clarify"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9737-7642",
+     "authenticated-orcid": false,
+     "given": "Seppo",
+     "family": "Salminen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maria Carmen",
+     "family": "Collado",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7108-1202",
+     "authenticated-orcid": false,
+     "given": "Akihito",
+     "family": "Endo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8527-1445",
+     "authenticated-orcid": false,
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4151-7180",
+     "authenticated-orcid": false,
+     "given": "Eamonn M. M.",
+     "family": "Quigley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Raanan",
+     "family": "Shamir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan R.",
+     "family": "Swann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4596-2874",
+     "authenticated-orcid": false,
+     "given": "Hania",
+     "family": "Szajewska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      9,
+      23
+     ]
+    ]
+   },
+   "container-title": [
+    "Nature Reviews Gastroenterology &amp; Hepatology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1093/hropen/hoac023",
+   "title": [
+    "Diagnosing chronic endometritis: when simplification fails to clarify"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0001-9679-9264",
+     "authenticated-orcid": false,
+     "given": "Maximilian",
+     "family": "Murtinger",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Bregenz , Bregenz, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Barbara",
+     "family": "Wirleitner",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Bregenz , Bregenz, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Dietmar",
+     "family": "Spitzer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Salzburg , Salzburg, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Helena",
+     "family": "Bralo",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Bregenz , Bregenz, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Susanna",
+     "family": "Miglar",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Salzburg , Salzburg, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Maximilian",
+     "family": "Schuff",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Next Fertility IVF Prof. Zech—Bregenz , Bregenz, Austria"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      1,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Human Reproduction Open"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1038/s41575-022-00596-9",
+   "title": [
+    "Author Correction: Reply to: Postbiotics — when simplification fails to clarify"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-9737-7642",
+     "authenticated-orcid": false,
+     "given": "Seppo",
+     "family": "Salminen",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Maria Carmen",
+     "family": "Collado",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7108-1202",
+     "authenticated-orcid": false,
+     "given": "Akihito",
+     "family": "Endo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-8527-1445",
+     "authenticated-orcid": false,
+     "given": "Colin",
+     "family": "Hill",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4151-7180",
+     "authenticated-orcid": false,
+     "given": "Eamonn M. M.",
+     "family": "Quigley",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Mary Ellen",
+     "family": "Sanders",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Raanan",
+     "family": "Shamir",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Jonathan R.",
+     "family": "Swann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4596-2874",
+     "authenticated-orcid": false,
+     "given": "Hania",
+     "family": "Szajewska",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Gabriel",
+     "family": "Vinderola",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Nature Reviews Gastroenterology &amp; Hepatology"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Deptula 2017 Food-like growth conditions support production of active vitamin B12 by Propionibacterium freudenreichii 2067": [
+  {
+   "DOI": "10.3389/fmicb.2017.00368",
+   "title": [
+    "Food-Like Growth Conditions Support Production of Active Vitamin B12 by Propionibacterium freudenreichii 2067 without DMBI, the Lower Ligand Base, or Cobalt Supplementation"
+   ],
+   "author": [
+    {
+     "given": "Paulina",
+     "family": "Deptula",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Panchanit",
+     "family": "Sangsuwan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tuula A.",
+     "family": "Nyman",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kirsi",
+     "family": "Savijoki",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      3,
+      8
+     ]
+    ]
+   },
+   "container-title": [
+    "Frontiers in Microbiology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1002/fsn3.528",
+   "title": [
+    "<i>In situ</i> production of active vitamin B12 in cereal matrices using <i>Propionibacterium freudenreichii</i>"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7939-6866",
+     "authenticated-orcid": false,
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tessa A.",
+     "family": "Sugito",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paulina",
+     "family": "Deptula",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Susanna",
+     "family": "Kariluoto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Food Science &amp; Nutrition"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.ijfoodmicro.2025.111463",
+   "title": [
+    "Role of riboflavin and nicotinamide in vitamin B12 production by Propionibacterium freudenreichii"
+   ],
+   "author": [
+    {
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Iida",
+     "family": "Loivamaa",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Ruoxi",
+     "family": "Zhang",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Emmi",
+     "family": "Hovilehto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paulina",
+     "family": "Deptula",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Susanna",
+     "family": "Kariluoto",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2026,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Food Microbiology"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Chamlagain 2017 In situ production of active vitamin B12 in cereal matrices using Propionibacterium freudenreichii": [
+  {
+   "DOI": "10.1002/fsn3.528",
+   "title": [
+    "<i>In situ</i> production of active vitamin B12 in cereal matrices using <i>Propionibacterium freudenreichii</i>"
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7939-6866",
+     "authenticated-orcid": false,
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tessa A.",
+     "family": "Sugito",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paulina",
+     "family": "Deptula",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Susanna",
+     "family": "Kariluoto",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Food and Environmental Sciences University of Helsinki  Helsinki Finland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2017,
+      11,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "Food Science &amp; Nutrition"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.jcs.2018.05.002",
+   "title": [
+    "In situ fortification of vitamin B12 in wheat flour and wheat bran by fermentation with Propionibacterium freudenreichii"
+   ],
+   "author": [
+    {
+     "given": "Chong",
+     "family": "Xie",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rossana",
+     "family": "Coda",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Paulina",
+     "family": "Deptula",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kati",
+     "family": "Katina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2018,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Cereal Science"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.lwt.2020.110431",
+   "title": [
+    "Fermentation of cereal, pseudo-cereal and legume materials with Propionibacterium freudenreichii and Levilactobacillus brevis for vitamin B12 fortification"
+   ],
+   "author": [
+    {
+     "given": "Chong",
+     "family": "Xie",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rossana",
+     "family": "Coda",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bhawani",
+     "family": "Chamlagain",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Minnamari",
+     "family": "Edelmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Pekka",
+     "family": "Varmanen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Vieno",
+     "family": "Piironen",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kati",
+     "family": "Katina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "LWT"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Isawa 2002 Isolation and identification of a new bifidogenic growth stimulator produced by Propionibacterium freudenreichii ET-3": [
+  {
+   "DOI": "10.1271/bbb.66.679",
+   "title": [
+    "Isolation and Identification of a New Bifidogenic Growth Stimulator Produced by<i>Propionibacterium freudenreichii</i>ET-3"
+   ],
+   "author": [
+    {
+     "given": "Kakuhei",
+     "family": "ISAWA",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kenichi",
+     "family": "HOJO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Nobuo",
+     "family": "YODA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tomonori",
+     "family": "KAMIYAMA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Seiya",
+     "family": "MAKINO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mizue",
+     "family": "SAITO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hitomi",
+     "family": "SUGANO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chinami",
+     "family": "MIZOGUCHI",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Saori",
+     "family": "KURAMA",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mika",
+     "family": "SHIBASAKI",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Noriko",
+     "family": "ENDO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yoshio",
+     "family": "SATO",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2002,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "Bioscience, Biotechnology, and Biochemistry"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.12938/bifidus1996.18.73",
+   "title": [
+    "A Novel Bifidogenic Growth Stimulator Produced by Propionibacterium freudenreichii"
+   ],
+   "author": [
+    {
+     "given": "Tsutomu",
+     "family": "KANEKO",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999
+     ]
+    ]
+   },
+   "container-title": [
+    "Bioscience and Microflora"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3168/jds.s0022-0302(97)76138-1",
+   "title": [
+    "Isolation and Structural Identification of Bifidogenic Growth Stimulator Produced by Propionibacterium freudenreichii"
+   ],
+   "author": [
+    {
+     "given": "Hiroharu",
+     "family": "Mori",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yoshio",
+     "family": "Sato",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Naoki",
+     "family": "Taketomo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tomonori",
+     "family": "Kamiyama",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Yoshihiro",
+     "family": "Yoshiyama",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sachiko",
+     "family": "Meguro",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hiroko",
+     "family": "Sato",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tsutomu",
+     "family": "Kaneko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1997,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Dairy Science"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Thierry 2011 New insights into physiology and metabolism of Propionibacterium freudenreichii": [
+  {
+   "DOI": "10.1016/j.ijfoodmicro.2011.04.026",
+   "title": [
+    "New insights into physiology and metabolism of Propionibacterium freudenreichii"
+   ],
+   "author": [
+    {
+     "given": "Anne",
+     "family": "Thierry",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Stéphanie-Marie",
+     "family": "Deutsch",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Hélène",
+     "family": "Falentin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Marion",
+     "family": "Dalmasso",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Fabien J.",
+     "family": "Cousin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Gwenaël",
+     "family": "Jan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Food Microbiology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.foodchem.2003.12.018",
+   "title": [
+    "Varied volatile compounds are produced by Propionibacterium freudenreichii in Emmental cheese"
+   ],
+   "author": [
+    {
+     "given": "A",
+     "family": "THIERRY",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2004,
+      9
+     ]
+    ]
+   },
+   "container-title": [
+    "Food Chemistry"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1021/acs.est.2c05674.s001",
+   "title": [
+    "Propionibacterium freudenreichii-Assisted Approach Reduces N2O Emission and Improves Denitrification via Promoting Substrate Uptake and Metabolism"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      null
+     ]
+    ]
+   },
+   "type": "component"
+  }
+ ],
+ "Balasundaram Harrison 2006 Study of physical and biological factors involved in the disruption of E. coli by hydrodynamic cavitation": [
+  {
+   "DOI": "10.1021/bp0502173",
+   "title": [
+    "Study of Physical and Biological Factors Involved in the Disruption of E. coli by Hydrodynamic Cavitation"
+   ],
+   "author": [
+    {
+     "given": "B.",
+     "family": "Balasundaram",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.T.L.",
+     "family": "Harrison",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      6,
+      2
+     ]
+    ]
+   },
+   "container-title": [
+    "Biotechnology Progress"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1002/bit.20878",
+   "title": [
+    "Disruption of Brewers' yeast by hydrodynamic cavitation: Process variables and their influence on selective release"
+   ],
+   "author": [
+    {
+     "given": "B.",
+     "family": "Balasundaram",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.T.L.",
+     "family": "Harrison",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2006,
+      3,
+      28
+     ]
+    ]
+   },
+   "container-title": [
+    "Biotechnology and Bioengineering"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.bej.2011.03.002",
+   "title": [
+    "Optimising orifice geometry for selective release of periplasmic products during cell disruption by hydrodynamic cavitation"
+   ],
+   "author": [
+    {
+     "given": "B.",
+     "family": "Balasundaram",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "S.T.L.",
+     "family": "Harrison",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Biochemical Engineering Journal"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Zupanc 2019 Effects of cavitation on different microorganisms the current understanding of the mechanisms": [
+  {
+   "DOI": "10.1016/j.ultsonch.2019.05.009",
+   "title": [
+    "Effects of cavitation on different microorganisms: The current understanding of the mechanisms taking place behind the phenomenon. A review and proposals for further research"
+   ],
+   "author": [
+    {
+     "given": "Mojca",
+     "family": "Zupanc",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Žiga",
+     "family": "Pandur",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Tadej",
+     "family": "Stepišnik Perdih",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "David",
+     "family": "Stopar",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Martin",
+     "family": "Petkovšek",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Matevž",
+     "family": "Dular",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Ultrasonics Sonochemistry"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.ultsonch.2018.10.003",
+   "title": [
+    "Revision of the mechanisms behind oil-water (O/W) emulsion preparation by ultrasound and cavitation"
+   ],
+   "author": [
+    {
+     "given": "Tadej",
+     "family": "Stepišnik Perdih",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mojca",
+     "family": "Zupanc",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Matevž",
+     "family": "Dular",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      3
+     ]
+    ]
+   },
+   "container-title": [
+    "Ultrasonics Sonochemistry"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1093/hesc/9780198738725.003.0013",
+   "title": [
+    "Cellular mechanisms of learning and memory"
+   ],
+   "author": [
+    {
+     "given": "Günther K. H.",
+     "family": "Zupanc",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      1,
+      17
+     ]
+    ]
+   },
+   "container-title": [
+    "Behavioral Neurobiology"
+   ],
+   "type": "book-chapter"
+  }
+ ],
+ "Gomes 2020 An overview of cell disruption methods for intracellular biomolecules recovery": [
+  {
+   "DOI": "10.1080/10826068.2020.1728696",
+   "title": [
+    "An overview of cell disruption methods for intracellular biomolecules recovery"
+   ],
+   "author": [
+    {
+     "given": "Tatiane Aparecida",
+     "family": "Gomes",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Food Engineering Postgraduate Program, Department of Chemical Engineering, Federal University of Paraná (UFPR), Curitiba, Brazil;"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Cristina Maria",
+     "family": "Zanette",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Food Engineering Postgraduate Program, Department of Chemical Engineering, Federal University of Paraná (UFPR), Curitiba, Brazil;"
+      },
+      {
+       "name": "Food Engineering Department, Midwestern State University (UNICENTRO), Guarapuava, Brazil"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-7179-0586",
+     "authenticated-orcid": false,
+     "given": "Michele Rigon",
+     "family": "Spier",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Food Engineering Postgraduate Program, Department of Chemical Engineering, Federal University of Paraná (UFPR), Curitiba, Brazil;"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      2,
+      19
+     ]
+    ]
+   },
+   "container-title": [
+    "Preparative Biochemistry &amp; Biotechnology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.3390/microorganisms9020251",
+   "title": [
+    "Current Pretreatment/Cell Disruption and Extraction Methods Used to Improve Intracellular Lipid Recovery from Oleaginous Yeasts"
+   ],
+   "author": [
+    {
+     "given": "Muhammad Fakhri",
+     "family": "Zainuddin",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Chong Kar",
+     "family": "Fai",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Arbakariya B.",
+     "family": "Ariff",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      },
+      {
+       "name": "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4387-984X",
+     "authenticated-orcid": false,
+     "given": "Leonardo",
+     "family": "Rios-Solis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Engineering, Institute for Bioengineering, University of Edinburgh, Edinburgh EH9 3JL, UK"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5744-2147",
+     "authenticated-orcid": false,
+     "given": "Murni",
+     "family": "Halim",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Bioprocess Technology, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      },
+      {
+       "name": "Bioprocessing and Biomanufacturing Research Centre, Faculty of Biotechnology and Biomolecular Sciences, Universiti Putra Malaysia, Serdang 43400, Selangor, Malaysia"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      1,
+      27
+     ]
+    ]
+   },
+   "container-title": [
+    "Microorganisms"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-981-97-9582-6_13",
+   "title": [
+    "Cell Disruption and Extraction Methods for Intracellular Lipids and Proteins"
+   ],
+   "author": [
+    {
+     "given": "Renu",
+     "family": "Agrawal",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024
+     ]
+    ]
+   },
+   "container-title": [
+    "Textbook of Industrial Microbiology"
+   ],
+   "type": "book-chapter"
+  }
+ ],
+ "Salazar Asenjo 2007 Enzymatic lysis of microbial cells": [
+  {
+   "DOI": "10.1007/s10529-007-9345-2",
+   "title": [
+    "Enzymatic lysis of microbial cells"
+   ],
+   "author": [
+    {
+     "given": "Oriana",
+     "family": "Salazar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Juan A.",
+     "family": "Asenjo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2007,
+      4,
+      27
+     ]
+    ]
+   },
+   "container-title": [
+    "Biotechnology Letters"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/0167-7799(87)90058-8",
+   "title": [
+    "Enzymatic lysis and disruption of microbial cells"
+   ],
+   "author": [
+    {
+     "given": "B.A.",
+     "family": "Andrews",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "J.A.",
+     "family": "Asenjo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1987,
+      10
+     ]
+    ]
+   },
+   "container-title": [
+    "Trends in Biotechnology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1002/bit.260350106",
+   "title": [
+    "A population balance model of enzymatic lysis of microbial cells"
+   ],
+   "author": [
+    {
+     "given": "J. B.",
+     "family": "Hunter",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "J. A.",
+     "family": "Asenjo",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1990,
+      1,
+      5
+     ]
+    ]
+   },
+   "container-title": [
+    "Biotechnology and Bioengineering"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Zheng 2020 A taxonomic note on the genus Lactobacillus description of 23 novel genera": [
+  {
+   "DOI": "10.3410/f.737747026.793592075",
+   "title": [
+    "Faculty Opinions recommendation of A taxonomic note on the genus Lactobacillus: Description of 23 novel genera, emended description of the genus Lactobacillus Beijerinck 1901, and union of Lactobacillaceae and Leuconostocaceae."
+   ],
+   "author": [
+    {
+     "given": "Ronnie",
+     "family": "Lamont",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Obstetrics and Gynaecology, The Clementine Churchill Hospital, UK"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      3,
+      15
+     ]
+    ]
+   },
+   "container-title": [
+    "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature"
+   ],
+   "type": "dataset"
+  },
+  {
+   "DOI": "10.1099/ijsem.0.004107",
+   "title": [
+    "A taxonomic note on the genus Lactobacillus: Description of 23 novel genera, emended description of the genus Lactobacillus Beijerinck 1901, and union of Lactobacillaceae and Leuconostocaceae"
+   ],
+   "author": [
+    {
+     "given": "Jinshui",
+     "family": "Zheng",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Huazhong Agricultural University, State Key Laboratory of Agricultural Microbiology, Hubei Key Laboratory of Agricultural Bioinformatics, Wuhan, Hubei, PR China"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-3913-5677",
+     "authenticated-orcid": false,
+     "given": "Stijn",
+     "family": "Wittouck",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Group Environmental Ecology and Applied Microbiology, Department of Bioscience Engineering, University of Antwerp, Antwerp, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Elisa",
+     "family": "Salvetti",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dept. of Biotechnology, University of Verona, Verona, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Charles M.A.P.",
+     "family": "Franz",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Max Rubner-Institut, Department of Microbiology and Biotechnology, Kiel, Germany"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-4329-8890",
+     "authenticated-orcid": false,
+     "given": "Hugh M.B.",
+     "family": "Harris",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Microbiology & APC Microbiome Ireland, University College Cork, Co. Cork, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9112-4786",
+     "authenticated-orcid": false,
+     "given": "Paola",
+     "family": "Mattarelli",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "University of Bologna, Dept. of Agricultural and Food Sciences, Bologna, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-5377-0824",
+     "authenticated-orcid": false,
+     "given": "Paul W.",
+     "family": "O’Toole",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "School of Microbiology & APC Microbiome Ireland, University College Cork, Co. Cork, Ireland"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Bruno",
+     "family": "Pot",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Group of Industrial Microbiology and Food Biotechnology (IMDO), Vrije Universiteit Brussel, Brussels, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-5581-7937",
+     "authenticated-orcid": false,
+     "given": "Peter",
+     "family": "Vandamme",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Laboratory of Microbiology, Department of Biochemistry and Microbiology, Ghent University, Ghent, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-1754-172X",
+     "authenticated-orcid": false,
+     "given": "Jens",
+     "family": "Walter",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Biological Sciences, University of Alberta, Edmonton, Canada"
+      },
+      {
+       "name": "Department of Agricultural, Food & Nutritional Science, University of Alberta, Edmonton, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-9482-1448",
+     "authenticated-orcid": false,
+     "given": "Koichi",
+     "family": "Watanabe",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Food Industry Research and Development Institute, Bioresource Collection and Research Center, Hsinchu, Taiwan, ROC"
+      },
+      {
+       "name": "National Taiwan University, Dept. of Animal Science and Technology, Taipei, Taiwan, ROC"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0001-8039-4430",
+     "authenticated-orcid": false,
+     "given": "Sander",
+     "family": "Wuyts",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Group Environmental Ecology and Applied Microbiology, Department of Bioscience Engineering, University of Antwerp, Antwerp, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-6506-6911",
+     "authenticated-orcid": false,
+     "given": "Giovanna E.",
+     "family": "Felis",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Dept. of Biotechnology, University of Verona, Verona, Italy"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0003-0972-928X",
+     "authenticated-orcid": false,
+     "given": "Michael G.",
+     "family": "Gänzle",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Hubei University of Technology, College of Bioengineering and Food Science, Wuhan, Hubei, PR China"
+      },
+      {
+       "name": "Department of Agricultural, Food & Nutritional Science, University of Alberta, Edmonton, Canada"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sarah",
+     "family": "Lebeer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Research Group Environmental Ecology and Applied Microbiology, Department of Bioscience Engineering, University of Antwerp, Antwerp, Belgium"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2020,
+      4,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Systematic and Evolutionary Microbiology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1016/j.syapm.2022.126354",
+   "title": [
+    "A taxonomic note on the genus Prevotella: Description of four novel genera and emended description of the genera Hallella and Xylanibacter"
+   ],
+   "author": [
+    {
+     "given": "Thomas C.A.",
+     "family": "Hitch",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Kevin",
+     "family": "Bisdorf",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Afrizal",
+     "family": "Afrizal",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas",
+     "family": "Riedel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Jörg",
+     "family": "Overmann",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Till",
+     "family": "Strowig",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Thomas",
+     "family": "Clavel",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2022,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "Systematic and Applied Microbiology"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Scholz Kilian 2016 The natural history of cutaneous propionibacteria and reclassification of selected species within the genus Propionibacterium": [
+  {
+   "DOI": "10.1099/ijsem.0.001367",
+   "title": [
+    "The natural history of cutaneous propionibacteria, and reclassification of selected species within the genus Propionibacterium to the proposed novel genera Acidipropionibacterium gen. nov., Cutibacterium gen. nov. and Pseudopropionibacterium gen. nov."
+   ],
+   "author": [
+    {
+     "given": "Christian F. P.",
+     "family": "Scholz",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Department of Biomedicine, Aarhus University, Aarhus, Denmark"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Mogens",
+     "family": "Kilian",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Department of Biomedicine, Aarhus University, Aarhus, Denmark"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      11,
+      1
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Systematic and Evolutionary Microbiology"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1007/978-94-017-2803-4_2",
+   "title": [
+    "The genus Propionibacterium"
+   ],
+   "author": [
+    {
+     "given": "Lena I.",
+     "family": "Vorobjeva",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      1999
+     ]
+    ]
+   },
+   "container-title": [
+    "Propionibacteria"
+   ],
+   "type": "book-chapter"
+  },
+  {
+   "DOI": "10.1601/nm.6610",
+   "title": [
+    "Nomenclature Abstract for Propionibacterium Orla-Jensen 1909 (Approved Lists 1980) emend. Scholz and Kilian 2016."
+   ],
+   "author": [
+    {
+     "ORCID": "https://orcid.org/0000-0002-7436-3176",
+     "authenticated-orcid": false,
+     "suffix": "Jr",
+     "given": "Charles Thomas",
+     "family": "Parker",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "NamesforLife, LLC"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nicole Danielle",
+     "family": "Osier",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "NamesforLife, LLC"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-4465-7034",
+     "authenticated-orcid": false,
+     "given": "George M",
+     "family": "Garrity",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "NamesforLife, LLC"
+      }
+     ],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      4,
+      23
+     ]
+    ]
+   },
+   "container-title": [
+    "The NamesforLife Abstracts"
+   ],
+   "type": "dataset"
+  }
+ ],
+ "EFSA BIOHAZ 2023 Updated list of QPS-recommended microbiological agents intentionally added to food or feed": [
+  {
+   "DOI": "10.2903/j.efsa.2011.2497",
+   "title": [
+    "Scientific Opinion on the maintenance of the list of QPS biological agents intentionally added to food and feed (2011 update)"
+   ],
+   "author": [
+    {
+     "name": "EFSA on Biological Hazards (BIOHAZ)",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2011,
+      12
+     ]
+    ]
+   },
+   "container-title": [
+    "EFSA Journal"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2903/j.efsa.2016.4522",
+   "title": [
+    "Update of the list of QPS‐recommended biological agents intentionally added to food or feed as notified to EFSA 4: suitability of taxonomic units notified to EFSA until March 2016"
+   ],
+   "author": [
+    {
+     "name": "EFSA Panel on Biological Hazards (BIOHAZ)",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2016,
+      7
+     ]
+    ]
+   },
+   "container-title": [
+    "EFSA Journal"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.2903/j.efsa.2013.3449",
+   "title": [
+    "Scientific Opinion on the maintenance of the list of QPS biological agents intentionally added to food and feed (2013 update)"
+   ],
+   "author": [
+    {
+     "name": "EFSA Panel on Biological Hazards (BIOHAZ)",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2013,
+      11
+     ]
+    ]
+   },
+   "container-title": [
+    "EFSA Journal"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Wegh 2019 Postbiotics and their potential applications in early life nutrition and beyond": [
+  {
+   "DOI": "10.3390/ijms20194673",
+   "title": [
+    "Postbiotics and Their Potential Applications in Early Life Nutrition and Beyond"
+   ],
+   "author": [
+    {
+     "given": "Carrie A. M.",
+     "family": "Wegh",
+     "sequence": "first",
+     "affiliation": [
+      {
+       "name": "Laboratory of Microbiology, Wageningen University and Research, 6708 WE Wageningen, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Sharon Y.",
+     "family": "Geerlings",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Laboratory of Microbiology, Wageningen University and Research, 6708 WE Wageningen, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "ORCID": "https://orcid.org/0000-0002-2103-5961",
+     "authenticated-orcid": false,
+     "given": "Jan",
+     "family": "Knol",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Laboratory of Microbiology, Wageningen University and Research, 6708 WE Wageningen, The Netherlands"
+      },
+      {
+       "name": "Danone-Nutricia Research, 3584 CT Utrecht, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Guus",
+     "family": "Roeselers",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Danone-Nutricia Research, 3584 CT Utrecht, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Clara",
+     "family": "Belzer",
+     "sequence": "additional",
+     "affiliation": [
+      {
+       "name": "Laboratory of Microbiology, Wageningen University and Research, 6708 WE Wageningen, The Netherlands"
+      }
+     ],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2019,
+      9,
+      20
+     ]
+    ]
+   },
+   "container-title": [
+    "International Journal of Molecular Sciences"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.53555/sfs.v10i1s.2121",
+   "title": [
+    "Postbiotics: potential applications in early life nutrition and beyond"
+   ],
+   "author": [
+    {
+     "given": "Priyanka",
+     "family": "Roy",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Rashi",
+     "family": "Rana",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Soumi",
+     "family": "Neogi",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Koyel",
+     "family": "Dutta",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Manisha",
+     "family": "Maity",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    },
+    {
+     "given": "Souvik",
+     "family": "Tewari",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2023
+     ]
+    ]
+   },
+   "container-title": [
+    "Journal of Survey in Fisheries Sciences"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.18686/fnc241",
+   "title": [
+    "Postbiotics: Potential as functional ingredients—A review"
+   ],
+   "author": [
+    {
+     "given": "Surajit",
+     "family": "Sarkar",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "vocabulary": "crossref",
+       "role": "author"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2024,
+      8,
+      18
+     ]
+    ]
+   },
+   "container-title": [
+    "Food Nutrition Chemistry"
+   ],
+   "type": "journal-article"
+  }
+ ],
+ "Molokeev 2021 immunomodulating properties probiotic VedaBiotic aging": [
+  {
+   "DOI": "10.31549/2542-1174-2021-1-41-54",
+   "title": [
+    "Immunomodulating properties of the probiotic preparation, VedaBiotic in aging"
+   ],
+   "author": [
+    {
+     "name": "Research Institute of Fundamental and Clinical Immunology (Novosibirsk)",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Е.V.",
+     "family": "Markova",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "О.V.",
+     "family": "Sorokin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "VedaGenetika LLC (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "I.А.",
+     "family": "Goldina",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Fundamental and Clinical Immunology (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "I.V.",
+     "family": "Savkin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Fundamental and Clinical Immunology (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "М.А.",
+     "family": "Knyazheva",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Fundamental and Clinical Immunology (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Е.V.",
+     "family": "Serenko",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Research Institute of Fundamental and Clinical Immunology (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "К.А.",
+     "family": "Bakulin",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Novosibirsk State Medical University (Novosibirsk)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "А.V.",
+     "family": "Molokeev",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Vector-BiAlgam JSC (Koltsovo settlement, Novosibirsk Region)",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021
+     ]
+    ]
+   },
+   "container-title": [
+    "JOURNAL of SIBERIAN MEDICAL SCIENCES"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.37547/tajmspr/volume03issue08-08",
+   "title": [
+    "Improving The Treatment Of Paradontic Diseases With The Help Of Immunomodulating And Probiotic Drugs"
+   ],
+   "author": [
+    {
+     "name": "Samarkand State Medical Institute, Uzbekistan",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Rizayev Jasur",
+     "family": "Alimjanovich",
+     "sequence": "first",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nazarova Nodira",
+     "family": "Sharipovna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Samarkand State Medical Institute, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "given": "Nasreddinova Maxzuna",
+     "family": "Taxsinovna",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    },
+    {
+     "name": "Samarkand State Medical Institute, Uzbekistan",
+     "sequence": "additional",
+     "affiliation": [],
+     "role": [
+      {
+       "role": "author",
+       "vocabulary": "crossref"
+      }
+     ]
+    }
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2021,
+      8,
+      31
+     ]
+    ]
+   },
+   "container-title": [
+    "The American Journal of Medical Sciences and Pharmaceutical Research"
+   ],
+   "type": "journal-article"
+  },
+  {
+   "DOI": "10.1201/9781420058574-8",
+   "title": [
+    "Chapter Immunomodulating Properties of Food Components"
+   ],
+   "issued": {
+    "date-parts": [
+     [
+      2009,
+      9,
+      28
+     ]
+    ]
+   },
+   "container-title": [
+    "Chemical and Biological Properties of Food Allergens"
+   ],
+   "type": "book-chapter"
+  }
+ ]
+}

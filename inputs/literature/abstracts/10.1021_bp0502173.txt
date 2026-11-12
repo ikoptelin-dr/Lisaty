@@ -1,0 +1,38 @@
+1. Biotechnol Prog. 2006 May-Jun;22(3):907-13. doi: 10.1021/bp0502173.
+
+Study of physical and biological factors involved in the disruption of E. coli 
+by hydrodynamic cavitation.
+
+Balasundaram B(1), Harrison ST.
+
+Author information:
+(1)Department of Chemical Engineering, University of Cape Town, Rondebosch 7701, 
+South Africa.
+
+Hydrodynamic cavitation results in flow restriction in a flow system causing 
+rapid pressure fluctuations and significant fluid forces. These can be harnessed 
+to mediate microbial cell damage. Hydrodynamic cavitation was studied for the 
+partial disruption of E. coli and selective release of specific proteins 
+relative to the total soluble protein. The effects of the cavitation number, the 
+number of passes, and the specific growth rate of E. coli on the release of 
+periplasmic and cytoplasmic proteins were studied. At the optimum cavitation 
+number of 0.17 for this experimental configuration, 48% of the total soluble 
+protein, 88% of acid phosphatase, and 67% of beta-galactosidase were released by 
+hydrodynamic cavitation in comparison with the maximum release attained using 
+multiple passes through the French Press. The higher release of the acid 
+phosphatase over the total soluble protein suggested preferred release of 
+periplasmic compounds. This was supported by SDS-PAGE analysis. The absence of 
+micronization of cell material resulting in the potential for ease of 
+solid-liquid separation downstream of the cell disruption operation was 
+confirmed by TEM microscopy. E. coli cells cultivated at a higher specific 
+growth rate (0.36 h(-1)) were more easily disrupted than slower grown cells 
+(0.11 h(-1)). The specific activity of the enzyme of interest released by 
+hydrodynamic cavitation, defined as the units of enzyme in solution per 
+milligram of total soluble protein, was greater than that obtained on release by 
+the French Press, high-pressure homogenization, osmotic shock, and EDTA 
+treatment. The selectivity offered indicates the potential of enzyme release by 
+hydrodynamic cavitation to ease the purification in the subsequent downstream 
+processing.
+
+DOI: 10.1021/bp0502173
+PMID: 16739979 [Indexed for MEDLINE]

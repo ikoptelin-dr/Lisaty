@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Ингредиенты</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/css/arturgolubev.cookiealert/style.min.css?17883165747366" type="text/css" rel="stylesheet"/>
+<link href="/local/templates/main/vendors.app.css?17491852414862" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/main/app.css?1749185241189030" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/main/additional.css?1749185241837" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/main/styles.css?17491852414410" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/main/template_styles.css?17637237701003" type="text/css" rel="stylesheet" data-template-style="true"/>
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"MAIN_BASELINE_BROWSER_OUTDATED":"Вы используете устаревшую версию браузера. Обновите его для безопасной и стабильной работы","MAIN_BASELINE_DETAILS":"Подробнее","MAIN_BASELINE_CLOSE":"Закрыть"});</script>
+
+<script type="extension/settings" data-extension="main.baseline">{"collectData":false,"helpUrl":"https:\/\/helpdesk.bitrix24.ru\/open\/code_27229654\/","helpCode":"redirect=detail\u0026code=27229654"}</script>
+<script src="/bitrix/js/main/baseline/dist/baseline.bundle.js?17883165526900"></script>
+
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+
+<script src="/bitrix/js/main/core/core.js?1788316557334249"></script>
+
+<script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"jquery","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1794497419,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"a3f86ad08612d716071b667862edcbcb"});</script>
+
+
+<script src="/bitrix/js/main/jquery/jquery-1.12.4.min.js?175325221297163"></script>
+<script src="/bitrix/js/arturgolubev.cookiealert/script.min.js?17883165747395"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/local/templates/main/favicon_bialgam.ico" type="image/x-icon" />
+<script src="https://api-maps.yandex.ru/2.1/?apikey=98649c5f-f161-4db2-a5ed-ca666d41bbfa&amp;lang=ru_RU"
+        type="text/javascript" defer=""></script>
+
+
+
+<script src="/local/templates/main/app.bundle.js?1749185241717956"></script>
+<script src="/local/templates/main/vendors.app.bundle.js?1749185241141417"></script>
+<script src="/local/templates/main/js/MainProvider.js?17491852413764"></script>
+<script src="/local/templates/main/js/FormProvider.js?17491852414868"></script>
+
+
+    <link as="style" crossorigin="anonymous"
+          href="/local/templates/main/js/fancybox3/dist/jquery.fancybox.min.css"
+          rel="preload">
+    <link href="/local/templates/main/js/fancybox3/dist/jquery.fancybox.min.css"
+          type="text/css" rel="stylesheet">
+    <script> $(document).ready(function () {
+            $('.main-banner__video').bind('contextmenu', function () {
+                return false;
+            });
+        });
+        jQuery('video').on("loadeddata", function () {
+            jQuery('video').attr('controlsList', 'nodownload');
+            jQuery('video').bind('contextmenu', function () {
+                return false;
+            });
+            jQuery('video').attr('disablePictureInPicture', 'true');
+        });
+    </script>
+
+</head>
+<body class="">
+<div class="header-container">
+    <header class="header">
+                <a class="header__logo" href="/">        <img width="258" src="/local/templates/main/img/logo.png" height="24">
+        </a>            <nav class="header__menu">
+                    <a href="/probiotics/o-probiotikakh/">Пробиотики</a>
+                    <a href="/hepatitis/o-gepatite-a/">Вакцина гепатита А</a>
+                    <a href="/ingredients/biomassa-probioticheskikh-bakteriy/">Ингредиенты</a>
+                    <a href="/contract/probioticheskoe/">Контрактное производство</a>
+                    <a href="/">RU</a>
+                    <a href="/en/">EN</a>
+            </nav>
+    
+        <nav class="header__menu mobile">
+            <a href="/">RU</a>
+            <a href="/en/">EN</a>
+        </nav>
+        <button class="header__search-btn js-header-search-open">
+            <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                 xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+                <path d="M15.78706,15.78711c-0.26104,0.26126 -0.68161,0.26126 -0.94265,0l-3.84247,-3.83921c-1.161,0.95255 -2.64519,1.52356 -4.26636,1.52356c-3.72162,0 -6.73542,-3.01714 -6.73542,-6.73577c0,-3.71847 3.0138,-6.73561 6.73542,-6.73561c3.71841,0 6.73576,3.01714 6.73576,6.73561c0,1.62086 -0.57426,3.10838 -1.52676,4.26939l3.84247,3.84304c0.26081,0.25744 0.26081,0.68107 0,0.93899zM12.13377,6.73569c0,-2.97455 -2.4234,-5.39819 -5.39818,-5.39819c-2.9781,0 -5.39818,2.42363 -5.39818,5.39819c0,2.97471 2.42008,5.39532 5.39818,5.39532c2.97478,0 5.39818,-2.4206 5.39818,-5.39532z"
+                      fill="#e0979d" fill-opacity="1"></path>
+            </svg>
+        </button>
+        <button class="header__menu-btn js-header-menu">
+            <img src="/local/templates/main/img/menu-icon.png" alt="menu icon">
+            <img src="/local/templates/main/img/cancel.png" alt="menu icon">
+        </button>
+        <form class="header__search animated fadeIn faster" action="/search/">
+            <button class="search__submit">
+                <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                     xmlns:xlink="http://www.w3.org/1999/xlink"
+                     viewBox="0 0 16 16">
+                    <path d="M15.78705,15.78698c-0.26104,0.26142 -0.68161,0.26142 -0.94265,0l-3.84247,-3.83905c-1.161,0.95255 -2.64519,1.52356 -4.26636,1.52356c-3.72162,0 -6.73542,-3.0173 -6.73542,-6.73577c0,-3.71847 3.0138,-6.73577 6.73542,-6.73577c3.71841,0 6.73576,3.0173 6.73576,6.73577c0,1.62086 -0.57415,3.10838 -1.52676,4.26939l3.84247,3.84304c0.26093,0.25744 0.26093,0.68107 0,0.93883zM12.13375,6.73572c0,-2.97455 -2.42329,-5.39819 -5.39818,-5.39819c-2.9781,0 -5.39806,2.42363 -5.39806,5.39819c0,2.97455 2.41997,5.39516 5.39806,5.39516c2.97489,0 5.39818,-2.4206 5.39818,-5.39516z"
+                          fill="#e0979d" fill-opacity="1"></path>
+                </svg>
+            </button>
+            <input type="text" name="q">
+            <button class="search__close js-header-search-close" type="button">
+                <svg width="13" height="13" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                     xmlns:xlink="http://www.w3.org/1999/xlink"
+                     viewBox="0 0 13 13">
+                    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAdElEQVQoU63S0QmDMBAA0OdU7SxdRKnfFl2ks+gUXUUOKmhMFEvvKyS85O5yFT54o3UeHR4VYvHEgObA9ajxChSxbJTg5nxBR3B34RrlYDaDFK3hhFuu1hwKOH5BwHvanL+8lNZwWlOp7cXuXf6nnybi8uzNGeAs1nGGC60AAAAASUVORK5CYII="
+                           width="13" height="13" transform="matrix(1,0,0,1,0,0)"></image>
+                </svg>
+            </button>
+        </form>
+    </header>
+        <div class="header__main-menu animated fadeIn js-header-main-menu hidden lazyload"
+         data-bg="/local/templates/main/img/main-menu-bg.png">
+                    <div class="left">
+                                    <a href="/about/o-kompanii/">О компании</a>
+                                    <a href="/media/news/">Медиа</a>
+                                    <a href="/useful/reviews/">Полезная информация</a>
+                                    <a href="/contacts/">Контакты</a>
+                                    <a href="/probiotics/o-probiotikakh/">Пробиотики</a>
+                                                        <div class="phones">
+                                                            <a href="tel:83833367501">8 (383) 336-75-01</a>
+                                                                                        <a href="tel:83833365151">8 (383) 336-51-51</a>
+                                                    </div>
+                                                    </div>
+                        <div class="right">
+                                    <a href="/hepatitis/o-gepatite-a/">Вакцина Гепатита А</a>
+                                    <a href="/ingredients/biomassa-probioticheskikh-bakteriy/">Ингредиенты</a>
+                                    <a href="/contract/probioticheskoe/">Контрактное производство</a>
+                                                    <div class="socials ">
+                                                        <a class="socials__link" href="https://vk.com/vector_bialgam" target="_blank">
+                                    <img src="/local/templates/main/img/vk-blue.svg" alt="vk">
+                            <img src="/local/templates/main/img/vk.png" alt="vk">                                </a>
+                                                </div>
+                            </div>
+                </div>
+    </div>
+    <section class="top-banner hidden">
+        <img class="top-banner__img" src="/upload/iblock/e3e/e3e8b6705b5a522132334f7680163f5a.png" alt="Banner">        <div class="top-banner__content">
+            <nav class="bread-crumbs container">
+				<a href="/" title="Главная">
+					Главная
+				</a>
+				<a href="/ingredients/lizaty/" title="Ингредиенты">
+					Ингредиенты
+				</a></nav>            <h1 class="top-banner__title">Ингредиенты</h1>        </div>
+
+            <div class="top-banner__menu js-top-banner-menu">
+      <div class="top-banner__menu-wrapper">
+                    <a class="" href="/useful/reviews/">Отзывы</a>
+                    <a class="" href="/useful/faq/">Вопросы и ответы</a>
+              </div>
+    </div>
+        <div class="top-banner__menu js-top-banner-menu">
+        
+                <a class=""
+                   href="/ingredients/biomassa-probioticheskikh-bakteriy/">Биомасса пробиотических бактерий</a>
+   
+            
+                <a class=""
+                   href="/ingredients/zakvaski-dlya-molochnykh-zavodov/">Закваски для молочных заводов</a>
+   
+            
+                <a class="active"
+                   href="/ingredients/lizaty/">Лизаты</a>
+   
+                </div>
+        </section>
+<main class="">
+            <div class="">
+    <div class="probiotics">
+        <div class="container-sm">
+                            <h2 class="heading -level-2 probiotics__title">Лизаты</h2>
+                                            <div class="reviews-page__tabs">
+                                            <a class=""
+                           href="/ingredients/lizaty/nashi-lizaty1/">Наши лизаты</a>
+                                                <a class=""
+                           href="/ingredients/lizaty/lizaty-v-produktakh-pitaniya/">Лизаты в продуктах питания</a>
+                                                <a class=""
+                           href="/ingredients/lizaty/lizaty-v-kosmetologii/">Лизаты в косметологии</a>
+                                                <a class=""
+                           href="/ingredients/lizaty/lizaty-v-badakh-i-preparatakh/">Лизаты в БАДах и препаратах</a>
+                                        </div>
+                                    <p>Биотехнологический продукт распада клеточных стенок пробиотических микроорганизмов (бифидобактерий, лактобактерий, пропионовокислых бактерий), а также продукты их метаболизма в молочной сыворотке.<br>
+<br>
+Мы получаем бактериальные лизаты третьего поколения путем ферментативного гидролиза. Это обеспечивает устранение токсичных эффектов в лизатах бифидо-, лакто- и пропионовокислых бактерий, сохраняя свободные аминокислоты и витамины.<br>
+<br>
+Лизаты содержат краткоцепочные пептиды, свободные аминокислоты, полисахариды (глюкоза, ксилатоза, галактоза), некоторое количество летучих жирных кислот, большое количество витаминов группы В, витамины С, РР, фолиевую кислоту и, конечно же, сами бактерии, расщепленные до мелких фракций цитоплазм, клеточных стенок (пептидогликанов).</p>            <strong>Лизаты АО «Вектор-БиАльгам»</strong>
+            <p class="list__title">Лизат бифидобактерий жидкий «БифиЛиз»</p>
+                <p>Состоит из 6 штаммов бифидобактерий видов: Bifidobacterium longum, Bifidobacterium bifidum, Bifidobacterium adolescentis.</p>            <img src="/upload/iblock/bf7/bf7b0a8eb4e3e694286accadefbf811f.jpg" width="100%"/>
+                    <p class="list__title">Лизат лактобактерий жидкий «ЛактоЛиз»</p>
+                <p>Содержит от 6 до 8 штаммов лактобактерий видов: Lactobacillus acidophilus, Lactobacillus fermentum, Lactobacillus bulgaricus, Str. thermophilus.</p>            <img src="/upload/iblock/bc8/bc809ed344c951567fd435b37d4097a0.jpg" width="100%"/>
+                    <p class="list__title">Лизат пропионовокислых бактерий жидкий «ПропиоЛиз»</p>
+                <p>Содержит 2 штамма пропионовокислых бактерий вида Propionibacterium shermani.<br>
+ Состав: молочная сыворотка, гидролизат клеточной стенки бифидобактерий, лактобактерий или молочнокислых бактерий, моноглицериды.<br>
+ В составе, по желанию заказчика и в зависимости от назначения лизатов, может использоваться консервант — сорбиновая кислота.<br>
+ <br></p>            <img src="/upload/iblock/e3f/e3fd7bd1df6bea90943bfafe4a3c2932.jpg" width="100%"/>
+                        <div class="probiotics__documents">
+                    <div class="document-link">
+                <svg width="13" height="18" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                     xmlns:xlink="http://www.w3.org/1999/xlink"
+                     viewBox="0 0 13 18">
+                    <path d="M13.00002,5.09128v11.43933c0,0.81027 -0.64762,1.46949 -1.44356,1.46949h-10.1128c-0.79617,0 -1.44367,-0.65922 -1.44367,-1.46949v-15.06082c0,-0.81027 0.64751,-1.46949 1.44367,-1.46949h6.55495c0.09281,0 0.18162,0.03748 0.24708,0.10384l4.65214,4.7353c0.06546,0.06683 0.1022,0.15743 0.1022,0.25185zM8.34822,1.21442v2.76289c0,0.41758 0.33405,0.75843 0.74455,0.75843h2.71408zM12.30112,5.44713h-3.20835c-0.79605,0 -1.44367,-0.65954 -1.44367,-1.46981v-3.26549h-6.20544c-0.41073,0 -0.74478,0.33942 -0.74478,0.75795v15.06082c0,0.41805 0.33405,0.75795 0.74478,0.75795h10.1128c0.41061,0 0.74467,-0.3399 0.74467,-0.75795z"
+                          fill="#487cd1" fill-opacity="1"></path>
+                </svg>
+                <a class="link" href="/upload/iblock/f92/f923cfb9d21e7e979cea45f1dcc229b0.pdf" download>GMP на ПРОБИОТКИ.pdf</a>
+            </div>
+                    <div class="document-link">
+                <svg width="13" height="18" xmlns="http://www.w3.org/2000/svg" version="1.1"
+                     xmlns:xlink="http://www.w3.org/1999/xlink"
+                     viewBox="0 0 13 18">
+                    <path d="M13.00002,5.09128v11.43933c0,0.81027 -0.64762,1.46949 -1.44356,1.46949h-10.1128c-0.79617,0 -1.44367,-0.65922 -1.44367,-1.46949v-15.06082c0,-0.81027 0.64751,-1.46949 1.44367,-1.46949h6.55495c0.09281,0 0.18162,0.03748 0.24708,0.10384l4.65214,4.7353c0.06546,0.06683 0.1022,0.15743 0.1022,0.25185zM8.34822,1.21442v2.76289c0,0.41758 0.33405,0.75843 0.74455,0.75843h2.71408zM12.30112,5.44713h-3.20835c-0.79605,0 -1.44367,-0.65954 -1.44367,-1.46981v-3.26549h-6.20544c-0.41073,0 -0.74478,0.33942 -0.74478,0.75795v15.06082c0,0.41805 0.33405,0.75795 0.74478,0.75795h10.1128c0.41061,0 0.74467,-0.3399 0.74467,-0.75795z"
+                          fill="#487cd1" fill-opacity="1"></path>
+                </svg>
+                <a class="link" href="/upload/iblock/2a0/2a035d481d30a57aee93780bc8a4ce54.jpg" download>Декларация Лизаты (5 видов) от 19.02.19.jpg</a>
+            </div>
+            </div>
+            </div>
+    </div>
+<section class="question">
+    <h2 class="question__title">Задайте свой вопрос</h2>
+    <div class="question__content"><p class="description-text question__description">Мы ответим на Ваши вопросы по сотрудничеству, параметрам продукции и приобретению.</p>
+        <button class="button question__submit js-question-submit -theme-red">Задать</button>
+    </div>
+</section>
+<footer class="footer section">
+
+    <div class="container footer__inner-container">
+        <div class="copyright">
+		<span> © АО «Вектор-БиАльгам», 2024  </span>		</div>
+		<div class="policy-links">
+		<div>
+	<a href="https://bialgam.ru/upload/RPPD/Regulation_on_the_protection_of_personal_data.pdf" target="_blank">Политика конфиденциальности</a>
+</div>
+<div>
+	<a href="/politika-ispolzovaniya-cookie/" target="_blank">Политика использования cookie</a>
+</div>
+		</div>
+        <div class="socials">
+                                <a class="socials__link" href="https://vk.com/vector_bialgam" target="_blank">
+                        <img src="/local/templates/main/img/vk-blue.svg" alt="vk">
+                            <img src="/local/templates/main/img/vk.png" alt="vk">                    </a>
+                        </div>
+        <div class="developer">
+            <span>Дизайн и разработка .</span>
+<!-- <a href="https://wow.wearewowagency.com/"> -->
+<a href="https://bialgam.ru/upload/RPPD/Regulation_on_the_protection_of_personal_data.pdf" target="_blank"> 	
+<img width="129" src="/local/templates/main/img/logo.png" height="12">
+<!--    <svg width="49" height="13" xmlns="http://www.w3.org/2000/svg" version="1.1"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         viewBox="0 0 49 13">
+        <path d="M30.28778,6.30616c0,0.77146 -0.04322,1.5437 -0.12948,2.2729c-0.08609,0.77146 -0.34471,1.50067 -0.68941,2.14381c-0.3881,0.68617 -0.99142,1.24364 -1.68119,1.62976c-0.99142,0.47179 -2.06894,0.68617 -3.1468,0.64314c-1.03447,0.04303 -2.06911,-0.17135 -3.01749,-0.64314c-0.68959,-0.38612 -1.25022,-0.94359 -1.63797,-1.62976c-0.38793,-0.64314 -0.6035,-1.37235 -0.68941,-2.14381c-0.08644,-0.77224 -0.12966,-1.50144 -0.12966,-2.2729c0,-0.68617 0.04322,-1.32932 0.17253,-1.97285c0.12948,-0.72882 0.34488,-1.41499 0.73281,-2.05852c0.38793,-0.68617 0.99142,-1.20061 1.63797,-1.62937c0.90533,-0.47141 1.89676,-0.68617 2.93123,-0.64314c1.03464,-0.04303 2.06894,0.12871 2.97445,0.55708c0.68941,0.34309 1.29274,0.81527 1.72406,1.45841c0.3881,0.60011 0.64654,1.28628 0.77603,2.01549c0.12914,0.77185 0.17235,1.5437 0.17235,2.2729c0,0.7292 0,0 0,0zM42.3574,5.44824l1.16378,3.9453l0.04322,-0.04303c0,0 0.04287,0 0.04287,0.04303l1.207,-4.24536l1.29343,-4.4171c0,-0.12871 0.08626,-0.25702 0.17218,-0.38573c0.08626,-0.08606 0.21557,-0.08606 0.34505,-0.08606h2.06911c0.17235,0 0.30149,0.04303 0.30149,0.12871c0,0.12871 0,0.21438 -0.04322,0.30044l-3.793,11.49282c-0.08626,0.30006 -0.21557,0.42837 -0.34505,0.47141c-0.12914,0.04303 -0.25879,0.04303 -0.38793,0.04303h-1.46561c-0.34471,0.04264 -0.60332,-0.17135 -0.68976,-0.51444l-0.90499,-2.57296l-1.07769,-3.25913h-0.04305l-1.07786,3.25913l-0.86212,2.57296c-0.08609,0.38534 -0.43097,0.60011 -0.8189,0.60011h-1.33613c-0.21557,0.04303 -0.43097,-0.04303 -0.6035,-0.17174c-0.12948,-0.17135 -0.21557,-0.34309 -0.25879,-0.51444l-3.83639,-11.32109c-0.04322,-0.12871 -0.04322,-0.21477 0,-0.34309c0.04305,-0.08567 0.12948,-0.17174 0.30184,-0.17174h2.06911c0.12914,0 0.25862,0.04303 0.38775,0.08606c0.08644,0.08567 0.17253,0.21399 0.17253,0.34309l1.29326,4.33103l1.29309,4.4171h0.08609l1.25004,-3.85963l0.77603,-2.35858l-0.77603,-2.48728c-0.04287,-0.08567 -0.04287,-0.21438 0,-0.34309c0.04322,-0.08567 0.1727,-0.17174 0.25862,-0.17174h1.89676c0.12931,0 0.25879,0 0.38793,0.08606c0.08626,0.12871 0.12948,0.25702 0.17235,0.38612zM26.70983,3.21837l-2.32773,7.29011h0.21557c0.47419,0 0.99142,-0.08567 1.4224,-0.25702c0.34505,-0.17174 0.64672,-0.42915 0.86212,-0.7292c0.21557,-0.38612 0.3881,-0.81488 0.43132,-1.24364c0.08626,-0.60011 0.12948,-1.201 0.08626,-1.80111c0,-0.6005 -0.04322,-1.20061 -0.08626,-1.75808c-0.04322,-0.42876 -0.21575,-0.85791 -0.43132,-1.24403c-0.04305,-0.08529 -0.08592,-0.17135 -0.17235,-0.25702zM22.70091,9.82231l2.32773,-7.33314c-0.12914,0 -0.25862,0 -0.38775,0c-0.47436,0 -0.90533,0.08606 -1.33631,0.2578c-0.34488,0.17135 -0.60367,0.42837 -0.81907,0.77146c-0.21557,0.38612 -0.38793,0.81488 -0.43097,1.28667c-0.08609,0.55708 -0.12931,1.15797 -0.12931,1.75808c0,0.6005 0.04322,1.20061 0.12931,1.75846c0.04305,0.42876 0.17253,0.85752 0.3881,1.24364c0.08609,0.08529 0.17235,0.17135 0.25827,0.25702zM10.97635,5.44824l1.16395,3.9453l0.04305,-0.04303c0,0 0.04322,0 0.04322,0.04303l1.207,-4.24536l1.29309,-4.4171c0,-0.12871 0.08609,-0.25702 0.17235,-0.38573c0.08626,-0.08606 0.21557,-0.08606 0.34488,-0.08606h2.06911c0.17235,0 0.30184,0.04303 0.30184,0.12871c0,0.12871 0,0.21438 -0.04322,0.30044l-3.79334,11.53547c-0.08644,0.30044 -0.21557,0.42876 -0.34471,0.47179c-0.12966,0.04264 -0.25879,0.04264 -0.38793,0.04264h-1.46561c-0.34505,0.04303 -0.60367,-0.21399 -0.68976,-0.51444l-0.90551,-2.65863l-1.07751,-3.25913h-0.04305l-1.12073,3.30216l-0.86212,2.57296c-0.08626,0.38534 -0.43114,0.60011 -0.81907,0.60011h-1.33631c-0.2154,0.04303 -0.4308,-0.04303 -0.60367,-0.17174c-0.12914,-0.17135 -0.2154,-0.34309 -0.25827,-0.51444l-3.83656,-11.32109c-0.04322,-0.12871 -0.04322,-0.21477 0,-0.34309c0.04305,-0.08567 0.12914,-0.17174 0.25879,-0.17174h2.06894c0.12931,0 0.25862,0.04303 0.3881,0.08606c0.08626,0.08567 0.17218,0.21399 0.17218,0.34309l1.29326,4.33103l1.29326,4.4171h0.08592l1.25022,-3.85963l0.7762,-2.31554l-0.81924,-2.48728c-0.04305,-0.08567 -0.04305,-0.21477 0,-0.34309c0.04305,-0.08567 0.17253,-0.17174 0.25862,-0.17174h1.89676c0.12948,0 0.25862,0 0.38775,0.08606c0.08644,0.12871 0.1727,0.25702 0.1727,0.38573z"
+              fill="#ffffff" fill-opacity="1"></path>
+    </svg>
+-->
+</a>
+        </div>
+    </div>
+    <div class="question__popup-container js-question-popup-container hidden">
+        <form class="question__popup">
+            <div class="question__popup-close js-question-popup-close"><img
+                        src="/local/templates/main/img/close.png" alt="Close"></div>
+            <h3 class="heading -level-3 question__popup-title">Задайте свой вопрос</h3>
+            <div class="question__popup-fields">
+                <input type="hidden" name="ACTION" value="form"/>
+                <input type="hidden" name="event" value="QUESTION_FORM"/>
+                                <div class="field "><input class="field__input" type="text" name="name"
+                                           placeholder="Имя и фамилия"
+                                           value="">
+                </div>
+                <div class="field "><input class="field__input" type="text" name="email"
+                                           placeholder="E-mail" value="">
+                </div>
+                <textarea class="textarea" name="message" placeholder="Ваше сообщение"></textarea>
+            </div>
+            <div class="question__popup-controls">
+                <button type="button"
+                        class="button js-question-popup-submit -theme-blue">Отправить</button>
+                <label class="question__popup-agreement">
+    <input type="checkbox" name="agreement" value="Y">
+    <div class="mark"><img src="/local/templates/main/img/checked.png" alt=" "></div>
+    <p>Даю согласие на обработку персональных данных, ознакомлен с пользовательским соглашением</p>
+</label>
+            </div>
+        </form>
+    </div>
+    <div class="question__popup-container js-question-popup-success hidden">
+        <div class="question__popup is-success">
+            <div class="question__popup-close js-question-popup-close"><img
+                        src="/local/templates/main/img/close.png" alt="Close"></div>
+            <img class="question__popup-success-icon" src="/local/templates/main/img/success-btn.png" alt="">
+            <h2 class="success__title">Ваше сообщение успешно отправленно</h2>
+            <p class="success__description">Мы свяжемся с вами в ближайшее время.</p></div>
+    </div>
+    <section class="vacancy-popup js-vacancy-popup hidden">
+        <form class="vacancy-popup__content js-vacancy-form">
+            <button class="vacancy-popup__close js-vacancy-popup-close">
+                <img src="/local/templates/main/img/close.png" alt="close">
+            </button>
+            <div class="vacancy-popup__title">Отправить резюме</div>
+            <div class="vacancy-popup__fields">
+                <div class="field ">
+                    <input class="field__input -required" type="text" name="name"
+                           placeholder="Имя" value="">
+                </div>
+                <div class="field ">
+                    <input class="field__input -required" type="text" name="phone"
+                           placeholder="Телефон" value="">
+                </div>
+                <div class="field ">
+                    <input class="field__input -required" type="text" name="email"
+                           placeholder="E-mail" value="">
+                </div>
+                <label class="vacancy-popup__attach">
+                    <input type="file" name="file">
+                    <span>Прикрепить резюме</span>
+                    <span>Файл не выбран</span>
+                </label>
+                <textarea class="comment" placeholder="Ваш комментарий" name="comment"></textarea>
+            </div>
+            <div class="vacancy-popup__footer">
+                <button class="button vacancy-popup__submit js-vacancy-popup-submit -theme-blue" type="button">
+                    Отправить                </button>
+                <label class="vacancy-popup__agreement">
+                    <input type="checkbox" checked="">
+                    <div class="mark">
+                        <img src="/local/templates/main/img/checked.png" alt="Checked">
+                    </div>
+                    <p>Даю согласие на обработку <a href="">персональных данных</a>, ознакомлен с <a href="">пользовательским
+                            соглашением</a</p>
+                </label>
+            </div>
+        </form>
+    </section>
+</footer>
+<script defer src="/local/templates/main/js/fancybox3/dist/jquery.fancybox.min.js"></script>
+</div>
+</main>
+
+
+
+<!--noindex--><div class="ag_cnotice_window color_theme_neutral ag_cnotice_position_bottom" id="js-cnotice-window" ><div class="ag_cnotice_window_content" ><div class="ag_cnotice_window_image"><img src="/bitrix/images/arturgolubev.cookiealert/demo-cc.png" alt=""></div><div class="ag_cnotice_window_text" >Этот сайт использует cookie-файлы, чтобы помочь Вам в навигации, а также для предоставления лучшего пользовательского опыта и анализа использования наших продуктов и услуг</div><div class="ag_cnotice_window_buttons"><span class="ag_cnotice_window_button" id="js-cnotice-close" style="background-color:#0653eb; border-color:#0653eb; color:#ffffff;">Принять</span><span class="ag_cnotice_window_button" id="js-cnotice-reject" style="background-color:#c2222e; border-color:#c2222e; color:#ffffff;">Только обязательные</span></div></div></div><!--/noindex-->
+<script>
+				if(typeof JAgCookie == "undefined"){
+					var cframe = document.querySelectorAll(".ag_cnotice_window");
+					if(cframe.length){cframe.forEach(function(element){element.remove();});}
+				}else{
+					var agcookie_params = {'cookie_name':'AG_COOKIE_ALERT','cookie_life':'365','cookie_name_analytics':'AG_COOKIE_ALERT_analytics','cookie_name_marketing':'AG_COOKIE_ALERT_marketing','agreement':'1','site_id':'s1','timeout':'0','auto_accept':'0','hide_searchbots':false};
+					var agcookie_obj = new JAgCookie(agcookie_params);
+				}
+					
+				function agcaAnaliticsScriptsStart(){
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(51114734, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+}
+function agcaMarketingScriptsStart(){
+
+}
+document.addEventListener("agcaJsAccept", function(){ agcaAnaliticsScriptsStart(); agcaMarketingScriptsStart(); });
+document.addEventListener("agcaJsAcceptAnalytics", function(){ agcaAnaliticsScriptsStart(); });
+document.addEventListener("agcaJsAcceptMarketing", function(){ agcaMarketingScriptsStart(); });
+
+			</script>
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+1. Nat Rev Gastroenterol Hepatol. 2021 Sep;18(9):649-667. doi: 
+10.1038/s41575-021-00440-6. Epub 2021 May 4.
+
+The International Scientific Association of Probiotics and Prebiotics (ISAPP) 
+consensus statement on the definition and scope of postbiotics.
+
+Salminen S(1), Collado MC(2), Endo A(3), Hill C(4)(5), Lebeer S(6), Quigley 
+EMM(7), Sanders ME(8), Shamir R(9)(10), Swann JR(11)(12), Szajewska H(13), 
+Vinderola G(14).
+
+Author information:
+(1)Functional Foods Forum, Faculty of Medicine, University of Turku, Turku, 
+Finland. sepsal@utu.fi.
+(2)Institute of Agrochemistry and Food Technology-National Research Council 
+(IATA-CSIC), Valencia, Spain.
+(3)Department of Food, Aroma and Cosmetic Chemistry, Faculty of Bioindustry, 
+Tokyo University of Agriculture, Hokkaido, Japan.
+(4)School of Microbiology, University College Cork, Cork, Ireland.
+(5)APC Microbiome Ireland, University College Cork, Cork, Ireland.
+(6)Department of Bioscience Engineering, University of Antwerp, Antwerp, 
+Belgium.
+(7)Division of Gastroenterology and Hepatology, Lynda K and David M Underwood 
+Center for Digestive Disorders, Houston Methodist Hospital and Weill Cornell 
+Medical College, Houston, TX, USA.
+(8)International Scientific Association for Probiotics and Prebiotics, 
+Centennial, CO, USA.
+(9)Institute of Pediatric Gastroenterology, Nutrition and Liver Diseases, 
+Schneider Children's Medical Center, Petach Tikva, Israel.
+(10)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(11)School of Human Development and Health, Faculty of Medicine, University of 
+Southampton, Southampton, UK.
+(12)Department of Metabolism, Digestion and Reproduction, Imperial College 
+London, London, UK.
+(13)Department of Paediatrics, The Medical University of Warsaw, Warsaw, Poland.
+(14)Instituto de Lactología Industrial (CONICET-UNL), Faculty of Chemical 
+Engineering, National University of Litoral, Santa Fe, Argentina.
+
+Erratum in
+    Nat Rev Gastroenterol Hepatol. 2021 Sep;18(9):671. doi: 
+10.1038/s41575-021-00481-x.
+    Nat Rev Gastroenterol Hepatol. 2022 Aug;19(8):551. doi: 
+10.1038/s41575-022-00628-4.
+
+Comment in
+    Nat Rev Gastroenterol Hepatol. 2021 Nov;18(11):827-828. doi: 
+10.1038/s41575-021-00522-5.
+    Nat Rev Gastroenterol Hepatol. 2021 Nov;18(11):825-826. doi: 
+10.1038/s41575-021-00521-6.
+
+In 2019, the International Scientific Association for Probiotics and Prebiotics 
+(ISAPP) convened a panel of experts specializing in nutrition, microbial 
+physiology, gastroenterology, paediatrics, food science and microbiology to 
+review the definition and scope of postbiotics. The term 'postbiotics' is 
+increasingly found in the scientific literature and on commercial products, yet 
+is inconsistently used and lacks a clear definition. The purpose of this panel 
+was to consider the scientific, commercial and regulatory parameters 
+encompassing this emerging term, propose a useful definition and thereby 
+establish a foundation for future developments. The panel defined a postbiotic 
+as a "preparation of inanimate microorganisms and/or their components that 
+confers a health benefit on the host". Effective postbiotics must contain 
+inactivated microbial cells or cell components, with or without metabolites, 
+that contribute to observed health benefits. The panel also discussed existing 
+evidence of health-promoting effects of postbiotics, potential mechanisms of 
+action, levels of evidence required to meet the stated definition, safety and 
+implications for stakeholders. The panel determined that a definition of 
+postbiotics is useful so that scientists, clinical triallists, industry, 
+regulators and consumers have common ground for future activity in this area. A 
+generally accepted definition will hopefully lead to regulatory clarity and 
+promote innovation and the development of new postbiotic products.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41575-021-00440-6
+PMCID: PMC8387231
+PMID: 33948025 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.S. serves on the board of ISAPP, is a board 
+member of Yoghurt in Nutrition Initiative and has been a speaker in meetings 
+funded by industry, Nestlé Nutrition Institute and Institute Danone. M.C.C. has 
+participated as a speaker for HIPP, Danone, Nutricia, Nestlé Nutrition Institute 
+and Mead Johnson. A.E. has led industry-sponsored research projects with support 
+from B Food Science and Takanashi Milk Products, and has been a speaker for the 
+companies. C.H. serves on the board of ISAPP, is a consultant to Artugen 
+Therapeutics developing a live biotherapeutic, and has received research grants 
+from several industry partners, including ADARE Pharmaceuticals, manufacturers 
+of Lacteol. S.L. serves on the academic board of ISAPP and has received research 
+grants from several industry partners, such as Yun. She has been compensated for 
+speaking by Yakult. E.M.M.Q. serves on the board of ISAPP, as a consultant to 4D 
+Pharma, Alimentary Health, Allergan, Biocodex, Ironwood, Salix, Takeda and 
+Vibrant, and has research support from 4D Pharma, Biomerica and Vibrant. M.E.S. 
+has been compensated for speaking engagements or for consulting from Associated 
+British Foods, California Dairy Research Foundation, Cargill, Danone Research, 
+Danone USA, Fairlife, General Mills, GlaxoSmithKline, JJ Heimbach, Kellogg, 
+Kerry, Mead Johnson, Medscape, PepsiCo, Pfizer, Probi, Procter & Gamble, Sanofi, 
+Trouw Nutrition, Visalia Dairy Company, Winclove Probiotics and Yakult. R.S. has 
+participated as a clinical investigator, and/or advisory board member, and/or 
+consultant, and/or speaker for Abbott, Danone and Nestlé. J.R.S. has led 
+industry-sponsored research projects with support from AstraZeneca, Danone, 
+Servier and Vitacress. H.S. serves on the board of ISAPP and has participated as 
+a clinical investigator, and/or advisory board member, and/or consultant, and/or 
+speaker for Arla, Biogaia, Biocodex, Ch. Hansen, Danone, Nestlé, Nestlé 
+Nutrition Institute, Nutricia and Merck. G.V. has led industry-sponsored 
+research projects on dairy products and probiotics. These projects were 
+independently carried out and had no influence on the content of this 
+manuscript. He is member of the Argentinian board of the Yoghurt in Nutrition 
+Initiative (YINI Danone Argentina) and serves on the board of ISAPP. He was not 
+a member of ISAPP Board at the time of the meeting, but has been elected as a 
+board member as of June 2020.

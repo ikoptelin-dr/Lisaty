@@ -1,0 +1,28 @@
+1. Biotechnol Lett. 2007 Jul;29(7):985-94. doi: 10.1007/s10529-007-9345-2. Epub 
+2007 Apr 27.
+
+Enzymatic lysis of microbial cells.
+
+Salazar O(1), Asenjo JA.
+
+Author information:
+(1)Centre for Chemical Engineering and Biotechnology, Department of Chemical 
+Engineering and Biotechnology, University of Chile, Beauchef 861, Santiago, 
+Chile. orsalaza@ing.uchile.cl
+
+Cell wall lytic enzymes are valuable tools for the biotechnologist, with many 
+applications in medicine, the food industry, and agriculture, and for recovering 
+of intracellular products from yeast or bacteria. The diversity of potential 
+applications has conducted to the development of lytic enzyme systems with 
+specific characteristics, suitable for satisfying the requirements of each 
+particular application. Since the first time the lytic enzyme of excellence, 
+lysozyme, was discovered, many investigations have contributed to the 
+understanding of the action mechanisms and other basic aspects of these 
+interesting enzymes. Today, recombinant production and protein engineering have 
+improved and expanded the area of potential applications. In this review, some 
+of the recent advances in specific enzyme systems for bacteria and yeast cells 
+rupture and other applications are examined. Emphasis is focused in 
+biotechnological aspects of these enzymes.
+
+DOI: 10.1007/s10529-007-9345-2
+PMID: 17464453 [Indexed for MEDLINE]

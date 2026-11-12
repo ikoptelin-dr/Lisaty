@@ -1,0 +1,41 @@
+1. Ultrason Sonochem. 2019 Oct;57:147-165. doi: 10.1016/j.ultsonch.2019.05.009. 
+Epub 2019 May 8.
+
+Effects of cavitation on different microorganisms: The current understanding of 
+the mechanisms taking place behind the phenomenon. A review and proposals for 
+further research.
+
+Zupanc M(1), Pandur Ž(2), Stepišnik Perdih T(1), Stopar D(3), Petkovšek M(1), 
+Dular M(4).
+
+Author information:
+(1)University of Ljubljana, Faculty of Mechanical Engineering, Askerceva 6, 1000 
+Ljubljana, Slovenia.
+(2)University of Ljubljana, Faculty of Mechanical Engineering, Askerceva 6, 1000 
+Ljubljana, Slovenia; University of Ljubljana, Biotechnical Faculty, Jamnikarjeva 
+101, 1000 Ljubljana, Slovenia.
+(3)University of Ljubljana, Biotechnical Faculty, Jamnikarjeva 101, 1000 
+Ljubljana, Slovenia.
+(4)University of Ljubljana, Faculty of Mechanical Engineering, Askerceva 6, 1000 
+Ljubljana, Slovenia. Electronic address: matevz.dular@fs.uni-lj.si.
+
+A sudden decrease in pressure triggers the formation of vapour and gas bubbles 
+inside a liquid medium (also called cavitation). This leads to many (key) 
+engineering problems: material loss, noise, and vibration of hydraulic 
+machinery. On the other hand, cavitation is a potentially useful phenomenon: the 
+extreme conditions are increasingly used for a wide variety of applications such 
+as surface cleaning, enhanced chemistry, and wastewater treatment (bacteria 
+eradication and virus inactivation). Despite this significant progress, a large 
+gap persists between the understanding of the mechanisms that contribute to the 
+effects of cavitation and its application. Although engineers are already 
+commercializing devices that employ cavitation, we are still not able to answer 
+the fundamental question: What precisely are the mechanisms how bubbles can 
+clean, disinfect, kill bacteria and enhance chemical activity? The present paper 
+is a thorough review of the recent (from 2005 onward) work done in the fields of 
+cavitation-assisted microorganism's destruction and aims to serve as a 
+foundation to build on in the next years.
+
+Copyright © 2019 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ultsonch.2019.05.009
+PMID: 31208610 [Indexed for MEDLINE]

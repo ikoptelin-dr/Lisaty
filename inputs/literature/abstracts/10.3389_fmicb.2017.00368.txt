@@ -1,0 +1,37 @@
+1. Front Microbiol. 2017 Mar 8;8:368. doi: 10.3389/fmicb.2017.00368. eCollection 
+2017.
+
+Food-Like Growth Conditions Support Production of Active Vitamin B12 by 
+Propionibacterium freudenreichii 2067 without DMBI, the Lower Ligand Base, or 
+Cobalt Supplementation.
+
+Deptula P(1), Chamlagain B(1), Edelmann M(1), Sangsuwan P(1), Nyman TA(2), 
+Savijoki K(1), Piironen V(1), Varmanen P(1).
+
+Author information:
+(1)Department of Food and Environmental Sciences, University of Helsinki 
+Helsinki, Finland.
+(2)Proteomics Unit, Institute of Biotechnology, University of Helsinki Helsinki, 
+Finland.
+
+Propionibacterium freudenreichii is a traditional dairy bacterium and a producer 
+of short chain fatty acids (propionic and acetic acids) as well as vitamin B12. 
+In food applications, it is a promising organism for in situ fortification with 
+B12 vitamin since it is generally recognized as safe (GRAS) and it is able to 
+synthesize biologically active form of the vitamin. In the present study, 
+vitamin B12 and pseudovitamin biosynthesis by P. freudenreichii was monitored by 
+UHPLC as a function of growth in food-like conditions using a medium mimicking 
+cheese environment, without cobalt or 5,6-dimethylbenzimidazole (DMBI) 
+supplementation. Parallel growth experiments were performed in industrial-type 
+medium known to support the biosynthesis of vitamin B12. The production of other 
+key metabolites in the two media were determined by HPLC, while the global 
+protein production was compared by gel-based proteomics to assess the effect of 
+growth conditions on the physiological status of the strain and on the synthesis 
+of different forms of vitamin. The results revealed distinct protein and 
+metabolite production, which reflected the growth conditions and the potential 
+of P. freudenreichii for synthesizing nutritionally relevant amounts of active 
+vitamin B12 regardless of the metabolic state of the cells.
+
+DOI: 10.3389/fmicb.2017.00368
+PMCID: PMC5340759
+PMID: 28337185

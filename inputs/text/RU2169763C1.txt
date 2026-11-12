@@ -1,0 +1,2773 @@
+RU2169763C1 - Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+- Google Patents
+RU2169763C1 - Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+- Google Patents
+Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+Download PDF
+Info
+Publication number
+RU2169763C1
+RU2169763C1
+RU2000116318A
+RU2000116318A
+RU2169763C1
+RU 2169763 C1
+RU2169763 C1
+RU 2169763C1
+RU 2000116318 A
+RU2000116318 A
+RU 2000116318A
+RU 2000116318 A
+RU2000116318 A
+RU 2000116318A
+RU 2169763 C1
+RU2169763 C1
+RU 2169763C1
+Authority
+RU
+Russia
+Prior art keywords
+milk
+nutrient medium
+yeast
+hydrolyzate
+bifidobacteria
+Prior art date
+2000-06-26
+Application number
+RU2000116318A
+Other languages
+English (en)
+Inventor
+Р.М. Ильина
+А.В. Молокеев
+В.И. Байбаков
+Л.Г. Никулин
+Т.Л. Карих
+Original Assignee
+Дочернее Государственное Унитарное Экспериментально-Производственное Предприятие "Вектор-Биальгам" Гнц Вб "Вектор"
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2000-06-26
+Filing date
+2000-06-26
+Publication date
+2001-06-27
+2000-06-26
+Application filed by Дочернее Государственное Унитарное Экспериментально-Производственное Предприятие "Вектор-Биальгам" Гнц Вб "Вектор"
+filed
+Critical
+Дочернее Государственное Унитарное Экспериментально-Производственное Предприятие "Вектор-Биальгам" Гнц Вб "Вектор"
+2000-06-26
+Priority to RU2000116318A
+priority
+Critical
+patent/RU2169763C1/ru
+2001-06-27
+Application granted
+granted
+Critical
+2001-06-27
+Publication of RU2169763C1
+publication
+Critical
+patent/RU2169763C1/ru
+Links
+Espacenet
+Global Dossier
+Discuss
+241000186000
+Bifidobacterium
+Species
+0.000
+title
+claims
+abstract
+description
+53
+235000015097
+nutrients
+Nutrition
+0.000
+title
+claims
+abstract
+description
+44
+239000008267
+milk
+Substances
+0.000
+title
+claims
+description
+47
+235000013336
+milk
+Nutrition
+0.000
+title
+claims
+description
+46
+210000004080
+milk
+Anatomy
+0.000
+title
+claims
+description
+46
+235000014666
+liquid concentrate
+Nutrition
+0.000
+title
+claims
+description
+11
+IJGRMHOSHXDMSA-UHFFFAOYSA-N
+Atomic nitrogen
+Chemical compound
+N#N
+IJGRMHOSHXDMSA-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+34
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+Sodium chloride
+Chemical compound
+[Na+].[Cl-]
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+0.000
+claims
+abstract
+description
+28
+240000004808
+Saccharomyces cerevisiae
+Species
+0.000
+claims
+abstract
+description
+27
+GUBGYTABKSRVRQ-QKKXKWKRSA-N
+Lactose
+Chemical compound
+OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)C(O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O
+GUBGYTABKSRVRQ-QKKXKWKRSA-N
+0.000
+claims
+abstract
+description
+24
+230000002255
+enzymatic effect
+Effects
+0.000
+claims
+abstract
+description
+18
+229910052757
+nitrogen
+Inorganic materials
+0.000
+claims
+abstract
+description
+17
+150000001412
+amines
+Chemical class
+0.000
+claims
+abstract
+description
+15
+239000011780
+sodium chloride
+Substances
+0.000
+claims
+abstract
+description
+14
+239000008101
+lactose
+Substances
+0.000
+claims
+abstract
+description
+11
+102000014171
+Milk Proteins
+Human genes
+0.000
+claims
+abstract
+description
+9
+108010011756
+Milk Proteins
+Proteins
+0.000
+claims
+abstract
+description
+9
+235000021239
+milk protein
+Nutrition
+0.000
+claims
+abstract
+description
+8
+239000001509
+sodium citrate
+Substances
+0.000
+claims
+abstract
+description
+6
+NLJMYIDDQXHKNR-UHFFFAOYSA-K
+sodium citrate
+Chemical compound
+O.O.[Na+].[Na+].[Na+].[O-]C(=O)CC(O)(CC([O-])=O)C([O-])=O
+NLJMYIDDQXHKNR-UHFFFAOYSA-K
+0.000
+claims
+abstract
+description
+6
+239000003531
+protein hydrolysate
+Substances
+0.000
+claims
+abstract
+description
+4
+239000002609
+medium
+Substances
+0.000
+claims
+description
+61
+XUJNEKJLAYXESH-UHFFFAOYSA-N
+cysteine
+Natural products
+SCC(N)C(O)=O
+XUJNEKJLAYXESH-UHFFFAOYSA-N
+0.000
+claims
+description
+14
+235000018417
+cysteine
+Nutrition
+0.000
+claims
+description
+12
+LEVWYRKDKASIDU-IMJSIDKUSA-N
+L-cystine
+Chemical compound
+[O-]C(=O)[C@@H]([NH3+])CSSC[C@H]([NH3+])C([O-])=O
+LEVWYRKDKASIDU-IMJSIDKUSA-N
+0.000
+claims
+description
+11
+229960003067
+cystine
+Drugs
+0.000
+claims
+description
+11
+238000004519
+manufacturing process
+Methods
+0.000
+claims
+description
+10
+239000007787
+solid
+Substances
+0.000
+claims
+description
+9
+239000004158
+L-cystine
+Substances
+0.000
+claims
+description
+8
+235000019393
+L-cystine
+Nutrition
+0.000
+claims
+description
+8
+VEXZGXHMUGYJMC-UHFFFAOYSA-N
+Hydrochloric acid
+Chemical compound
+Cl
+VEXZGXHMUGYJMC-UHFFFAOYSA-N
+0.000
+claims
+description
+6
+239000001963
+growth medium
+Substances
+0.000
+claims
+description
+2
+235000020183
+skimmed milk
+Nutrition
+0.000
+abstract
+description
+9
+238000000034
+method
+Methods
+0.000
+abstract
+description
+7
+239000000126
+substance
+Substances
+0.000
+abstract
+description
+7
+238000003860
+storage
+Methods
+0.000
+abstract
+description
+6
+230000000694
+effects
+Effects
+0.000
+abstract
+description
+4
+238000002360
+preparation method
+Methods
+0.000
+abstract
+description
+4
+235000013305
+food
+Nutrition
+0.000
+abstract
+description
+3
+230000002906
+microbiologic effect
+Effects
+0.000
+abstract
+description
+2
+244000068988
+Glycine max
+Species
+0.000
+abstract
+2
+235000010469
+Glycine max
+Nutrition
+0.000
+abstract
+2
+VLSOAXRVHARBEQ-UHFFFAOYSA-N
+[4-fluoro-2-(hydroxymethyl)phenyl]methanol
+Chemical compound
+OCC1=CC=C(F)C=C1CO
+VLSOAXRVHARBEQ-UHFFFAOYSA-N
+0.000
+abstract
+2
+230000004913
+activation
+Effects
+0.000
+abstract
+1
+238000012258
+culturing
+Methods
+0.000
+abstract
+1
+230000003247
+decreasing effect
+Effects
+0.000
+abstract
+1
+235000014680
+Saccharomyces cerevisiae
+Nutrition
+0.000
+description
+17
+239000000047
+product
+Substances
+0.000
+description
+16
+229940024606
+amino acid
+Drugs
+0.000
+description
+14
+235000001014
+amino acid
+Nutrition
+0.000
+description
+14
+150000001413
+amino acids
+Chemical class
+0.000
+description
+14
+241000894006
+Bacteria
+Species
+0.000
+description
+12
+239000002585
+base
+Substances
+0.000
+description
+12
+239000002028
+Biomass
+Substances
+0.000
+description
+10
+229960002433
+cysteine
+Drugs
+0.000
+description
+10
+239000000203
+mixture
+Substances
+0.000
+description
+9
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+Ascorbic acid
+Chemical compound
+OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+0.000
+description
+8
+108010073771
+Soybean Proteins
+Proteins
+0.000
+description
+8
+235000013365
+dairy product
+Nutrition
+0.000
+description
+8
+229940001941
+soy protein
+Drugs
+0.000
+description
+8
+229920001817
+Agar
+Polymers
+0.000
+description
+6
+241000206672
+Gelidium
+Species
+0.000
+description
+6
+239000001888
+Peptone
+Substances
+0.000
+description
+6
+235000010419
+agar
+Nutrition
+0.000
+description
+6
+235000008504
+concentrate
+Nutrition
+0.000
+description
+6
+239000012141
+concentrate
+Substances
+0.000
+description
+6
+XBDQKXXYIPTUBI-UHFFFAOYSA-N
+dimethylselenoniopropionate
+Natural products
+CCC(O)=O
+XBDQKXXYIPTUBI-UHFFFAOYSA-N
+0.000
+description
+6
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+description
+6
+108010080698
+Peptones
+Proteins
+0.000
+description
+5
+239000005862
+Whey
+Substances
+0.000
+description
+5
+235000020776
+essential amino acid
+Nutrition
+0.000
+description
+5
+239000003797
+essential amino acid
+Substances
+0.000
+description
+5
+239000012467
+final product
+Substances
+0.000
+description
+5
+230000007062
+hydrolysis
+Effects
+0.000
+description
+5
+238000006460
+hydrolysis reaction
+Methods
+0.000
+description
+5
+239000007788
+liquid
+Substances
+0.000
+description
+5
+235000019319
+peptone
+Nutrition
+0.000
+description
+5
+235000018102
+proteins
+Nutrition
+0.000
+description
+5
+108090000623
+proteins and genes
+Proteins
+0.000
+description
+5
+102000004169
+proteins and genes
+Human genes
+0.000
+description
+5
+229930003231
+vitamin
+Natural products
+0.000
+description
+5
+235000013343
+vitamin
+Nutrition
+0.000
+description
+5
+239000011782
+vitamin
+Substances
+0.000
+description
+5
+229940088594
+vitamin
+Drugs
+0.000
+description
+5
+NLXLAEXVIDQMFP-UHFFFAOYSA-N
+Ammonia chloride
+Chemical compound
+[NH4+].[Cl-]
+NLXLAEXVIDQMFP-UHFFFAOYSA-N
+0.000
+description
+4
+108010019160
+Pancreatin
+Proteins
+0.000
+description
+4
+239000000654
+additive
+Substances
+0.000
+description
+4
+235000010323
+ascorbic acid
+Nutrition
+0.000
+description
+4
+229960005070
+ascorbic acid
+Drugs
+0.000
+description
+4
+239000011668
+ascorbic acid
+Substances
+0.000
+description
+4
+230000015572
+biosynthetic process
+Effects
+0.000
+description
+4
+235000015872
+dietary supplement
+Nutrition
+0.000
+description
+4
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+lactic acid
+Chemical compound
+CC(O)C(O)=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+0.000
+description
+4
+229940055695
+pancreatin
+Drugs
+0.000
+description
+4
+230000008569
+process
+Effects
+0.000
+description
+4
+230000001603
+reducing effect
+Effects
+0.000
+description
+4
+239000004475
+Arginine
+Substances
+0.000
+description
+3
+ROHFNLRQFUQHCH-YFKPBYRVSA-N
+L-leucine
+Chemical compound
+CC(C)C[C@H](N)C(O)=O
+ROHFNLRQFUQHCH-YFKPBYRVSA-N
+0.000
+description
+3
+KZSNJWFQEVHDMF-BYPYZUCNSA-N
+L-valine
+Chemical compound
+CC(C)[C@H](N)C(O)=O
+KZSNJWFQEVHDMF-BYPYZUCNSA-N
+0.000
+description
+3
+ROHFNLRQFUQHCH-UHFFFAOYSA-N
+Leucine
+Natural products
+CC(C)CC(N)C(O)=O
+ROHFNLRQFUQHCH-UHFFFAOYSA-N
+0.000
+description
+3
+KZSNJWFQEVHDMF-UHFFFAOYSA-N
+Valine
+Natural products
+CC(C)C(N)C(O)=O
+KZSNJWFQEVHDMF-UHFFFAOYSA-N
+0.000
+description
+3
+102000007544
+Whey Proteins
+Human genes
+0.000
+description
+3
+108010046377
+Whey Proteins
+Proteins
+0.000
+description
+3
+240000008042
+Zea mays
+Species
+0.000
+description
+3
+235000005824
+Zea mays ssp. parviglumis
+Nutrition
+0.000
+description
+3
+235000002017
+Zea mays subsp mays
+Nutrition
+0.000
+description
+3
+ODKSFYDXXFIFQN-UHFFFAOYSA-N
+arginine
+Natural products
+OC(=O)C(N)CCCNC(N)=N
+ODKSFYDXXFIFQN-UHFFFAOYSA-N
+0.000
+description
+3
+201000001883
+cholelithiasis
+Diseases
+0.000
+description
+3
+235000005822
+corn
+Nutrition
+0.000
+description
+3
+235000005911
+diet
+Nutrition
+0.000
+description
+3
+230000000378
+dietary effect
+Effects
+0.000
+description
+3
+239000003814
+drug
+Substances
+0.000
+description
+3
+-1
+for example
+Substances
+0.000
+description
+3
+239000003102
+growth factor
+Substances
+0.000
+description
+3
+210000000936
+intestine
+Anatomy
+0.000
+description
+3
+235000019260
+propionic acid
+Nutrition
+0.000
+description
+3
+IUVKMZGDUIUOCP-BTNSXGMBSA-N
+quinbolone
+Chemical compound
+O([C@H]1CC[C@H]2[C@H]3[C@@H]([C@]4(C=CC(=O)C=C4CC3)C)CC[C@@]21C)C1=CCCC1
+IUVKMZGDUIUOCP-BTNSXGMBSA-N
+0.000
+description
+3
+229940071440
+soy protein isolate
+Drugs
+0.000
+description
+3
+235000021122
+unsaturated fatty acids
+Nutrition
+0.000
+description
+3
+150000004670
+unsaturated fatty acids
+Chemical class
+0.000
+description
+3
+239000004474
+valine
+Substances
+0.000
+description
+3
+YBJHBAHKTGYVGT-ZKWXMUAHSA-N
+(+)-Biotin
+Chemical compound
+N1C(=O)N[C@@H]2[C@H](CCCCC(=O)O)SC[C@@H]21
+YBJHBAHKTGYVGT-ZKWXMUAHSA-N
+0.000
+description
+2
+GHOKWGTUZJEAQD-ZETCQYMHSA-N
+(D)-(+)-Pantothenic acid
+Chemical compound
+OCC(C)(C)[C@@H](O)C(=O)NCCC(O)=O
+GHOKWGTUZJEAQD-ZETCQYMHSA-N
+0.000
+description
+2
+KDCGOANMDULRCW-UHFFFAOYSA-N
+7H-purine
+Chemical compound
+N1=CNC2=NC=NC2=C1
+KDCGOANMDULRCW-UHFFFAOYSA-N
+0.000
+description
+2
+208000035404
+Autolysis
+Diseases
+0.000
+description
+2
+206010057248
+Cell death
+Diseases
+0.000
+description
+2
+WQZGKKKJIJFFOK-GASJEMHNSA-N
+Glucose
+Natural products
+OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+WQZGKKKJIJFFOK-GASJEMHNSA-N
+0.000
+description
+2
+KDXKERNSBIXSRK-UHFFFAOYSA-N
+Lysine
+Natural products
+NCCCCC(N)C(O)=O
+KDXKERNSBIXSRK-UHFFFAOYSA-N
+0.000
+description
+2
+239000004472
+Lysine
+Substances
+0.000
+description
+2
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+Magnesium sulfate
+Chemical compound
+[Mg+2].[O-][S+2]([O-])([O-])[O-]
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+0.000
+description
+2
+AUNGANRZJHBGPY-SCRDCRAPSA-N
+Riboflavin
+Chemical compound
+OC[C@@H](O)[C@@H](O)[C@@H](O)CN1C=2C=C(C)C(C)=CC=2N=C2C1=NC(=O)NC2=O
+AUNGANRZJHBGPY-SCRDCRAPSA-N
+0.000
+description
+2
+238000009825
+accumulation
+Methods
+0.000
+description
+2
+239000013543
+active substance
+Substances
+0.000
+description
+2
+235000019270
+ammonium chloride
+Nutrition
+0.000
+description
+2
+238000004458
+analytical method
+Methods
+0.000
+description
+2
+QVGXLLKOCUKJST-UHFFFAOYSA-N
+atomic oxygen
+Chemical compound
+[O]
+QVGXLLKOCUKJST-UHFFFAOYSA-N
+0.000
+description
+2
+230000001580
+bacterial effect
+Effects
+0.000
+description
+2
+230000008901
+benefit
+Effects
+0.000
+description
+2
+239000005018
+casein
+Substances
+0.000
+description
+2
+BECPQYXYKAMYBN-UHFFFAOYSA-N
+casein, tech.
+Chemical compound
+NCCCCC(C(O)=O)N=C(O)C(CC(O)=O)N=C(O)C(CCC(O)=N)N=C(O)C(CC(C)C)N=C(O)C(CCC(O)=O)N=C(O)C(CC(O)=O)N=C(O)C(CCC(O)=O)N=C(O)C(C(C)O)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=O)N=C(O)C(CCC(O)=O)N=C(O)C(COP(O)(O)=O)N=C(O)C(CCC(O)=N)N=C(O)C(N)CC1=CC=CC=C1
+BECPQYXYKAMYBN-UHFFFAOYSA-N
+0.000
+description
+2
+235000021240
+caseins
+Nutrition
+0.000
+description
+2
+210000003022
+colostrum
+Anatomy
+0.000
+description
+2
+235000021277
+colostrum
+Nutrition
+0.000
+description
+2
+238000011161
+development
+Methods
+0.000
+description
+2
+208000037265
+diseases, disorders, signs and symptoms
+Diseases
+0.000
+description
+2
+230000002349
+favourable effect
+Effects
+0.000
+description
+2
+235000013922
+glutamic acid
+Nutrition
+0.000
+description
+2
+239000004220
+glutamic acid
+Substances
+0.000
+description
+2
+239000004310
+lactic acid
+Substances
+0.000
+description
+2
+235000014655
+lactic acid
+Nutrition
+0.000
+description
+2
+WRUGWIBCXHJTDG-UHFFFAOYSA-L
+magnesium sulfate heptahydrate
+Chemical compound
+O.O.O.O.O.O.O.[Mg+2].[O-]S([O-])(=O)=O
+WRUGWIBCXHJTDG-UHFFFAOYSA-L
+0.000
+description
+2
+235000013372
+meat
+Nutrition
+0.000
+description
+2
+244000005700
+microbiome
+Species
+0.000
+description
+2
+235000016709
+nutrition
+Nutrition
+0.000
+description
+2
+229920001542
+oligosaccharide
+Polymers
+0.000
+description
+2
+210000000056
+organ
+Anatomy
+0.000
+description
+2
+239000001301
+oxygen
+Substances
+0.000
+description
+2
+229910052760
+oxygen
+Inorganic materials
+0.000
+description
+2
+230000007170
+pathology
+Effects
+0.000
+description
+2
+238000004321
+preservation
+Methods
+0.000
+description
+2
+239000006041
+probiotic
+Substances
+0.000
+description
+2
+230000000529
+probiotic effect
+Effects
+0.000
+description
+2
+235000018291
+probiotics
+Nutrition
+0.000
+description
+2
+230000028043
+self proteolysis
+Effects
+0.000
+description
+2
+239000001488
+sodium phosphate
+Substances
+0.000
+description
+2
+229910000162
+sodium phosphate
+Inorganic materials
+0.000
+description
+2
+235000013322
+soy milk
+Nutrition
+0.000
+description
+2
+230000000087
+stabilizing effect
+Effects
+0.000
+description
+2
+CWERGRDVMFNCDR-UHFFFAOYSA-N
+thioglycolic acid
+Chemical compound
+OC(=O)CS
+CWERGRDVMFNCDR-UHFFFAOYSA-N
+0.000
+description
+2
+RYFMWSXOAZQYPI-UHFFFAOYSA-K
+trisodium phosphate
+Chemical compound
+[Na+].[Na+].[Na+].[O-]P([O-])([O-])=O
+RYFMWSXOAZQYPI-UHFFFAOYSA-K
+0.000
+description
+2
+241001148471
+unidentified anaerobic bacterium
+Species
+0.000
+description
+2
+MTCFGRXMJLQNBG-REOHCLBHSA-N
+(2S)-2-Amino-3-hydroxypropansäure
+Chemical compound
+OC[C@H](N)C(O)=O
+MTCFGRXMJLQNBG-REOHCLBHSA-N
+0.000
+description
+1
+IOCJWNPYGRVHLN-MMALYQPHSA-N
+(2r)-2-amino-3-[[(2r)-2-amino-2-carboxyethyl]disulfanyl]propanoic acid;hydrochloride
+Chemical compound
+Cl.OC(=O)[C@@H](N)CSSC[C@H](N)C(O)=O
+IOCJWNPYGRVHLN-MMALYQPHSA-N
+0.000
+description
+1
+DCXYFEDJOCDNAF-UHFFFAOYSA-N
+Asparagine
+Natural products
+OC(=O)C(N)CC(N)=O
+DCXYFEDJOCDNAF-UHFFFAOYSA-N
+0.000
+description
+1
+241000186016
+Bifidobacterium bifidum
+Species
+0.000
+description
+1
+OYPRJOBELJOOCE-UHFFFAOYSA-N
+Calcium
+Chemical compound
+[Ca]
+OYPRJOBELJOOCE-UHFFFAOYSA-N
+0.000
+description
+1
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+Carbon
+Chemical compound
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+description
+1
+GHOKWGTUZJEAQD-UHFFFAOYSA-N
+Chick antidermatitis factor
+Natural products
+OCC(C)(C)C(O)C(=O)NCCC(O)=O
+GHOKWGTUZJEAQD-UHFFFAOYSA-N
+0.000
+description
+1
+AUNGANRZJHBGPY-UHFFFAOYSA-N
+D-Lyxoflavin
+Natural products
+OCC(O)C(O)C(O)CN1C=2C=C(C)C(C)=CC=2N=C2C1=NC(=O)NC2=O
+AUNGANRZJHBGPY-UHFFFAOYSA-N
+0.000
+description
+1
+208000036649
+Dysbacteriosis
+Diseases
+0.000
+description
+1
+208000027244
+Dysbiosis
+Diseases
+0.000
+description
+1
+WHUUTDBJXJRKMK-UHFFFAOYSA-N
+Glutamic acid
+Natural products
+OC(=O)C(N)CCC(O)=O
+WHUUTDBJXJRKMK-UHFFFAOYSA-N
+0.000
+description
+1
+DGAQECJNVWCQMB-PUAWFVPOSA-M
+Ilexoside XXIX
+Chemical compound
+C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]
+DGAQECJNVWCQMB-PUAWFVPOSA-M
+0.000
+description
+1
+XUJNEKJLAYXESH-REOHCLBHSA-N
+L-Cysteine
+Chemical compound
+SC[C@H](N)C(O)=O
+XUJNEKJLAYXESH-REOHCLBHSA-N
+0.000
+description
+1
+ONIBWKKTOPOVIA-BYPYZUCNSA-N
+L-Proline
+Chemical compound
+OC(=O)[C@@H]1CCCN1
+ONIBWKKTOPOVIA-BYPYZUCNSA-N
+0.000
+description
+1
+QNAYBMKLOCPYGJ-REOHCLBHSA-N
+L-alanine
+Chemical compound
+C[C@H](N)C(O)=O
+QNAYBMKLOCPYGJ-REOHCLBHSA-N
+0.000
+description
+1
+DCXYFEDJOCDNAF-REOHCLBHSA-N
+L-asparagine
+Chemical compound
+OC(=O)[C@@H](N)CC(N)=O
+DCXYFEDJOCDNAF-REOHCLBHSA-N
+0.000
+description
+1
+ZDXPYRJPNDTMRX-VKHMYHEASA-N
+L-glutamine
+Chemical compound
+OC(=O)[C@@H](N)CCC(N)=O
+ZDXPYRJPNDTMRX-VKHMYHEASA-N
+0.000
+description
+1
+UPYKUZBSLRQECL-UKMVMLAPSA-N
+Lycopene
+Natural products
+CC(=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1C(=C)CCCC1(C)C)C=CC=C(/C)C=CC2C(=C)CCCC2(C)C
+UPYKUZBSLRQECL-UKMVMLAPSA-N
+0.000
+description
+1
+206010049565
+Muscle fatigue
+Diseases
+0.000
+description
+1
+OVRNDRQMDRJTHS-CBQIKETKSA-N
+N-Acetyl-D-Galactosamine
+Chemical compound
+CC(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@H](O)[C@@H]1O
+OVRNDRQMDRJTHS-CBQIKETKSA-N
+0.000
+description
+1
+OVRNDRQMDRJTHS-UHFFFAOYSA-N
+N-acelyl-D-glucosamine
+Natural products
+CC(=O)NC1C(O)OC(CO)C(O)C1O
+OVRNDRQMDRJTHS-UHFFFAOYSA-N
+0.000
+description
+1
+MBLBDJOUHNCFQT-UHFFFAOYSA-N
+N-acetyl-D-galactosamine
+Natural products
+CC(=O)NC(C=O)C(O)C(O)C(O)CO
+MBLBDJOUHNCFQT-UHFFFAOYSA-N
+0.000
+description
+1
+OVRNDRQMDRJTHS-FMDGEEDCSA-N
+N-acetyl-beta-D-glucosamine
+Chemical compound
+CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+OVRNDRQMDRJTHS-FMDGEEDCSA-N
+0.000
+description
+1
+OVRNDRQMDRJTHS-OZRXBMAMSA-N
+N-acetyl-beta-D-mannosamine
+Chemical compound
+CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+OVRNDRQMDRJTHS-OZRXBMAMSA-N
+0.000
+description
+1
+MBLBDJOUHNCFQT-LXGUWJNJSA-N
+N-acetylglucosamine
+Natural products
+CC(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO
+MBLBDJOUHNCFQT-LXGUWJNJSA-N
+0.000
+description
+1
+ONIBWKKTOPOVIA-UHFFFAOYSA-N
+Proline
+Natural products
+OC(=O)C1CCCN1
+ONIBWKKTOPOVIA-UHFFFAOYSA-N
+0.000
+description
+1
+CZPWVGJYEJSRLH-UHFFFAOYSA-N
+Pyrimidine
+Chemical compound
+C1=CN=CN=C1
+CZPWVGJYEJSRLH-UHFFFAOYSA-N
+0.000
+description
+1
+MUPFEKGTMRGPLJ-RMMQSMQOSA-N
+Raffinose
+Natural products
+O(C[C@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O[C@@]2(CO)[C@H](O)[C@@H](O)[C@@H](CO)O2)O1)[C@@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@@H](CO)O1
+MUPFEKGTMRGPLJ-RMMQSMQOSA-N
+0.000
+description
+1
+MTCFGRXMJLQNBG-UHFFFAOYSA-N
+Serine
+Natural products
+OCC(N)C(O)=O
+MTCFGRXMJLQNBG-UHFFFAOYSA-N
+0.000
+description
+1
+JZRWCGZRTZMZEH-UHFFFAOYSA-N
+Thiamine
+Natural products
+CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N
+JZRWCGZRTZMZEH-UHFFFAOYSA-N
+0.000
+description
+1
+MUPFEKGTMRGPLJ-UHFFFAOYSA-N
+UNPD196149
+Natural products
+OC1C(O)C(CO)OC1(CO)OC1C(O)C(O)C(O)C(COC2C(C(O)C(O)C(CO)O2)O)O1
+MUPFEKGTMRGPLJ-UHFFFAOYSA-N
+0.000
+description
+1
+229930003316
+Vitamin D
+Natural products
+0.000
+description
+1
+QYSXJUFSXHHAJI-XFEUOLMDSA-N
+Vitamin D3
+Natural products
+C1(/[C@@H]2CC[C@@H]([C@]2(CCC1)C)[C@H](C)CCCC(C)C)=C/C=C1\C[C@@H](O)CCC1=C
+QYSXJUFSXHHAJI-XFEUOLMDSA-N
+0.000
+description
+1
+239000002253
+acid
+Substances
+0.000
+description
+1
+230000000996
+additive effect
+Effects
+0.000
+description
+1
+230000002411
+adverse
+Effects
+0.000
+description
+1
+235000004279
+alanine
+Nutrition
+0.000
+description
+1
+239000003513
+alkali
+Substances
+0.000
+description
+1
+150000003863
+ammonium salts
+Chemical class
+0.000
+description
+1
+235000009582
+asparagine
+Nutrition
+0.000
+description
+1
+229960001230
+asparagine
+Drugs
+0.000
+description
+1
+235000003704
+aspartic acid
+Nutrition
+0.000
+description
+1
+150000001510
+aspartic acids
+Chemical class
+0.000
+description
+1
+230000037208
+balanced nutrition
+Effects
+0.000
+description
+1
+235000019046
+balanced nutrition
+Nutrition
+0.000
+description
+1
+230000009286
+beneficial effect
+Effects
+0.000
+description
+1
+230000004071
+biological effect
+Effects
+0.000
+description
+1
+230000001851
+biosynthetic effect
+Effects
+0.000
+description
+1
+235000020958
+biotin
+Nutrition
+0.000
+description
+1
+229960002685
+biotin
+Drugs
+0.000
+description
+1
+239000011616
+biotin
+Substances
+0.000
+description
+1
+235000019658
+bitter taste
+Nutrition
+0.000
+description
+1
+239000008280
+blood
+Substances
+0.000
+description
+1
+210000004369
+blood
+Anatomy
+0.000
+description
+1
+230000003139
+buffering effect
+Effects
+0.000
+description
+1
+239000011575
+calcium
+Substances
+0.000
+description
+1
+229910052791
+calcium
+Inorganic materials
+0.000
+description
+1
+150000001720
+carbohydrates
+Chemical class
+0.000
+description
+1
+235000014633
+carbohydrates
+Nutrition
+0.000
+description
+1
+229910052799
+carbon
+Inorganic materials
+0.000
+description
+1
+235000005473
+carotenes
+Nutrition
+0.000
+description
+1
+150000001746
+carotenes
+Chemical class
+0.000
+description
+1
+230000015556
+catabolic process
+Effects
+0.000
+description
+1
+239000003638
+chemical reducing agent
+Substances
+0.000
+description
+1
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+cholesterol
+Chemical compound
+C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+0.000
+description
+1
+230000000052
+comparative effect
+Effects
+0.000
+description
+1
+238000011109
+contamination
+Methods
+0.000
+description
+1
+235000020247
+cow milk
+Nutrition
+0.000
+description
+1
+235000015140
+cultured milk
+Nutrition
+0.000
+description
+1
+235000014048
+cultured milk product
+Nutrition
+0.000
+description
+1
+230000007812
+deficiency
+Effects
+0.000
+description
+1
+239000008121
+dextrose
+Substances
+0.000
+description
+1
+201000010099
+disease
+Diseases
+0.000
+description
+1
+208000035475
+disorder
+Diseases
+0.000
+description
+1
+229940079593
+drug
+Drugs
+0.000
+description
+1
+230000007140
+dysbiosis
+Effects
+0.000
+description
+1
+238000005516
+engineering process
+Methods
+0.000
+description
+1
+230000007613
+environmental effect
+Effects
+0.000
+description
+1
+230000003631
+expected effect
+Effects
+0.000
+description
+1
+238000000855
+fermentation
+Methods
+0.000
+description
+1
+230000004151
+fermentation
+Effects
+0.000
+description
+1
+238000001914
+filtration
+Methods
+0.000
+description
+1
+206010016766
+flatulence
+Diseases
+0.000
+description
+1
+239000000796
+flavoring agent
+Substances
+0.000
+description
+1
+235000019634
+flavors
+Nutrition
+0.000
+description
+1
+238000009472
+formulation
+Methods
+0.000
+description
+1
+239000008103
+glucose
+Substances
+0.000
+description
+1
+150000002307
+glutamic acids
+Chemical class
+0.000
+description
+1
+ZDXPYRJPNDTMRX-UHFFFAOYSA-N
+glutamine
+Natural products
+OC(=O)C(N)CCC(N)=O
+ZDXPYRJPNDTMRX-UHFFFAOYSA-N
+0.000
+description
+1
+150000002337
+glycosamines
+Chemical class
+0.000
+description
+1
+210000000987
+immune system
+Anatomy
+0.000
+description
+1
+230000000977
+initiatory effect
+Effects
+0.000
+description
+1
+229910052500
+inorganic mineral
+Inorganic materials
+0.000
+description
+1
+210000004347
+intestinal mucosa
+Anatomy
+0.000
+description
+1
+229910000358
+iron sulfate
+Inorganic materials
+0.000
+description
+1
+BAUYGSIQEAFULO-UHFFFAOYSA-L
+iron(2+) sulfate (anhydrous)
+Chemical compound
+[Fe+2].[O-]S([O-])(=O)=O
+BAUYGSIQEAFULO-UHFFFAOYSA-L
+0.000
+description
+1
+229960000310
+isoleucine
+Drugs
+0.000
+description
+1
+AGPKZVBTJJNPAG-UHFFFAOYSA-N
+isoleucine
+Natural products
+CCC(C)C(N)C(O)=O
+AGPKZVBTJJNPAG-UHFFFAOYSA-N
+0.000
+description
+1
+210000003734
+kidney
+Anatomy
+0.000
+description
+1
+229910052943
+magnesium sulfate
+Inorganic materials
+0.000
+description
+1
+235000019341
+magnesium sulphate
+Nutrition
+0.000
+description
+1
+244000005706
+microflora
+Species
+0.000
+description
+1
+235000010755
+mineral
+Nutrition
+0.000
+description
+1
+239000011707
+mineral
+Substances
+0.000
+description
+1
+229950006780
+n-acetylglucosamine
+Drugs
+0.000
+description
+1
+QJGQUHMNIGDVPM-UHFFFAOYSA-N
+nitrogen group
+Chemical group
+[N]
+QJGQUHMNIGDVPM-UHFFFAOYSA-N
+0.000
+description
+1
+230000035764
+nutrition
+Effects
+0.000
+description
+1
+150000002482
+oligosaccharides
+Chemical class
+0.000
+description
+1
+125000001477
+organic nitrogen group
+Chemical group
+0.000
+description
+1
+230000008520
+organization
+Effects
+0.000
+description
+1
+235000019161
+pantothenic acid
+Nutrition
+0.000
+description
+1
+229940055726
+pantothenic acid
+Drugs
+0.000
+description
+1
+239000011713
+pantothenic acid
+Substances
+0.000
+description
+1
+230000001766
+physiological effect
+Effects
+0.000
+description
+1
+239000002244
+precipitate
+Substances
+0.000
+description
+1
+230000002265
+prevention
+Effects
+0.000
+description
+1
+102000004196
+processed proteins & peptides
+Human genes
+0.000
+description
+1
+108090000765
+processed proteins & peptides
+Proteins
+0.000
+description
+1
+238000012545
+processing
+Methods
+0.000
+description
+1
+235000013930
+proline
+Nutrition
+0.000
+description
+1
+230000000069
+prophylactic effect
+Effects
+0.000
+description
+1
+235000004252
+protein component
+Nutrition
+0.000
+description
+1
+230000002797
+proteolythic effect
+Effects
+0.000
+description
+1
+238000011002
+quantification
+Methods
+0.000
+description
+1
+MUPFEKGTMRGPLJ-ZQSKZDJDSA-N
+raffinose
+Chemical compound
+O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO[C@@H]2[C@@H]([C@@H](O)[C@@H](O)[C@@H](CO)O2)O)O1
+MUPFEKGTMRGPLJ-ZQSKZDJDSA-N
+0.000
+description
+1
+239000002994
+raw material
+Substances
+0.000
+description
+1
+230000009467
+reduction
+Effects
+0.000
+description
+1
+235000019192
+riboflavin
+Nutrition
+0.000
+description
+1
+229960002477
+riboflavin
+Drugs
+0.000
+description
+1
+239000002151
+riboflavin
+Substances
+0.000
+description
+1
+231100000279
+safety data
+Toxicity
+0.000
+description
+1
+150000003839
+salts
+Chemical class
+0.000
+description
+1
+239000013049
+sediment
+Substances
+0.000
+description
+1
+235000004400
+serine
+Nutrition
+0.000
+description
+1
+239000011734
+sodium
+Substances
+0.000
+description
+1
+229910052708
+sodium
+Inorganic materials
+0.000
+description
+1
+GNBVPFITFYNRCN-UHFFFAOYSA-M
+sodium thioglycolate
+Chemical compound
+[Na+].[O-]C(=O)CS
+GNBVPFITFYNRCN-UHFFFAOYSA-M
+0.000
+description
+1
+229940046307
+sodium thioglycolate
+Drugs
+0.000
+description
+1
+235000021262
+sour milk
+Nutrition
+0.000
+description
+1
+239000007858
+starting material
+Substances
+0.000
+description
+1
+230000001954
+sterilising effect
+Effects
+0.000
+description
+1
+238000004659
+sterilization and disinfection
+Methods
+0.000
+description
+1
+230000004936
+stimulating effect
+Effects
+0.000
+description
+1
+238000013517
+stratification
+Methods
+0.000
+description
+1
+239000013589
+supplement
+Substances
+0.000
+description
+1
+230000004083
+survival effect
+Effects
+0.000
+description
+1
+238000003786
+synthesis reaction
+Methods
+0.000
+description
+1
+230000001225
+therapeutic effect
+Effects
+0.000
+description
+1
+235000019157
+thiamine
+Nutrition
+0.000
+description
+1
+KYMBYSLLVAOCFI-UHFFFAOYSA-N
+thiamine
+Chemical compound
+CC1=C(CCO)SCN1CC1=CN=C(C)N=C1N
+KYMBYSLLVAOCFI-UHFFFAOYSA-N
+0.000
+description
+1
+229960003495
+thiamine
+Drugs
+0.000
+description
+1
+239000011721
+thiamine
+Substances
+0.000
+description
+1
+210000001685
+thyroid gland
+Anatomy
+0.000
+description
+1
+239000011573
+trace mineral
+Substances
+0.000
+description
+1
+235000013619
+trace mineral
+Nutrition
+0.000
+description
+1
+LWIHDJKSTIGBAC-UHFFFAOYSA-K
+tripotassium phosphate
+Chemical class
+[K+].[K+].[K+].[O-]P([O-])([O-])=O
+LWIHDJKSTIGBAC-UHFFFAOYSA-K
+0.000
+description
+1
+230000035899
+viability
+Effects
+0.000
+description
+1
+235000019155
+vitamin A
+Nutrition
+0.000
+description
+1
+239000011719
+vitamin A
+Substances
+0.000
+description
+1
+NCYCYZXNIZJOKI-UHFFFAOYSA-N
+vitamin A aldehyde
+Natural products
+O=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C
+NCYCYZXNIZJOKI-UHFFFAOYSA-N
+0.000
+description
+1
+235000019156
+vitamin B
+Nutrition
+0.000
+description
+1
+239000011720
+vitamin B
+Substances
+0.000
+description
+1
+235000019166
+vitamin D
+Nutrition
+0.000
+description
+1
+239000011710
+vitamin D
+Substances
+0.000
+description
+1
+150000003710
+vitamin D derivatives
+Chemical class
+0.000
+description
+1
+229940046008
+vitamin d
+Drugs
+0.000
+description
+1
+Images
+Landscapes
+Micro-Organisms Or Cultivation Processes Thereof
+(AREA)
+Dairy Products
+(AREA)
+Abstract
+Изобретение относится к биотехнологии и может быть использовано в микробиологической, пищевой промышленности и касается приготовления питательных сред, используемых для культивирования бифидобактерий. Питательная среда содержит основу, цистеин солянокислый (L-цистин), D(-)-лактозу, гидролизат молочных белков, аутолизат дрожжей, натрий хлористый. В качестве гидролизата молочных белков используют панкреатический гидролизат обрата молока, в качестве аутолизата дрожжей используют ферментативный аутолизат дрожжей, а в качестве основы используют нормализованный по сухому остатку обрат молока при суммарном содержании аминного азота в питательной среде 260-300 мг% и количественном соотношении ее компонентов, мас.%: панкреатический гидролизат обрата молока 5,0-7,0; цистеин солянокислый (L-цистин) 0,001-0,003; D(-)-лактоза 0,03-0,09; натрий хлористый 0,01-0,05; ферментативный аутолизат дрожжей 1,0-2,0; нормализованный по сухому остатку обрат молока (основа) - остальное до 100%. В качестве ферментативного аутолизата дрожжей используют аутолизат с показателем аминного азота 350-400 мг%. Обрат молока нормализован по сухому остатку до значения 13,0-14%, а количество вносимой лактозы снижено по сравнению с аналогом в 1,5-2 раза. Причем в питательную среду дополнительно вносят соевый изолят в количестве по массе 0,2-0,3%, а для активизации соевого изолята в питательную среду дополнительно вводят цитрат натрия в количестве по массе 0,1-0,2%. Изобретение позволяет увеличить срок хранения бифидосодеращих препаратов, полученных с использованием предложенной питательной среды. 4 з.п. ф-лы, 2 табл.
+Description
+Изобретение относится к биотехнологии и может быть использовано в микробиологической, пищевой промышленности и касается приготовления питательных сред, используемых для культивирования бифидобактерий с целью получения их биомассы с повышенным содержанием аминокислот, витаминов и других биологически активных веществ, что очень важно при рецептуростроении лечебно-диетических продуктов и биологически активных добавок (БАД). Молочная питательная среда может быть использована в производстве лечебно-профилактических кисломолочных продуктов, лекарственных препаратов-эубиотиков и БАД.
+Подбор эффективной и недорогой питательной среды, соответствующей потребностям бифидобактерий, является одной из основных задач в производстве лечебно-диетических продуктов, БАД, а также препаратов-эубиотиков, нормализующих биоценоз слизистых кишечника. Учитывая, что помимо бифидобактерий, активную роль в лечении и профилактике дисбактериозов и связанных с ним заболеваний играют биологически активные вещества - витамины, аминокислоты, непредельные жирные кислоты, одной из главных задач является создание питательной среды, богатой этими веществами.
+У бифидобактерий отмечена биосинтетическая недостаточность по некоторым веществам. Постоянным местом обитания бифидобактерий является кишечник, в котором органические вещества находятся в легкоусвояемой форме, поэтому бифидобактерии утратили ряд функций расщепления и синтеза некоторых органических веществ. Для культивирования этих микроорганизмов требуется множество факторов роста, таких, например, как биотин, пантотеновая кислота, цистеин, рибофлавин, пуриновые и пиримидиновые основания, аминосахара, олигосахариды, ненасыщенные жирные кислоты.
+Своеобразны потребности бифидобактерий в азотсодержащих веществах. Штаммы, обитающие в кишечнике грудных детей, наиболее требовательны к органическому азоту, некоторые штаммы могут использовать в качестве единственного источника азота аммонийные соли. Некоторые штаммы бифидобактерий растут при наличии азотсодержащих олигосахаридов (N-ацетилглюкозамин, N-ацетилгалактозамин, N-ацетилманнозамин).
+Из аминокислот бифидобактериям чаще всего требуются пролин, серин, аланин, аспарагиновая и глутаминовая кислоты. Потребности в минеральных веществах еще мало изучены, однако известно, что натрий выполняет особую роль в жизнедеятельности бифидобактерий, ускоряя их развитие и повышая выход биомассы. Белки молока характеризуются высокой биологической ценностью и оригинальным набором аминокислот, что позволяет улучшить общую сбалансированность аминокислот всего конечного продукта. Углеводы молока представлены своеобразным сахаром - лактозой, который является одним из основных ростовых факторов для бифидобактерий. Поступление лактозы в кишечник человека, особенно ферментированной, оказывает нормализующее действие на состав полезной микрофлоры.
+В молоке представлен большой ассортимент микроэлементов. Особое значение имеет кальций молока, который можно рассматривать как легкоусвояемый. В молоке представлен благоприятно сбалансированный комплекс витаминов, особенно витаминов A, B2, витамина D, каротина, тиамина и аскорбиновой кислоты.
+Коровье молока не является естественной средой обитания бифидобактерий, поэтому в молоке они развиваются медленно. У бифидобактерий не обнаружено значительной протеолитической активности, т. е. они могут усваивать белки молока только после частичного гидролиза; не способствует росту бифидобактерий и растворенный в молоке кислород.
+Известна питательная среда на основе гидролизата гороха при следующем соотношении компонентов (Патент РФ RU 2061037, МПК C 12 N 1/20, опубл. 20.10.96): Пептон - 0,15 - 0,25 Хлористый натрий - 0,2 - 0,4 Агар-агар - 0,075 - 0,1 Лактоза - 0,5 - 2,0 Гидролизат гороха, разведенный водой до содержания аминного азота 130 - 150 мг% - остальное до 100% Однако данный состав среды имеет низкое содержание усвояемых форм азота и не дает ожидаемого эффекта при наращивании биомассы бифидобактерий (количество жизнеспособных бифидобактерий не более 108 Кое/мл). Молочнокислые микроорганизмы, лишенные при культивировании специфических компонентов молока, плохо развиваются в такой среде, дают нечеткую картину роста, при этом морфология бактерий неоднородна.
+Известна также питательная среда для культивирования бифидобактерий, используемая в производстве бифидумбактерина (Патент РФ RU 2080376, МПК C 12 N 1/20, опубл. 1995): Железо сернокислое - 0,002 - 0,1 Натрий хлористый - 4,0 - 6,0 Глюкоза - 8,0 - 12,0 Агар-агар - 0,75 - 1,0 Аскорбиновая кислота - 0,8 - 1,0 Гидролизат молозивной казеиново-сывороточной массы - Остальное до 100% Однако аминный азот такой среды весьма низок 70 - 110 мг%, поэтому среда обладает слабыми ростовыми свойствами, что выражается в получении биомассы с недостаточно высоким уровнем жизнеспособных клеток (2 • 109 Кое/мл). Кроме того, такая среда предназначена для культивирования только бифидобактерий. В виду труднодоступности и высокой стоимости сырья (молозивной казеиново-сывороточной массы) данная питательная среда для крупномасштабного культивирования бифидобактерий и пропионово-кислых бактерий неперспективна.
+Известно, что базовой средой для бактерий-анаэробов является мясопептонный бульон, богатый свободными аминокислотами с дополнительным внесением в него агаризующих веществ типа декстрозы или агар-агара. Это позволяет создавать высокие редуцирующие свойства у среды (обеднение ее кислородом), необходимые для роста анаэробов. Для усиления редуцирующих свойств в мясопептонный бульон вводят также тиогликолят натрия или тиогликолевую кислоту (Bittner J. - In: Biology and Pathology of Anaerobic Bacteria, Bucharest, 1975, p.61-69).
+Однако среда на основе мясопептонного бульона является не только дорогостоящей и нестандартной, но и непригодна для получения заквасок пропионово-кислых бактерий в пищевой промышленности из-за наличия в ней тиогликолятов.
+Известна также широко распространенная для культивирования бифидобактерий и молочнокислых бактерий кукурузно-лактозная среда: Агар-агар - 2,5 г Пептон - 10 г Кукурузный экстракт - 40 мл Натрий лимоннокислый - 6,6 г Магний сернокислый - 0,12 г Калий фосфорнокислый двузамещенный - 2,0 г Лактоза - 10 г Цистин солянокислый - 0,15 г Недостатками этой среды являются: - нестандартность кукурузного экстракта, который зачастую имеет высокую обсемененность споровыми формами бактерий; - продукты, приготовленные на ее основе, имеют недостаточную сохранность бактерий при хранении; - неудовлетворительные органолептические свойства получаемых продуктов, связанные с характерным привкусом кукурузного экстракта; - не содержит белковых компонентов молока.
+Известна питательная среда для культивирования бифидобактерий следующего состава (ГОСТ 25102-82 или СанПИН 42-123-49-40-88 п.5.2. и 7.2. Гидролизатно-молочная среда): Пептон - 2,0 - 2,5 Натрий хлористый - 2,0 - 3,0 Цистеин (L-цистин) солянокислый - 0,1 - 0,15 Лактоза - 8,0 - 10,0 Агар-агар - 0,7 - 0,8 Гидролизат обрата молока - До 1 л pH среды - 7,2 - 7,4 Среда такого состава дает хорошие результаты при культивировании бифидобактерий и для количественного определения жизнеспособных бактерий. Однако в качестве основы этой среды используется только гидролизат молока, что обусловливает высокую стоимость среды и низкие органолептические свойства, выраженные в горьком вкусе конечного продукта. Поэтому данная среда непригодна для приготовления на ее основе БАД или лечебно-диетических продуктов.
+Известна питательная среда для накопления биомассы бифидобактерий, содержащая питательную основу, источник углерода - лактозу, редуцирующее вещество - D, L-цистеин, агар-агар и воду. В качестве питательной основы она содержит молочную сыворотку, осветленную последовательной обработкой обезжиренного молока кислотой и щелочью, и дрожжевой автолизат сухой или жидкий, и дополнительно натрий фосфорнокислый однозамещенный двуводный, аммоний хлористый и магний сернокислый семиводный (патент РФ N 2087532, МПК C 12 N 1/20, опубл. 20.08.97), при следующем соотношении компонентов, мас.%: Молочная сыворотка осветленная - 7,5 - 10,0 Дрожжевой автолизат сухой или жидкий - 0,2 - 3,0 Лактоза - 0,3 - 0,5 D,L-цистеин - 0,05 - 0,1 Натрий фосфорнокислый однозамещенный двуводный - 0,7 - 0,8 Аммоний хлористый - 0,1 - 0,15 Магний сернокислый семиводный - 0,015 - 0,02 Агар-агар - 0,075 - 0,08 Вода - Остальное до 100% Среда имеет pH 7,2 - 7,4 и довольно высокие ростовые качества со значительным сокращением продолжительности роста бифидобактерий и получением ее массы с титром до 109 Кое/мл.
+Однако, как правило, при сокращении продолжительности роста бифидобактерий (времени культивирования) происходит значительное повышение титруемой кислотности (oT) конечного продукта, которая в свою очередь снижает его органолептические качества и сохранность жизнеспособных бактерий.
+Наиболее близким аналогом (прототипом) является питательная среда, используемая для получения концентрата бифидобактерий и содержащая основу питательной среды, цистин солянокислый, автолизат пекарских дрожжей, D(-)-лактозу, аскорбиновую кислоту, гидролизат молока (Патент РФ N 2104706, МПК 6 A 61 K 35/74, C 12 N 1/20, A 23 C 9/127, опубл. 1997 г.). В качестве основы питательной среды используют стерильное молоко с содержанием сухого остатка молока (СОМ) 11-14% при следующем соотношении компонентов питательной среды, мас.%: Гидролизат молока - 7,0 - 9,0 D(-)-лактоза - 0,05 - 0,15 Цистин солянокислый - 0,001 - 0,007 Аскорбиновая кислота - 0,003 - 0,009 Автолизат пекарских дрожжей - 0,5 - 2,0 Стерильное молоко (основа) - До 100% Такая среда имеет высокие ростовые свойства и органолептические показатели готового продукта.
+Однако среда-прототип не обеспечивает достаточно длительных сроков хранения (более 2-х месяцев) бактериального концентрата.
+Задачей предлагаемого изобретения является получение питательной среды с сохранением высоких ростовых свойств как для бифидобактерий, так и для других полезных анаэробов, например пропионово-кислых бактерий, с обеспечением более длительных сроков хранения концентрата бактерий без существенного изменения их титра и органолептических свойств готового продукта.
+Указанная задача достигается тем, что в питательной среде для получения концентрированной биомассы бифидобактерий при производстве препаратов-пробиотиков, содержащей основу, цистеин солянокислый (L-цистин), D(-)-лактозу, гидролизат молочных белков и аутолизат дрожжей, согласно изобретению среда дополнительно содержит натрий хлористый, в качестве гидролизата молочных белков используют панкреатический гидролизат обрата молока, в качестве аутолизата дрожжей используют ферментативный аутолизат дрожжей, а в качестве основы используют нормализованный по сухому остатку обрат молока при суммарном содержании аминного азота в питательной среде 260-300 мг% и количественном соотношении ее компонентов (мас.%): Панкреатический гидролизат обрата молока - 5,0 - 7,0 Цистеин соленокислый (L-цистин) - 0,001 - 0,003 D(-)-лактоза - 0,03-0,09 Натрий хлористый - 0,01 - 0,05 Ферментативный аутолизат дрожжей - 1,0 - 2,0 Нормализованный по сухому остатку обрат молока (основа) - Остальное до 100% В качестве ферментативного аутолизата дрожжей используют аутолизат с показателем аминного азота 350 - 400 мг%. Обрат молока нормализован по сухому остатку до значения 13,0 - 14%, а количество вносимой лактозы снижено по сравнению с аналогом в 1,5 - 2 раза.
+Причем в питательную среду дополнительно вносят соевый изолят в количестве по массе 0,2 - 0,3%, а для активизации соевого изолята в питательную среду дополнительно вводят цитрат натрия в количестве по массе 0,1 - 0,2%.
+В условиях массового производства биопрепаратов-пробиотиков весьма актуально улучшение органолептических свойств получаемых на основе питательной среды продуктов, а также повышение их биологической ценности за счет повышения содержания свободных аминокислот, витаминов и непредельных жирных кислот.
+Введение в основу среды панкреатического гидролиза белков обрата молока обеспечивает обогащение ее смесью высокомолекулярными и низкомолекулярными пептидами, которые являются эффективными стимуляторами роста бифидобактерий (Т.М.Эрвольдер, А.В.Гудков и Л.П.Семенова. Воздействие ферментативных гидролизатов на накопление биомассы бифидобактерий. Журн. "Молочная промышленность", N 12, 1980, - с.15-17).
+Ферментативный аутолизат дрожжей содержит витамины и стимулирующие факторы роста бифидобактерий Bifidobacterium bifidum, а также оптимальное содержание аминного азота, обеспечивающего наиболее благоприятные условия роста для бифидобактерий.
+D-(-)-лактоза является для клеток бифидобактерий умеренным стрессовым фактором и обеспечивает инициацию полиморфности клеток бифидобактерий (палочкообразные, коккоидные и переходные между ними формы). Полиморфность клеток в популяции придает ей дополнительную устойчивость к неблагоприятным факторам внешней среды, т.е. обеспечиваются более длительные сроки хранения препарата бифидобакетрий в жидкой форме без потери активности (Лазарева Г.И. Автореферат дисс. к.б.н. "Изучение физиологических свойств и структурно-функциональной организации бифидобактерий". -Минск, 1991, - 25 с.).
+Для достижения необходимой глубины гидролиза обрата молока были оптимизированы некоторые технологические параметры - количество вносимого панкреатина, температура гидролиза, способ фильтрования осадка, проведена работа по подбору для гидролиза оптимального количественного значения сухого остатка обезжиренного молока - СОМ. В результате была получена модифицированная гидролизатно-молочная среда, отличающаяся от известной ГМ-среды и среды-прототипа повышенным содержанием аминного азота - 410 ± 9 мг% и pH среды - 6,8.
+В заявляемой среде в качестве бифидостимулирующей добавки использован ферментативный аутолизат дрожжей, который повышает в среде содержание витаминов группы B. Готовили аутолизат по известной схеме (СанПиН). Для затравки автолиза, повышения выхода свободных аминокислот, увеличивающих ценность конечного продукта, для ускорения процесса приготовления аутолизата и процесса заквашивания конечного продукта использовали добавки панкреатина в различных количествах от 0,1 до 0,5%. В прототипе использовали аутолизат, приготовленный без добавок. Оптимальным оказался вариант с 0,1% панкреатина, который давал значительно более высокое содержание аминного азота (350-400 мг%) и приемлемые величины pH. В вариантах с другим количеством панкреатина, несмотря на большое содержание аминного азота, не отмечено заметного увеличения ростовых свойств, были получены низкие значения pH. Кроме того, эти варианты неэкономичны в условиях производства.
+Компонентами, обеспечивающими редуцирующие свойства заявляемой среды, являются, в основном, цистеин, а также аминокислоты глутамин и аспарагин, которыми богат ферментативный автолизат дрожжей, входящий в состав среды (Ибрагимова С. И., Неронова Н.М., Работнова И.Л., ж. Микробиология, т.40, N 5, 1971, с. 833-834).
+В процессе отработки технологических режимов получения молочной основы с высоким содержанием СОМ было показано, что в процессе стерилизации молочной основы происходит частичное свертывание казеина с образованием микрокоагулятов, которые затем при хранении концентрата бифидобактерий приводят к заметному расслоению продукта - появляется отстой сыворотки, достигающий более 10%, что недопустимо. Поэтому для стабилизации казеина и повышения содержания белков в молоке были проведены исследования по введению в молочную среду соевых белков.
+Белковые соевые изоляты наряду с обогащением молока аминокислотами выполняют также стабилизирующую функцию при производстве кисломолочных напитков, что широко используется в молочной промышленности. Известно, что соевые белки-изоляты обладают большой влагоудерживающей способностью (1 г изолята связывает до 7 г воды). Это позволяет использовать их для структурирования сложных жирных молочных смесей. Соевые белки также обладают буферными свойствами и сдерживают нарастание кислотности в кисломолочных продуктах. В соевых белках относительно высокое содержание незаменимых аминокислот, что позволяет повышать биологическую ценность продуктов соевыми добавками. Изолированные и очищенные соевые белки имеют определенные преимущества по сравнению с соевым молоком, для которого характерна большая нестандартность по основным показателям молока ввиду несовершенства отечественных технологий по его изготовлению. Кроме того, преимуществом изолированных соевых белков перед соевым молоком является то, что в изолированных соевых белках отсутствует сахар раффиноза, который может быть причиной метеоризма. Важно отметить, что помимо стабилизации молочного сгустка и снижения кислотности кисломолочного сгустка, введение соевого белка-изолята, в частности СУПРО-760, позволило повысить пищевую и биологическую ценность готового продукта, поскольку СУПРО-760 является полноценным легкоусвояемым белком, снижает уровень сывороточного холестерина и мышечную усталость. Белок богат важными незаменимыми аминокислотами - изолейцина - 4,3%, лейцина - 7,2%, валина - 4,4%, аргинина - 6,7%, глютаминовой кислоты - 16,8%. Таким образом, соевый изолированный белок СУПРО-760 позволил оптимизировать аминокислотный состав питательной среды и, следовательно, жидкого концентрата бифидобактерий, приготовленного на ее основе, приблизив его к "формуле сбалансированного питания", разработанной А.А.Покровским.
+Известно, что в молоке содержание незаменимых аминокислот составляет порядка 41-42%, при этом содержание свободных аминокислот не превышает 4-5%. По сравнению с молоком в жидком концентрате бифидобактерий содержание свободных аминокислот достигает 14,7%, из которых доля незаменимых аминокислот составляет 50,1%.
+Богатый набор незаменимых аминокислот в жидком концентрате бифидобактерий, полученном с использованием соевого белка-изолята, таких как: валин - 8,3%, лейцина - 13,4%, лизин - 7,7%, а также метионин-3,1%, имеет важное физиологическое значение, поскольку недостаток валина приводит к расстройству координации движений, недостаток лейцина вызывает изменения в почках и щитовидной железе, недостаток лизина приводит к нарушению процессов кроветворения. В жидком концентрате бифидобактерий содержание аргинина удалось повысить до 7,7% против 2% в первоначальном варианте продукта. Повышение содержания аргинина важно потому, что эта аминокислота способствует стимуляции иммунной системы организма.
+Несмотря на то, что введение соевого белкового изолята увеличивает стоимость питательной среды, биологическая активность жидкого концентрата бифидобактерий, изготовленного на такой основе, усиливается. В этом случае сфера применения ЖКБ расширяется на области медицины, связанные с лечением общих дистрофий, дистрофий отдельных органов или для улучшения питания всех систем организма. В этом случае ЖКБ может являться не только закваской для молочной промышленности или БАДом, но и лекарственным средством в определенной дозе при лечении различной патологии органов и систем неэпидемиологической этиологии.
+Ниже приведены примеры составов заявляемой питательной среды.
+Пример 1. Питательная среда для получения концентрированной биомассы бактерий с минимальным содержанием компонентов, мас.%: Панкреатический гидролизат обрата молока - 5,0 Цистеин солянокислый (L-цистин) - 0,001 D(-)-лактоза - 0,03 Натрий хлористый - 0,01 Ферментативный аутолизит дрожжей - 1,0 Обрат молока (основа), нормализованный по сухому остатку до 13% - Остальное до 100% Содержание аминного азота в среде составляет 260 мг%.
+Пример 2. Питательная среда для получения концентрированной биомассы бактерий со средним содержанием компонентов, мас.%: Панкреатический гидролизат обрата молока - 6,0 Цистеин солянокислый (L-цистин) - 0,002 D(-)-лактоза - 0,06 Натрий хлористый - 0,03 Ферментативный аутолизат дрожжей - 1,5 Обрат молока (основа), нормализованный по сухому остатку до 13% - Остальное до 100% Содержание аминного азота в среде составляет 280 мг%.
+Пример 3. Питательная среда для получения концентрированной биомассы бактерий с максимальным содержанием компонентов, мас.%: Панкреатический гидролизат обрата молока - 7,0 Цистеин солянокислый (L-цистин) - 0,003 D(-)-лактоза - 0,09 Натрий хлористый - 0,05 Ферментативный аутолизат дрожжей - 2,0 Обрат молока (основа), нормализованный по сухому остатку до 14% - Остальное до 100% Содержание аминного азота в среде составляет 300 мг%.
+В таблице 1 приведена сравнительная характеристика жидкого концентрата бифидобактерий (ЖКБ), приготовленного на основе предлагаемой питательной среды (примеры 1-3), среды-аналога и среды-прототипа.
+Из анализа таблицы 1 видно, что ЖКБ, приготовленный на основе предлагаемой молочной среды, имеет при меньшем времени формирования сгустка и кислотности готового продукта более высокий уровень жизнеспособности и 100%-ную выживаемость клеток при хранении по сравнению с аналогичными продуктами, приготовленными на средах-аналогах.
+Пример 4. Питательная среда с минимальным содержанием соевого изолята для получения жидкого концентрата бифидобактерий, мас.%: Панкреатический гидролизат обрата молока - 7,0 Цистеин солянокислый - 0,003 D(-)-лактоза - 0,09 Натрий хлористый - 0,05 Ферментативный аутолизат дрожжей - 2,0 Цитрат натрия - 0,1 Белковый изолят (типа СУПРО) - 0,2 Обрат молока, нормализованный по сухому остатку до 14,0% - Остальное до 100% Жидкий концентрат бифидобактерий, изготовленный на такой среде, имел следующие характеристики: титр - 1 • 109 - 4 • 109 при кислотности 130 - 160 градусов Тернера.
+Пример 5. Питательная среда с максимальным содержанием соевого изолята для получения жидкого концентрата бифидобактерий, мас.%: Панкреатический гидролизат обрата молока - 7,0 Цистеин солянокислый (L-цистин) - 0,003 D(-)-лактоза - 0,09 Натрий хлористый - 0,05 Ферментативный аутолизат дрожжей - 2,0 Цитрат натрия - 0,1 Белковый изолят (типа Супро) - 0,3 Обрат молока, нормализованный по сухому остатку до 14 % - Остальное до 100% Жидкий концентрат бифидобактерий, изготовленный на такой среде, имел следующие характеристики: титр - 6•1010 - 10• 1010 при кислотности 120 - 140 градусов Тернера.
+Ниже приведены данные (пример 2) по сохранности бифидобактерий в жидком концентрате бифидобактерий, полученном на основе заявляемой питательной среды, приготовленной в соответствии с примерами N 1, 3 и 5 и средой-прототипом.
+В таблице 2 приведены данные по сохранности бифидобактерий В ЖКБ.
+Анализ таблицы 2 показывает, что сохранность титра бифидобактерий, полученных с использованием заявляемой питательной среды, на два порядка выше через 3 месяца хранения и на четыре порядка выше через 3,5 месяца хранения продукта по сравнению со средой-прототипом.
+Claims (4)
+1. Молочная питательная среда для получения жидкого концентрата бифидобактерий, содержащая основу цистеин солянокислый (L-цистин), D(-)-лактозу, гидролизат молочных белков и аутолизат дрожжей, отличающаяся тем, что среда дополнительно содержит натрий хлористый, в качестве гидролизата молочных белков используют панкреатический гидролизат обрата молока, в качестве аутолизата дрожжей используют ферментативный аутолизат дрожжей, а в качестве основы используют нормализованный по сухому остатку обрат молока при суммарном содержании аминного азота в питательной среде 260-300 мг% и следующем соотношении ее компонентов, мас.%: Панкреатический гидролизат обрата молока - 5,0 - 7,0 Цистеин солянокислый (L-цистин) - 0,001 - 0,003 D(-)-лактоза - 0,03 - 0,09 Натрий хлористый - 0,01 - 0,05 Ферментативный аутолизат дрожжей - 1,0 - 2,0 Обрат молока (основа), нормализованный по сухому остатку - Остальное до 100% 2. Питательная среда по п.1, отличающаяся тем, что в качестве ферментативного аутолизата дрожжей используют аутолизат с показателем аминного азота 350-400 мг%.
+3. Питательная среда по п.1, отличающаяся тем, что обрат молока нормализован по сухому остатку до значения 13,0-14%.
+4. Питательная среда по п.1, отличающаяся тем, что в питательную среду дополнительно вносят соевый изолят в количестве по массе 0,2-0,3%.
+5. Питательная среда по п.1, отличающаяся тем, что для активизации соевого изолята в питательную среду дополнительно вводят цитрат натрия в количестве по массе 0,1-0,2%.
+RU2000116318A
+2000-06-26
+2000-06-26
+Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+RU2169763C1
+(ru)
+Priority Applications (1)
+Application Number
+Priority Date
+Filing Date
+Title
+RU2000116318A
+RU2169763C1
+(ru)
+2000-06-26
+2000-06-26
+Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+Applications Claiming Priority (1)
+Application Number
+Priority Date
+Filing Date
+Title
+RU2000116318A
+RU2169763C1
+(ru)
+2000-06-26
+2000-06-26
+Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+Publications (1)
+Publication Number
+Publication Date
+RU2169763C1
+true
+RU2169763C1
+(ru)
+2001-06-27
+Family
+ID=20236631
+Family Applications (1)
+Application Number
+Title
+Priority Date
+Filing Date
+RU2000116318A
+RU2169763C1
+(ru)
+2000-06-26
+2000-06-26
+Молочная питательная среда для получения жидкого концентрата бифидобактерий 
+Country Status (1)
+Country
+Link
+RU
+(1)
+RU2169763C1
+(ru)
+Cited By (7)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2203944C2
+(ru)
+*
+2001-07-30
+2003-05-10
+Научно-производственное объединение "Питательные среды"
+Питательная среда для культивирования и выделения бифидобактерий 
+WO2003061675A1
+(fr)
+*
+2002-01-03
+2003-07-31
+Kwon, Jay, Y.
+Additif alimentaire biologiquement actif et procede de production dudit additif 
+RU2279278C2
+(ru)
+*
+2005-05-23
+2006-07-10
+ООО Научно-производственная фирма "БиоТон"
+Энтеросорбент 
+FR2888469A1
+(fr)
+*
+2005-07-13
+2007-01-19
+Gervais Danone Sa
+Produits alimentaires fermentes contenant des souches probiotiques, et leur procede de preparation 
+RU2350090C1
+(ru)
+*
+2007-09-24
+2009-03-27
+Государственное образовательное учреждение высшего профессионального образования "Северо-Кавказский государственный технический университет"
+Способ производства концентрата блочной молочной сыворотки 
+WO2009051509A1
+(fr)
+*
+2007-10-15
+2009-04-23
+Obschestvo S Ogranichennoy Otvetstvennostyu 'sibbiosan'
+Milieu de culture lactique pour obtenir une masse de bactéries probiotiques 
+RU2646163C1
+(ru)
+*
+2016-10-14
+2018-03-01
+Федеральное государственное бюджетное научное учреждение Всероссийский научно-исследовательский институт экспериментальной ветеринарии имени Я.Р. Коваленко
+Способ приготовления питательной среды для выращивания пробиотических культур 
+Citations (5)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2061037C1
+(ru)
+*
+1994-03-29
+1996-05-27
+Акционерное общество "Русский йогурт"
+Питательная среда для наращивания биомассы бифидобактерий и лактобактерий 
+RU2078811C1
+(ru)
+*
+1994-05-19
+1997-05-10
+Ростовский научно-исследовательский институт микробиологии и паразитологии Госкомсанэпиднадзора России
+Способ получения гидролизата творога для приготовления питательных сред 
+RU2080376C1
+(ru)
+*
+1993-12-02
+1997-05-27
+Акционерное общество открытого типа по добыче и переработке угля "Гуковуголь"
+Питательная среда для культивирования бифидобактерий 
+RU2087532C1
+(ru)
+*
+1994-06-15
+1997-08-20
+Акционерное общество "Русский йогурт"
+Питательная среда для накопления биомассы бифидобактерий 
+RU2104706C1
+(ru)
+*
+1996-09-10
+1998-02-20
+Государственный научный центр вирусологии и биотехнологии "Вектор"
+Способ получения бифидосодержащих препаратов 
+2000
+2000-06-26
+RU
+RU2000116318A
+patent/RU2169763C1/ru
+not_active
+IP Right Cessation
+Patent Citations (5)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2080376C1
+(ru)
+*
+1993-12-02
+1997-05-27
+Акционерное общество открытого типа по добыче и переработке угля "Гуковуголь"
+Питательная среда для культивирования бифидобактерий 
+RU2061037C1
+(ru)
+*
+1994-03-29
+1996-05-27
+Акционерное общество "Русский йогурт"
+Питательная среда для наращивания биомассы бифидобактерий и лактобактерий 
+RU2078811C1
+(ru)
+*
+1994-05-19
+1997-05-10
+Ростовский научно-исследовательский институт микробиологии и паразитологии Госкомсанэпиднадзора России
+Способ получения гидролизата творога для приготовления питательных сред 
+RU2087532C1
+(ru)
+*
+1994-06-15
+1997-08-20
+Акционерное общество "Русский йогурт"
+Питательная среда для накопления биомассы бифидобактерий 
+RU2104706C1
+(ru)
+*
+1996-09-10
+1998-02-20
+Государственный научный центр вирусологии и биотехнологии "Вектор"
+Способ получения бифидосодержащих препаратов 
+Non-Patent Citations (1)
+* Cited by examiner, † Cited by third party
+Title
+Бифидобактерии и их использование в клинике, медицинской промышленности и сельском хозяйстве: Сборник научных трудов МНИИ эпидемиологии и микробиологии им.Г.Н.Габричевского М., 1986, с.76-82. Андреева М.А. и др. Питательная среда производства жидкого концентрата бифидобактерий. - Биотехнология, 1998, N 4, с.76-80.
+*
+Cited By (10)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2203944C2
+(ru)
+*
+2001-07-30
+2003-05-10
+Научно-производственное объединение "Питательные среды"
+Питательная среда для культивирования и выделения бифидобактерий 
+WO2003061675A1
+(fr)
+*
+2002-01-03
+2003-07-31
+Kwon, Jay, Y.
+Additif alimentaire biologiquement actif et procede de production dudit additif 
+RU2279278C2
+(ru)
+*
+2005-05-23
+2006-07-10
+ООО Научно-производственная фирма "БиоТон"
+Энтеросорбент 
+FR2888469A1
+(fr)
+*
+2005-07-13
+2007-01-19
+Gervais Danone Sa
+Produits alimentaires fermentes contenant des souches probiotiques, et leur procede de preparation 
+WO2007006970A3
+(fr)
+*
+2005-07-13
+2007-03-29
+Gervais Danone Sa
+Produits alimentaires fermentes contenant des souches probiotiques, et leur procede de preparation 
+RU2404668C2
+(ru)
+*
+2005-07-13
+2010-11-27
+Компани Жервэ Данон
+Ферментированные пищевые продукты, содержащие пробиотические штаммы, и способ их получения 
+US9474300B2
+(en)
+2005-07-13
+2016-10-25
+Compagnie Gervais Danone
+Fermented food products containing probiotic strains 
+RU2350090C1
+(ru)
+*
+2007-09-24
+2009-03-27
+Государственное образовательное учреждение высшего профессионального образования "Северо-Кавказский государственный технический университет"
+Способ производства концентрата блочной молочной сыворотки 
+WO2009051509A1
+(fr)
+*
+2007-10-15
+2009-04-23
+Obschestvo S Ogranichennoy Otvetstvennostyu 'sibbiosan'
+Milieu de culture lactique pour obtenir une masse de bactéries probiotiques 
+RU2646163C1
+(ru)
+*
+2016-10-14
+2018-03-01
+Федеральное государственное бюджетное научное учреждение Всероссийский научно-исследовательский институт экспериментальной ветеринарии имени Я.Р. Коваленко
+Способ приготовления питательной среды для выращивания пробиотических культур 
+Similar Documents
+Publication
+Publication Date
+Title
+EP0486738B1
+(en)
+1994-07-06
+Method of preparing milk-fermented food 
+CN107849093B
+(zh)
+2022-02-18
+培养阿克曼氏菌的方法 
+CN102318843B
+(zh)
+2013-08-21
+一种鱼鳞胶原多肽及其制备方法 
+CN1044660A
+(zh)
+1990-08-15
+生物学活性乳清蛋白质组合物，其生产方法及该组合物的应用 
+CN101815441A
+(zh)
+2010-08-25
+氨基酸和肽产品 
+Blažić et al.
+2017
+The impact of traditional cheeses and whey on health
+JP5855939B2
+(ja)
+2016-02-09
+セレノヒドロキシ酸化合物を使用してセレンが濃縮された光合成微生物、並びに栄養食品、化粧品及び医薬におけるこれらの使用 
+Huang et al.
+2025
+The growth-promoting effects of protein hydrolysates and their derived peptides on probiotics: Structure-activity relationships, mechanisms and future perspectives
+JPH02225419A
+(ja)
+1990-09-07
+ビフィズス菌増殖促進組成物 
+KR20010072587A
+(ko)
+2001-07-31
+발효유로부터 유래된 골다공증 예방용의 식이성 보충식 
+JP2000014356A
+(ja)
+2000-01-18
+Ｇａｂａ含有飲食品の製造法 
+CN109666600B
+(zh)
+2021-01-26
+一株产功能氨基酸的德氏乳杆菌乳亚种及其用途 
+RU2326939C2
+(ru)
+2008-06-20
+Молочная питательная среда для получения биомассы бактерий-пробиотиков 
+CN1541544A
+(zh)
+2004-11-03
+蛋乳发酵酸奶及其制备方法 
+TWI472298B
+(zh)
+2015-02-11
+促進鈣吸收的胜肽產物及其製造方法 
+CN113812600B
+(zh)
+2023-11-28
+一种两步酶解联合发酵制备奶味复合香基的方法 
+RU2326940C2
+(ru)
+2008-06-20
+Способ получения жидкого или сухого концентрата или закваски бифидобактерий 
+RU2207019C1
+(ru)
+2003-06-27
+Биологически активная добавка к пище и способ ее приготовления 
+CN117063976A
+(zh)
+2023-11-17
+一种富含短肽的酸乳粉及其制备方法与应用 
+JPH0838044A
+(ja)
+1996-02-13
+ビフィズス菌増殖促進性及び生残性が良好なヨーグル                        ト 
+WO2009051509A1
+(fr)
+2009-04-23
+Milieu de culture lactique pour obtenir une masse de bactéries probiotiques 
+CN118575864B
+(zh)
+2026-04-28
+一种核桃羊乳双蛋白酸乳及其制备方法 
+RU2780157C1
+(ru)
+2022-09-19
+Способ производства сывороточного напитка для спортивного питания 
+WO2009051511A1
+(en)
+2009-04-23
+Method for producing a liquid or dried bifidobacteria concentrate or a starter 
+RU2253673C2
+(ru)
+2005-06-10
+Способ получения панкреатического белкового гидролизата и питательная среда для культивирования бифидобактерий с его использованием 
+Legal Events
+Date
+Code
+Title
+Description
+2010-05-27
+PC43
+Official registration of the transfer of the exclusive right without contract for inventions
+Effective date:
+20100419
+2010-08-10
+QZ4A
+Changes in the licence of a patent
+Effective date:
+20040728
+2011-04-10
+QC41
+Official registration of the termination of the licence agreement or other agreements on the disposal of an exclusive right
+Free format text:
+LICENCE FORMERLY AGREED ON 20040728
+Effective date:
+20110301
+2012-03-20
+PD4A
+Correction of name of patent owner
+2015-05-10
+MM4A
+The patent is invalid due to non-payment of fees
+Effective date:
+20140627

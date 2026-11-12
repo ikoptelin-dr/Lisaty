@@ -1,0 +1,21 @@
+1. Biosci Biotechnol Biochem. 2002 Mar;66(3):679-81. doi: 10.1271/bbb.66.679.
+
+Isolation and identification of a new bifidogenic growth stimulator produced by 
+Propionibacterium freudenreichii ET-3.
+
+Isawa K(1), Hojo K, Yoda N, Kamiyama T, Makino S, Saito M, Sugano H, Mizoguchi 
+C, Kurama S, Shibasaki M, Endo N, Sato Y.
+
+Author information:
+(1)Research & Development Center, Meiji Dairies Corporation, Kanagawa, Japan.
+
+We have found a new growth stimulator for bifidobacteria in the culture broth of 
+Propionibacterium freudenreichii ET-3. The bifidogenic growth stimulator (BGS) 
+was purified by Diaion HP-20 column chromatography and preparative HPLC. 
+Spectroscopic methods including 1H-NMR, UV, and LC-ESI-MS experiments indicated 
+that the chemical structure of the bifidogenic growth stimulator was 
+1,4-dihydroxy-2-naphthoic acid (DHNA). Approximately 10 mg/L of DHNA was found 
+to be produced in the culture broth of P. freudenreichii ET-3.
+
+DOI: 10.1271/bbb.66.679
+PMID: 12005071 [Indexed for MEDLINE]

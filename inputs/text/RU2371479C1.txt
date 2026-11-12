@@ -1,0 +1,2817 @@
+RU2371479C1 - Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+- Google Patents
+RU2371479C1 - Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+- Google Patents
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+Download PDF
+Info
+Publication number
+RU2371479C1
+RU2371479C1
+RU2008104741/13A
+RU2008104741A
+RU2371479C1
+RU 2371479 C1
+RU2371479 C1
+RU 2371479C1
+RU 2008104741/13 A
+RU2008104741/13 A
+RU 2008104741/13A
+RU 2008104741 A
+RU2008104741 A
+RU 2008104741A
+RU 2371479 C1
+RU2371479 C1
+RU 2371479C1
+Authority
+RU
+Russia
+Prior art keywords
+vkpm
+enterosorbent
+bifidobacteria
+ratio
+bifidobacterium
+Prior art date
+2008-02-12
+Application number
+RU2008104741/13A
+Other languages
+English (en)
+Other versions
+RU2008104741A
+(ru
+Inventor
+Алексей Владимирович Молокеев (RU)
+Алексей Владимирович Молокеев
+Рома Мирославовна Ильина (RU)
+Рома Мирославовна Ильина
+Раиса Михайловна Яцентюк (RU)
+Раиса Михайловна Яцентюк
+Наталья Валентиновна Молокеева (RU)
+Наталья Валентиновна Молокеева
+Наталья Альгимантасовна Зыкова (RU)
+Наталья Альгимантасовна Зыкова
+Татьяна Леонидовна Карих (RU)
+Татьяна Леонидовна Карих
+Татьяна Васильевна Соколова (RU)
+Татьяна Васильевна Соколова
+Леонид Георгиевич Никулин (RU)
+Леонид Георгиевич Никулин
+Александр Георгиевич Куслий (RU)
+Александр Георгиевич Куслий
+Вячеслав Владимирович Мироненко (RU)
+Вячеслав Владимирович Мироненко
+Галина Владимировна Ясудис (RU)
+Галина Владимировна Ясудис
+Ирина Александровна Гусева (RU)
+Ирина Александровна Гусева
+Original Assignee
+Закрытое акционерное общество "Вектор-БиАльгам"
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2008-02-12
+Filing date
+2008-02-12
+Publication date
+2009-10-27
+2008-02-12
+Application filed by Закрытое акционерное общество "Вектор-БиАльгам"
+filed
+Critical
+Закрытое акционерное общество "Вектор-БиАльгам"
+2008-02-12
+Priority to RU2008104741/13A
+priority
+Critical
+patent/RU2371479C1/ru
+2009-08-20
+Publication of RU2008104741A
+publication
+Critical
+patent/RU2008104741A/ru
+2009-10-27
+Application granted
+granted
+Critical
+2009-10-27
+Publication of RU2371479C1
+publication
+Critical
+patent/RU2371479C1/ru
+Links
+Espacenet
+Global Dossier
+Discuss
+239000003814
+drug
+Substances
+0.000
+title
+claims
+abstract
+description
+39
+239000006041
+probiotic
+Substances
+0.000
+title
+claims
+abstract
+description
+23
+235000018291
+probiotics
+Nutrition
+0.000
+title
+claims
+abstract
+description
+23
+230000000529
+probiotic effect
+Effects
+0.000
+title
+claims
+abstract
+description
+22
+241000186000
+Bifidobacterium
+Species
+0.000
+claims
+abstract
+description
+48
+241000894006
+Bacteria
+Species
+0.000
+claims
+abstract
+description
+34
+239000000203
+mixture
+Substances
+0.000
+claims
+abstract
+description
+31
+235000015097
+nutrients
+Nutrition
+0.000
+claims
+abstract
+description
+26
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+Carbon
+Chemical compound
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+17
+230000001681
+protective effect
+Effects
+0.000
+claims
+abstract
+description
+17
+229910052799
+carbon
+Inorganic materials
+0.000
+claims
+abstract
+description
+13
+239000012141
+concentrate
+Substances
+0.000
+claims
+abstract
+description
+12
+238000002360
+preparation method
+Methods
+0.000
+claims
+description
+40
+241000186660
+Lactobacillus
+Species
+0.000
+claims
+description
+36
+229940079593
+drug
+Drugs
+0.000
+claims
+description
+33
+241001608472
+Bifidobacterium longum
+Species
+0.000
+claims
+description
+14
+229940009291
+bifidobacterium longum
+Drugs
+0.000
+claims
+description
+14
+241000186016
+Bifidobacterium bifidum
+Species
+0.000
+claims
+description
+13
+229940002008
+bifidobacterium bifidum
+Drugs
+0.000
+claims
+description
+13
+235000020183
+skimmed milk
+Nutrition
+0.000
+claims
+description
+10
+239000000843
+powder
+Substances
+0.000
+claims
+description
+9
+240000001046
+Lactobacillus acidophilus
+Species
+0.000
+claims
+description
+8
+241000186018
+Bifidobacterium adolescentis
+Species
+0.000
+claims
+description
+7
+WQZGKKKJIJFFOK-GASJEMHNSA-N
+Glucose
+Natural products
+OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+WQZGKKKJIJFFOK-GASJEMHNSA-N
+0.000
+claims
+description
+7
+239000008103
+glucose
+Substances
+0.000
+claims
+description
+7
+235000013956
+Lactobacillus acidophilus
+Nutrition
+0.000
+claims
+description
+6
+240000006024
+Lactobacillus plantarum
+Species
+0.000
+claims
+description
+6
+235000013965
+Lactobacillus plantarum
+Nutrition
+0.000
+claims
+description
+6
+229940039695
+lactobacillus acidophilus
+Drugs
+0.000
+claims
+description
+6
+229940072205
+lactobacillus plantarum
+Drugs
+0.000
+claims
+description
+6
+244000199866
+Lactobacillus casei
+Species
+0.000
+claims
+description
+5
+235000013958
+Lactobacillus casei
+Nutrition
+0.000
+claims
+description
+5
+229940017800
+lactobacillus casei
+Drugs
+0.000
+claims
+description
+5
+WQZGKKKJIJFFOK-VFUOTHLCSA-N
+beta-D-glucose
+Chemical compound
+OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+WQZGKKKJIJFFOK-VFUOTHLCSA-N
+0.000
+claims
+description
+3
+229940039696
+lactobacillus
+Drugs
+0.000
+claims
+description
+2
+OQUFOZNPBIIJTN-UHFFFAOYSA-N
+2-hydroxypropane-1,2,3-tricarboxylic acid;sodium
+Chemical compound
+[Na].OC(=O)CC(O)(C(O)=O)CC(O)=O
+OQUFOZNPBIIJTN-UHFFFAOYSA-N
+0.000
+claims
+2
+230000000694
+effects
+Effects
+0.000
+abstract
+description
+16
+238000000034
+method
+Methods
+0.000
+abstract
+description
+16
+238000001179
+sorption measurement
+Methods
+0.000
+abstract
+description
+15
+238000011160
+research
+Methods
+0.000
+abstract
+description
+12
+238000003795
+desorption
+Methods
+0.000
+abstract
+description
+10
+239000000126
+substance
+Substances
+0.000
+abstract
+description
+4
+230000007012
+clinical effect
+Effects
+0.000
+abstract
+description
+3
+239000000273
+veterinary drug
+Substances
+0.000
+abstract
+description
+2
+230000001332
+colony forming effect
+Effects
+0.000
+abstract
+3
+230000002708
+enhancing effect
+Effects
+0.000
+abstract
+1
+210000004027
+cell
+Anatomy
+0.000
+description
+43
+239000002594
+sorbent
+Substances
+0.000
+description
+29
+239000002609
+medium
+Substances
+0.000
+description
+26
+239000002028
+Biomass
+Substances
+0.000
+description
+16
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+Sodium chloride
+Chemical compound
+[Na+].[Cl-]
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+0.000
+description
+14
+239000008187
+granular material
+Substances
+0.000
+description
+13
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+Ascorbic acid
+Chemical compound
+OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+0.000
+description
+12
+210000001035
+gastrointestinal tract
+Anatomy
+0.000
+description
+12
+239000000463
+material
+Substances
+0.000
+description
+12
+244000005700
+microbiome
+Species
+0.000
+description
+12
+235000013336
+milk
+Nutrition
+0.000
+description
+12
+239000008267
+milk
+Substances
+0.000
+description
+12
+210000004080
+milk
+Anatomy
+0.000
+description
+12
+230000000813
+microbial effect
+Effects
+0.000
+description
+11
+230000008569
+process
+Effects
+0.000
+description
+10
+230000001580
+bacterial effect
+Effects
+0.000
+description
+9
+235000008504
+concentrate
+Nutrition
+0.000
+description
+9
+239000002245
+particle
+Substances
+0.000
+description
+9
+239000000243
+solution
+Substances
+0.000
+description
+8
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+description
+8
+108010010803
+Gelatin
+Proteins
+0.000
+description
+7
+241001465754
+Metazoa
+Species
+0.000
+description
+7
+229930006000
+Sucrose
+Natural products
+0.000
+description
+7
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+Sucrose
+Chemical compound
+O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+0.000
+description
+7
+239000008273
+gelatin
+Substances
+0.000
+description
+7
+229920000159
+gelatin
+Polymers
+0.000
+description
+7
+235000019322
+gelatine
+Nutrition
+0.000
+description
+7
+235000011852
+gelatine desserts
+Nutrition
+0.000
+description
+7
+244000005706
+microflora
+Species
+0.000
+description
+7
+239000011780
+sodium chloride
+Substances
+0.000
+description
+7
+239000005720
+sucrose
+Substances
+0.000
+description
+7
+210000000936
+intestine
+Anatomy
+0.000
+description
+6
+VTYYLEPIZMXCLO-UHFFFAOYSA-L
+Calcium carbonate
+Chemical class
+[Ca+2].[O-]C([O-])=O
+VTYYLEPIZMXCLO-UHFFFAOYSA-L
+0.000
+description
+5
+229940069428
+antacid
+Drugs
+0.000
+description
+5
+239000003159
+antacid agent
+Substances
+0.000
+description
+5
+230000001458
+anti-acid effect
+Effects
+0.000
+description
+5
+230000035987
+intoxication
+Effects
+0.000
+description
+5
+231100000566
+intoxication
+Toxicity
+0.000
+description
+5
+230000001717
+pathogenic effect
+Effects
+0.000
+description
+5
+239000001509
+sodium citrate
+Substances
+0.000
+description
+5
+NLJMYIDDQXHKNR-UHFFFAOYSA-K
+sodium citrate
+Chemical compound
+O.O.[Na+].[Na+].[Na+].[O-]C(=O)CC(O)(CC([O-])=O)C([O-])=O
+NLJMYIDDQXHKNR-UHFFFAOYSA-K
+0.000
+description
+5
+208000011580
+syndromic disease
+Diseases
+0.000
+description
+5
+ZZZCUOFIHGPKAK-UHFFFAOYSA-N
+D-erythro-ascorbic acid
+Natural products
+OCC1OC(=O)C(O)=C1O
+ZZZCUOFIHGPKAK-UHFFFAOYSA-N
+0.000
+description
+4
+229930003268
+Vitamin C
+Natural products
+0.000
+description
+4
+230000003042
+antagnostic effect
+Effects
+0.000
+description
+4
+201000010099
+disease
+Diseases
+0.000
+description
+4
+208000037265
+diseases, disorders, signs and symptoms
+Diseases
+0.000
+description
+4
+230000002255
+enzymatic effect
+Effects
+0.000
+description
+4
+244000005709
+gut microbiome
+Species
+0.000
+description
+4
+230000000968
+intestinal effect
+Effects
+0.000
+description
+4
+239000007788
+liquid
+Substances
+0.000
+description
+4
+238000010606
+normalization
+Methods
+0.000
+description
+4
+239000011148
+porous material
+Substances
+0.000
+description
+4
+235000019154
+vitamin C
+Nutrition
+0.000
+description
+4
+239000011718
+vitamin C
+Substances
+0.000
+description
+4
+241000588724
+Escherichia coli
+Species
+0.000
+description
+3
+241000282412
+Homo
+Species
+0.000
+description
+3
+GUBGYTABKSRVRQ-QKKXKWKRSA-N
+Lactose
+Natural products
+OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)C(O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O
+GUBGYTABKSRVRQ-QKKXKWKRSA-N
+0.000
+description
+3
+244000057717
+Streptococcus lactis
+Species
+0.000
+description
+3
+235000014897
+Streptococcus lactis
+Nutrition
+0.000
+description
+3
+230000002411
+adverse
+Effects
+0.000
+description
+3
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+aluminium oxide
+Inorganic materials
+[O-2].[O-2].[O-2].[Al+3].[Al+3]
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+0.000
+description
+3
+238000001035
+drying
+Methods
+0.000
+description
+3
+239000000428
+dust
+Substances
+0.000
+description
+3
+230000007613
+environmental effect
+Effects
+0.000
+description
+3
+230000012010
+growth
+Effects
+0.000
+description
+3
+239000008101
+lactose
+Substances
+0.000
+description
+3
+244000000010
+microbial pathogen
+Species
+0.000
+description
+3
+210000000056
+organ
+Anatomy
+0.000
+description
+3
+238000012545
+processing
+Methods
+0.000
+description
+3
+235000018102
+proteins
+Nutrition
+0.000
+description
+3
+108090000623
+proteins and genes
+Proteins
+0.000
+description
+3
+102000004169
+proteins and genes
+Human genes
+0.000
+description
+3
+239000000758
+substrate
+Substances
+0.000
+description
+3
+230000004083
+survival effect
+Effects
+0.000
+description
+3
+239000000725
+suspension
+Substances
+0.000
+description
+3
+238000012360
+testing method
+Methods
+0.000
+description
+3
+239000003053
+toxin
+Substances
+0.000
+description
+3
+231100000765
+toxin
+Toxicity
+0.000
+description
+3
+108700012359
+toxins
+Proteins
+0.000
+description
+3
+101000723054
+Lactobacillus casei Serine O-acetyltransferase
+Proteins
+0.000
+description
+2
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+Magnesium sulfate
+Chemical compound
+[Mg+2].[O-][S+2]([O-])([O-])[O-]
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+0.000
+description
+2
+238000009825
+accumulation
+Methods
+0.000
+description
+2
+230000009471
+action
+Effects
+0.000
+description
+2
+235000010323
+ascorbic acid
+Nutrition
+0.000
+description
+2
+239000011668
+ascorbic acid
+Substances
+0.000
+description
+2
+229960005070
+ascorbic acid
+Drugs
+0.000
+description
+2
+208000006673
+asthma
+Diseases
+0.000
+description
+2
+230000009286
+beneficial effect
+Effects
+0.000
+description
+2
+230000004071
+biological effect
+Effects
+0.000
+description
+2
+239000005018
+casein
+Substances
+0.000
+description
+2
+BECPQYXYKAMYBN-UHFFFAOYSA-N
+casein, tech.
+Chemical compound
+NCCCCC(C(O)=O)N=C(O)C(CC(O)=O)N=C(O)C(CCC(O)=N)N=C(O)C(CC(C)C)N=C(O)C(CCC(O)=O)N=C(O)C(CC(O)=O)N=C(O)C(CCC(O)=O)N=C(O)C(C(C)O)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=N)N=C(O)C(CCC(O)=O)N=C(O)C(CCC(O)=O)N=C(O)C(COP(O)(O)=O)N=C(O)C(CCC(O)=N)N=C(O)C(N)CC1=CC=CC=C1
+BECPQYXYKAMYBN-UHFFFAOYSA-N
+0.000
+description
+2
+235000021240
+caseins
+Nutrition
+0.000
+description
+2
+238000001784
+detoxification
+Methods
+0.000
+description
+2
+230000006870
+function
+Effects
+0.000
+description
+2
+239000007789
+gas
+Substances
+0.000
+description
+2
+239000011521
+glass
+Substances
+0.000
+description
+2
+239000001963
+growth medium
+Substances
+0.000
+description
+2
+229910001385
+heavy metal
+Inorganic materials
+0.000
+description
+2
+210000000987
+immune system
+Anatomy
+0.000
+description
+2
+230000000415
+inactivating effect
+Effects
+0.000
+description
+2
+208000030603
+inherited susceptibility to asthma
+Diseases
+0.000
+description
+2
+229910052500
+inorganic mineral
+Inorganic materials
+0.000
+description
+2
+210000004347
+intestinal mucosa
+Anatomy
+0.000
+description
+2
+238000004519
+manufacturing process
+Methods
+0.000
+description
+2
+239000002207
+metabolite
+Substances
+0.000
+description
+2
+229910052751
+metal
+Inorganic materials
+0.000
+description
+2
+239000002184
+metal
+Substances
+0.000
+description
+2
+235000010755
+mineral
+Nutrition
+0.000
+description
+2
+239000011707
+mineral
+Substances
+0.000
+description
+2
+238000002156
+mixing
+Methods
+0.000
+description
+2
+239000007800
+oxidant agent
+Substances
+0.000
+description
+2
+230000001575
+pathological effect
+Effects
+0.000
+description
+2
+231100000614
+poison
+Toxicity
+0.000
+description
+2
+239000012266
+salt solution
+Substances
+0.000
+description
+2
+230000001225
+therapeutic effect
+Effects
+0.000
+description
+2
+239000003440
+toxic substance
+Substances
+0.000
+description
+2
+229930003231
+vitamin
+Natural products
+0.000
+description
+2
+235000013343
+vitamin
+Nutrition
+0.000
+description
+2
+239000011782
+vitamin
+Substances
+0.000
+description
+2
+229940088594
+vitamin
+Drugs
+0.000
+description
+2
+208000004998
+Abdominal Pain
+Diseases
+0.000
+description
+1
+206010067484
+Adverse reaction
+Diseases
+0.000
+description
+1
+206010001605
+Alcohol poisoning
+Diseases
+0.000
+description
+1
+239000004475
+Arginine
+Substances
+0.000
+description
+1
+201000001320
+Atherosclerosis
+Diseases
+0.000
+description
+1
+102000004506
+Blood Proteins
+Human genes
+0.000
+description
+1
+108010017384
+Blood Proteins
+Proteins
+0.000
+description
+1
+206010057248
+Cell death
+Diseases
+0.000
+description
+1
+229920001661
+Chitosan
+Polymers
+0.000
+description
+1
+206010010075
+Coma hepatic
+Diseases
+0.000
+description
+1
+206010012438
+Dermatitis atopic
+Diseases
+0.000
+description
+1
+206010012735
+Diarrhoea
+Diseases
+0.000
+description
+1
+208000027244
+Dysbiosis
+Diseases
+0.000
+description
+1
+241000305071
+Enterobacterales
+Species
+0.000
+description
+1
+108090000790
+Enzymes
+Proteins
+0.000
+description
+1
+102000004190
+Enzymes
+Human genes
+0.000
+description
+1
+208000010201
+Exanthema
+Diseases
+0.000
+description
+1
+206010073306
+Exposure to radiation
+Diseases
+0.000
+description
+1
+206010016654
+Fibrosis
+Diseases
+0.000
+description
+1
+208000018522
+Gastrointestinal disease
+Diseases
+0.000
+description
+1
+WHUUTDBJXJRKMK-UHFFFAOYSA-N
+Glutamic acid
+Natural products
+OC(=O)C(N)CCC(O)=O
+WHUUTDBJXJRKMK-UHFFFAOYSA-N
+0.000
+description
+1
+206010019799
+Hepatitis viral
+Diseases
+0.000
+description
+1
+206010020751
+Hypersensitivity
+Diseases
+0.000
+description
+1
+ROHFNLRQFUQHCH-YFKPBYRVSA-N
+L-leucine
+Chemical compound
+CC(C)C[C@H](N)C(O)=O
+ROHFNLRQFUQHCH-YFKPBYRVSA-N
+0.000
+description
+1
+ROHFNLRQFUQHCH-UHFFFAOYSA-N
+Leucine
+Natural products
+CC(C)CC(N)C(O)=O
+ROHFNLRQFUQHCH-UHFFFAOYSA-N
+0.000
+description
+1
+206010033645
+Pancreatitis
+Diseases
+0.000
+description
+1
+201000004681
+Psoriasis
+Diseases
+0.000
+description
+1
+206010037601
+Pyelonephritis chronic
+Diseases
+0.000
+description
+1
+206010040047
+Sepsis
+Diseases
+0.000
+description
+1
+241000194017
+Streptococcus
+Species
+0.000
+description
+1
+206010048038
+Wound infection
+Diseases
+0.000
+description
+1
+238000010521
+absorption reaction
+Methods
+0.000
+description
+1
+230000002378
+acidificating effect
+Effects
+0.000
+description
+1
+239000013543
+active substance
+Substances
+0.000
+description
+1
+230000001154
+acute effect
+Effects
+0.000
+description
+1
+231100000570
+acute poisoning
+Toxicity
+0.000
+description
+1
+230000006978
+adaptation
+Effects
+0.000
+description
+1
+230000006838
+adverse reaction
+Effects
+0.000
+description
+1
+230000007815
+allergy
+Effects
+0.000
+description
+1
+235000001014
+amino acid
+Nutrition
+0.000
+description
+1
+150000001413
+amino acids
+Chemical class
+0.000
+description
+1
+238000010171
+animal model
+Methods
+0.000
+description
+1
+230000004596
+appetite loss
+Effects
+0.000
+description
+1
+ODKSFYDXXFIFQN-UHFFFAOYSA-N
+arginine
+Natural products
+OC(=O)C(N)CCCNC(N)=N
+ODKSFYDXXFIFQN-UHFFFAOYSA-N
+0.000
+description
+1
+206010003246
+arthritis
+Diseases
+0.000
+description
+1
+201000008937
+atopic dermatitis
+Diseases
+0.000
+description
+1
+230000001363
+autoimmune
+Effects
+0.000
+description
+1
+238000011888
+autopsy
+Methods
+0.000
+description
+1
+235000008452
+baby food
+Nutrition
+0.000
+description
+1
+229940125717
+barbiturate
+Drugs
+0.000
+description
+1
+210000000013
+bile duct
+Anatomy
+0.000
+description
+1
+230000003115
+biocidal effect
+Effects
+0.000
+description
+1
+239000013060
+biological fluid
+Substances
+0.000
+description
+1
+229960000074
+biopharmaceutical
+Drugs
+0.000
+description
+1
+230000015572
+biosynthetic process
+Effects
+0.000
+description
+1
+238000009534
+blood test
+Methods
+0.000
+description
+1
+239000007853
+buffer solution
+Substances
+0.000
+description
+1
+230000003139
+buffering effect
+Effects
+0.000
+description
+1
+239000000969
+carrier
+Substances
+0.000
+description
+1
+238000007385
+chemical modification
+Methods
+0.000
+description
+1
+230000001684
+chronic effect
+Effects
+0.000
+description
+1
+201000006368
+chronic pyelonephritis
+Diseases
+0.000
+description
+1
+230000007882
+cirrhosis
+Effects
+0.000
+description
+1
+208000019425
+cirrhosis of liver
+Diseases
+0.000
+description
+1
+230000015271
+coagulation
+Effects
+0.000
+description
+1
+238000005345
+coagulation
+Methods
+0.000
+description
+1
+239000003245
+coal
+Substances
+0.000
+description
+1
+235000018417
+cysteine
+Nutrition
+0.000
+description
+1
+XUJNEKJLAYXESH-UHFFFAOYSA-N
+cysteine
+Natural products
+SCC(N)C(O)=O
+XUJNEKJLAYXESH-UHFFFAOYSA-N
+0.000
+description
+1
+230000009089
+cytolysis
+Effects
+0.000
+description
+1
+230000000254
+damaging effect
+Effects
+0.000
+description
+1
+230000018044
+dehydration
+Effects
+0.000
+description
+1
+238000006297
+dehydration reaction
+Methods
+0.000
+description
+1
+238000013461
+design
+Methods
+0.000
+description
+1
+206010012601
+diabetes mellitus
+Diseases
+0.000
+description
+1
+230000029087
+digestion
+Effects
+0.000
+description
+1
+238000006073
+displacement reaction
+Methods
+0.000
+description
+1
+239000003937
+drug carrier
+Substances
+0.000
+description
+1
+206010013663
+drug dependence
+Diseases
+0.000
+description
+1
+230000007140
+dysbiosis
+Effects
+0.000
+description
+1
+230000008030
+elimination
+Effects
+0.000
+description
+1
+238000003379
+elimination reaction
+Methods
+0.000
+description
+1
+201000005884
+exanthem
+Diseases
+0.000
+description
+1
+230000029142
+excretion
+Effects
+0.000
+description
+1
+238000000605
+extraction
+Methods
+0.000
+description
+1
+235000013305
+food
+Nutrition
+0.000
+description
+1
+238000009472
+formulation
+Methods
+0.000
+description
+1
+238000004108
+freeze drying
+Methods
+0.000
+description
+1
+235000013922
+glutamic acid
+Nutrition
+0.000
+description
+1
+239000004220
+glutamic acid
+Substances
+0.000
+description
+1
+ZDXPYRJPNDTMRX-UHFFFAOYSA-N
+glutamine
+Natural products
+OC(=O)C(N)CCC(N)=O
+ZDXPYRJPNDTMRX-UHFFFAOYSA-N
+0.000
+description
+1
+230000002489
+hematologic effect
+Effects
+0.000
+description
+1
+201000001059
+hepatic coma
+Diseases
+0.000
+description
+1
+208000007386
+hepatic encephalopathy
+Diseases
+0.000
+description
+1
+238000010562
+histological examination
+Methods
+0.000
+description
+1
+229940088597
+hormone
+Drugs
+0.000
+description
+1
+239000005556
+hormone
+Substances
+0.000
+description
+1
+210000001822
+immobilized cell
+Anatomy
+0.000
+description
+1
+230000003308
+immunostimulating effect
+Effects
+0.000
+description
+1
+239000012535
+impurity
+Substances
+0.000
+description
+1
+230000036512
+infertility
+Effects
+0.000
+description
+1
+238000009434
+installation
+Methods
+0.000
+description
+1
+210000003734
+kidney
+Anatomy
+0.000
+description
+1
+210000000265
+leukocyte
+Anatomy
+0.000
+description
+1
+235000014666
+liquid concentrate
+Nutrition
+0.000
+description
+1
+210000004185
+liver
+Anatomy
+0.000
+description
+1
+235000021266
+loss of appetite
+Nutrition
+0.000
+description
+1
+208000019017
+loss of appetite
+Diseases
+0.000
+description
+1
+206010025135
+lupus erythematosus
+Diseases
+0.000
+description
+1
+229910052943
+magnesium sulfate
+Inorganic materials
+0.000
+description
+1
+235000019341
+magnesium sulphate
+Nutrition
+0.000
+description
+1
+206010025482
+malaise
+Diseases
+0.000
+description
+1
+230000004060
+metabolic process
+Effects
+0.000
+description
+1
+CXKWCBBOMKCUKX-UHFFFAOYSA-M
+methylene blue
+Chemical compound
+[Cl-].C1=CC(N(C)C)=CC2=[S+]C3=CC(N(C)C)=CC=C3N=C21
+CXKWCBBOMKCUKX-UHFFFAOYSA-M
+0.000
+description
+1
+229960000907
+methylthioninium chloride
+Drugs
+0.000
+description
+1
+230000002906
+microbiologic effect
+Effects
+0.000
+description
+1
+LPUQAYUQRXPFSQ-DFWYDOINSA-M
+monosodium L-glutamate
+Chemical compound
+[Na+].[O-]C(=O)[C@@H](N)CCC(O)=O
+LPUQAYUQRXPFSQ-DFWYDOINSA-M
+0.000
+description
+1
+235000013923
+monosodium glutamate
+Nutrition
+0.000
+description
+1
+239000004223
+monosodium glutamate
+Substances
+0.000
+description
+1
+230000003562
+morphometric effect
+Effects
+0.000
+description
+1
+238000013425
+morphometry
+Methods
+0.000
+description
+1
+230000007659
+motor function
+Effects
+0.000
+description
+1
+201000006417
+multiple sclerosis
+Diseases
+0.000
+description
+1
+231100000957
+no side effect
+Toxicity
+0.000
+description
+1
+231100000252
+nontoxic
+Toxicity
+0.000
+description
+1
+230000003000
+nontoxic effect
+Effects
+0.000
+description
+1
+235000016709
+nutrition
+Nutrition
+0.000
+description
+1
+230000035764
+nutrition
+Effects
+0.000
+description
+1
+150000002903
+organophosphorus compounds
+Chemical class
+0.000
+description
+1
+229920001558
+organosilicon polymer
+Polymers
+0.000
+description
+1
+TWNQGVIAIRXVLR-UHFFFAOYSA-N
+oxo(oxoalumanyloxy)alumane
+Chemical compound
+O=[Al]O[Al]=O
+TWNQGVIAIRXVLR-UHFFFAOYSA-N
+0.000
+description
+1
+230000007170
+pathology
+Effects
+0.000
+description
+1
+239000001814
+pectin
+Substances
+0.000
+description
+1
+229920001277
+pectin
+Polymers
+0.000
+description
+1
+235000010987
+pectin
+Nutrition
+0.000
+description
+1
+230000008855
+peristalsis
+Effects
+0.000
+description
+1
+206010034674
+peritonitis
+Diseases
+0.000
+description
+1
+239000000825
+pharmaceutical preparation
+Substances
+0.000
+description
+1
+235000008476
+powdered milk
+Nutrition
+0.000
+description
+1
+230000002265
+prevention
+Effects
+0.000
+description
+1
+230000002035
+prolonged effect
+Effects
+0.000
+description
+1
+238000000746
+purification
+Methods
+0.000
+description
+1
+206010037844
+rash
+Diseases
+0.000
+description
+1
+230000001105
+regulatory effect
+Effects
+0.000
+description
+1
+150000003839
+salts
+Chemical class
+0.000
+description
+1
+231100000046
+skin rash
+Toxicity
+0.000
+description
+1
+239000007787
+solid
+Substances
+0.000
+description
+1
+238000001228
+spectrum
+Methods
+0.000
+description
+1
+230000000087
+stabilizing effect
+Effects
+0.000
+description
+1
+239000007858
+starting material
+Substances
+0.000
+description
+1
+230000001954
+sterilising effect
+Effects
+0.000
+description
+1
+238000004659
+sterilization and disinfection
+Methods
+0.000
+description
+1
+230000004936
+stimulating effect
+Effects
+0.000
+description
+1
+230000000638
+stimulation
+Effects
+0.000
+description
+1
+238000003756
+stirring
+Methods
+0.000
+description
+1
+208000011117
+substance-related disease
+Diseases
+0.000
+description
+1
+230000002195
+synergetic effect
+Effects
+0.000
+description
+1
+230000002194
+synthesizing effect
+Effects
+0.000
+description
+1
+239000003826
+tablet
+Substances
+0.000
+description
+1
+238000012876
+topography
+Methods
+0.000
+description
+1
+231100000331
+toxic
+Toxicity
+0.000
+description
+1
+230000002588
+toxic effect
+Effects
+0.000
+description
+1
+230000008359
+toxicosis
+Effects
+0.000
+description
+1
+230000004614
+tumor growth
+Effects
+0.000
+description
+1
+230000002485
+urinary effect
+Effects
+0.000
+description
+1
+230000035899
+viability
+Effects
+0.000
+description
+1
+201000001862
+viral hepatitis
+Diseases
+0.000
+description
+1
+238000005406
+washing
+Methods
+0.000
+description
+1
+239000010457
+zeolite
+Substances
+0.000
+description
+1
+Landscapes
+Micro-Organisms Or Cultivation Processes Thereof
+(AREA)
+Medicines Containing Material From Animals Or Micro-Organisms
+(AREA)
+Abstract
+Изобретение относится к препаратам медицинского и ветеринарного назначения и способам их получения и может быть использовано в биотехнологии, медицине и сельском хозяйстве. Комплексный препарат-пробиотик включает носитель, представляющий собой пористый энтеросорбент и клетки бактерий-эубиотиков с питательной и защитной средами, иммобилизованные на указанном энтеросорбенте. Клетки бактерий-эубиотиков с питательной средой представляют собой лиофилизированный концентрат консорциума бифидобактерий, или лактобактерий, или их смесь с титром 108-1010 КОЕ/г. В качестве пористого энтеросорбента он содержит углеродный энтеросорбент ВНИИТУ-1 или 2 при следующем соотношении компонентов препарата в сухом виде, мас.%: клетки с питательной средой консорциума бифидо-, или лактобактерий-эубиотиков, или их смесь с титром 108-1010 КОЕ/г 1,0-15,0, защитная среда 0,1-10,0, углеродный энтеросорбент ВНИИТУ-1 или 2 - остальное до 100%. Смесь консорциумов бифидо- и лактобактерий имеет соотношение от 1:1 до 3:1. Это обеспечивает более высокую эффективность сорбции и десорбции клеток бактерий энтеросорбентом, определяющую его клиническую эффективность, и более высокую колонизационную активность бактерий-эубиотиков. 4 з.п. ф-лы, 2 табл.
+Description
+Изобретение относится к препаратам медицинского и ветеринарного назначения и способам их получения и может быть использовано в биотехнологии, медицине и сельском хозяйстве.
+Для профилактики и лечения многих патологических состояний, обусловленных нарушением эндоэкологии, широкое распространение получили энтеросорбенты. Это различные типы активных углей, например карбактин, карболонг, микросорб, полифепан и т.д. (Сенов П.Л. Фармацевтическая химия. - М.: Медицина, 1978, с.132-133; патент РФ N 2029546, МПК6 А61K 9/16, опубл. 27.02.95 г.), природные материалы и их аналоги (кристаллическая микроцеллюлоза, цеолиты, хитозаны, пектины и т.д.), синтетические минеральные сорбенты и другие материалы, которые используются для очищения организма от шлаков, радионуклидов, тяжелых металлов и токсинов. Энтеросорбенты снижают эффекты экзо- и эндотоксикозов.
+Однако энтеросорбенты не устраняют причин вызывающих эффекты экзо- и эндотоксикозов, как правило, они не селективны, работают в основном на избыток субстрата, могут оказывать негативное действие из-за сорбции нужных для организма метаболитов (витаминов, гормонов) и не обеспечивают активно нормализацию микробиоценоза.
+Функции нормальной микрофлоры в организме являются жизненно важными и очень обширными: синтезирующая, регуляторная, десенсибилизирующая, дезинтоксикационная, ферментативная, защитная и иммуностимулирующая. Для нормализации микробиоценоза широкое распространение получили препараты живых бактериальных клеток: бифидобактерий (межд. заявка (WO) N 85/03848), МКИ А23С 9/12, опубл. 12.09.85 г.), лактобактерий (заявка ЕПВ N 0154614, МКИ А23С 9/123, опубл. 11.09.85 г.) и колибактерий и т.д.
+Недостатком этих препаратов являются довольно короткие сроки их хранения, если они находятся в жидкой форме или высокая стоимость, если они изготовлены в сухой форме, а также слабая устойчивость к инактивирующим факторам внешней среды и желудочно-кишечного тракта организма при применении.
+Известен комплексный препарат, включающий пористый неорганический носитель и иммобилизованные на нем клетки микроорганизмов (заявка ФРГ №3410650, МКИ С12N 11/14, опубл. 03.10.85 г.). В качестве носителей применяют сталактитовые подложки с двойной структурой пор. Подложки имеют сквозные макропоры, которые делают возможным свободный обмен жидкости и газа из внутренней части носителя в окружающую среду. Размер макропор лежит в пределах величины клеток микроорганизмов.
+Недостатком данного препарата является то, что он не предназначен для использования в качестве медицинского или ветеринарного препарата в связи с отсутствием данных о влиянии сталактитового носителя с нанесенными на нем микроорганизмами на микробиоценоз желудочно-кишечного тракта организма человека или животного.
+Известен комплексный фармацевтический препарат, включающий фармацевтически приемлемый носитель и иммобилизованные на нем микроорганизмы (межд. заявка (WO) №91/09608, МКИ А61K 35/74, опубл. 11.07.91 г.). Носитель не нарушает жизнеспособности микроорганизмов. В качестве микроорганизмов используют штамм L1a Streptococcus lactis. Препарат предназначен для борьбы с патогенной микрофлорой кишечника человека и животных, вызывающей диарею и другие желудочно-кишечные расстройства.
+Недостатком препарата является то, что используемый в нем штамм L1a Streptococcus lactis влияет в основном на патогенную микрофлору кишечника человека и животных, т.е. проявляет антагонистические свойства, но слабо участвует в восстановлении микрофлоры желудочно-кишечного тракта. Кроме того, отсутствуют данные об антацидных свойствах носителя, что свидетельствует о слабой защите носителем иммобилизованных клеток Streptococcus lactis при действии внутренней среды организма с низкими значениями рН.
+Известен комплексный бактериальный препарат, включающий носитель и иммобилизованные на нем микробные клетки в концентрации на 1 мм2 2,1×103-1,0×105 (патент РФ №2017486, МПК6 А61K 31/00, опубл. 15.08.94 г.). В качестве носителя используют активированный уголь в виде порошка с размером частиц менее 30 мкм, а в качестве микроорганизмов используют лактобактерии и кишечные палочки.
+Недостатком такого препарата является то, что активированный уголь, используемый в качестве носителя, является тонкопористым сорбентом с преобладанием микропор и высокой удельной поверхностью. Вследствие этого микробные клетки расположены на поверхности частиц сорбента и недостаточно защищены при неблагоприятном воздействии окружающей среды. Активированные угли активно поглощают низкомолекулярные биологически активные вещества, витамины и газы кишечника, что ухудшает работу перистальтики. Они быстро забиваются и работают преимущественно в верхних отделах желудочно-кишечного тракта. Кроме того угли не обладают антацидными свойствами, что не способствует выживаемости нанесенных на них клеток при действии сред с низкими значениями рН. Препарат не предусматривает использование одновременно нескольких штаммов микроорганизмов разных видов, например смеси бифидо- и лактобактерии, что значительно снижает эффективность действия препарата особенно при восстановлении микрофлоры желудочно-кишечного тракта.
+Известен препарат-пробиотик в иммобилизованной форме, включающий носитель, представляющий собой сорбент, и клетки эубиотиков, иммобилизованные на указанном носителе, причем клетки эубиотиков используют совместно с питательной средой, а в качестве сорбента используют материал с антацидными свойствами, развитой мезо- и макропористой структурой и объемом макропор не менее 0,01 см3/г в виде порошка с размером частиц не более 0,1 мм, или в виде гранул размером (0,1-5,0) мм, или в виде таблеток при следующем количественном соотношении компонентов препарата, мас.%: клетки эубиотиков с питательной средой и титром 108-1010 КОЕ/мл - 1,0-50,0; носитель-сорбент - остальное до 100%. В качестве сорбента используют пористый материал на основе оксида алюминия с гидрофильно-гидрофобной топохимией поверхности, например энтеросорбент типа СУМС-1, модифицированный углеродом, или энтеросорбент типа СИАЛ, модифицированный кремнийорганическим полимером. В качестве эубиотиков используют бифидо- или лактобактерии или их смесь (патент РФ №2118535, МПК6 А61K 35/74, опубл. 10.09.98 г.).
+Однако используемые в указанном препарате сорбенты обладают недостаточной эффективностью сорбции и десорбции бактерий-эубиотиков, а также имеет низкую колонизационную активность входящих в состав препарата бактерий-эубиотиков.
+Известен способ получения комплексного препарата бактерий- эубиотиков (патент РФ №2067114, МПК А61K 35/74, опубл. 27.09.96 г.), включающий выращивание в условиях глубинного культивирования культуры штаммов бифидобактерий и стрептококка, смешивание биомассы с защитной средой следующего состава (мас.%): сахароза 25-30; желатин 2-3; сухое молоко 3-5; глутамат натрия 0,5-1 и контактно-сорбционное обезвоживание целевого продукта, которое проводят охлажденным до минус 8-10°С сорбентом, например окисью алюминия, с остаточной влажностью менее 1% при массовом соотношении 1:10-12 соответственно, а досушивание осуществляют в течение 18-20 часов при температуре 0-5°С в замкнутом объеме.
+Однако используемый в указанном способе сорбент обладает недостаточной эффективностью сорбции и десорбции бактерий-эубиотиков, а также имеет низкую колонизационную активность бактерий-эубиотиков.
+Известен препарат-пробиотик в иммобилизованной и лиофилизованной форме (патент РФ №2164801, МПК А61K 35/74, опубл. 10.04.01). Препарат включает носитель, представляющий собой сорбент, и клетки пробиотиков, иммобилизованные на указанном носителе, причем клетки пробиотиков используют совместно с питательной средой, а в качестве сорбента используют материал с антацидными свойствами, развитой мезо- и макропористой структурой и объемом макропор не менее 0,01 см3/г в виде порошка с размером частиц не более 0,1 мм, или в виде гранул размером (0,1-5,0) мм, или в виде таблеток, согласно изобретению препарат дополнительно содержит защитную среду, а клетки пробиотиков с питательной средой представляют собой сухой концентрат бифидобактерий на молочной основе с титром 108-1010 КОЕ/г и содержанием аминокислот (мг/100 г сухой биомассы): глутаминовая кислота - 15,0-68,0; глутамин - 8,0-20,0; лейцин - 10,0-50,0; аргинин - 20,0-30,0; цистеин - 50,0-80,0 при следующем соотношении компонентов препарата в сухом виде, мас.%: клетки эубиотиков с питательной средой и титром 108-1010 КОЕ/г - 0,1-10,0; защитная среда - 0,1-10,0; носитель-сорбент - остальное - до 100%. В качестве защитной среды используют желатин, сахарозу, аскорбиновую кислоту и хлористый натрий при следующем содержании компонентов, мас.%: желатин - 8,5-11,5; аскорбиновая кислота - 0,8-1,2; хлористый натрий - 1,7-3,0; сахароза - остальное до 100%. В качестве сорбента используют пористый материал на основе оксида алюминия с гидрофильно-гидрофобной топохимией поверхности, например энтеросорбент типа СУМС-1, модифицированный углеродом. Препарат в качестве бактерий-пробиотиков дополнительно содержит сухую закваску вязких штаммов ацидофильных бактерий Lactobacillus acidophilus типа АВ, соотношение которых с сухим концентратом бифидобактерий составляет 1:(8-9) соответственно. В качестве бифидобактерий в сухом концентрате используют бактерии Bifidum bifidum №1, или №791, или ЛВА-3, или Bifidobacterium longum 379, или Bifidobacterium adolescentis MC-42, или смесь бактериальных клеток указанных штаммов, взятых в равных весовых долях.
+Однако используемые в указанном препарате сорбенты также обладают недостаточной эффективностью сорбции и десорбции бактерий-эубиотиков. Кроме того, наблюдается низкая колонизационная активность входящих в состав препарата бактерий-эубиотиков.
+Наиболее близким техническим решением (прототипом) является препарат-пробиотик в иммобилизованной и лиофилизованной форме (заявка на патент РФ №2006100740/15, МПК А61K 35/74, опубл. 10.07.07), включающий носитель, представляющий собой пористый энтеросорбент СУМС-1 на основе оксида алюминия, модифицированный углеродом с гидрофильно-гидрофобной топохимией поверхности, и клетки бактерий-эубиотиков с питательной и защитной средами, иммобилизованные на указанном носителе-энтеросорбенте. Клетки бактерий-эубиотиков с питательной средой представляют собой лиофилизированный концентрат консорциума бифидобактерий, или лактобактерий, или их смесь с титром 108-1010 КОЕ/г, а в качестве пористого модифицированного углеродом энтеросорбента СУМС-1 он содержит энтеросорбент СУМС-1, дополнительно обработанный раствором соли металла в объемном соотношении не более 1:1, в качестве которого используют 3%-ный раствор сульфата магния, при следующем соотношении компонентов препарата в лиофилизированном виде, мас.%:
+клетки с питательной средой консорциума бифидо-,
+или лактобактерий-эубиотиков, или их смесь
+с титром 108-1010 КОЕ/г
+1,0-10,0
+защитная среда
+0,1-10,0
+энтеросорбент СУМС-1, дополнительно обработанный
+раствором соли металла
+остальное до 100%
+В качестве консорциума бифидобактерий он содержит штаммы бифидобактерий: Bifidobacterium bifidum 8-3, Bifidobacterium longum ДВА-13 и Bifidobacterium adolescentis ГО-13 в соотношении 8:1:1. В качестве консорциума лактобактерий он содержит штаммы лактобактерий Lactobacillus acidophilus 57S, Lactobacillus plantarum П-75, Lactobacillus casei Сб в соотношении 4: 1,0: 1,0. Смесь консорциумов бифидо- и лактобактерий имеет соотношение от 1:1 до 3:1.
+Однако используемый химически модифицированный энтерособент СУМС-1 имеет высокую стоимость: он дороже угольных сорбентов (например, СУ ГС, СКС, ВНИИТУ-2) в четыре-пять раз. Кроме того, для обеспечения десорбции бактерий в кишечнике необходимо проводить химическую модификацию поверхности энтеросорбента СУМС-1, вследствие чего значительно усложняется технологический процесс получения комплексного препарата-пробиотика в иммобилизованной форме.
+Техническим результатом заявляемого технического решения является создание более простого в изготовлении и более дешевого комплексного препарата-пробиотика в сухой иммобилизованной форме, который обеспечивал бы более высокую эффективность сорбции и десорбции клеток бактерий энтеросорбентом, определяющую его клиническую эффективность и более высокую колонизационную активность бактерий-эубиотиков.
+Указанный технический результат достигается тем, что в комплексном препарате-пробиотике, включающем носитель, представляющий собой пористый энтеросорбент и клетки бактерий-эубиотиков с питательной и защитной средами, иммобилизованные на указанном энтеросорбенте, согласно изобретению клетки бактерий-эубиотиков с питательной средой представляют собой лиофилизированный концентрат консорциума бифидобактерий, или лактобактерий, или их смесь с титром 108-1010 КОЕ/г, а в качестве пористого энтеросорбента он содержит углеродный энтеросорбент ВНИИТУ-2, при следующем соотношении компонентов препарата в сухом виде, мас.%:
+клетки с питательной средой консорциума бифидо-,
+или лактобактерий-эубиотиков, или их смесь
+с титром 108-1010 КОЕ/г
+1,0-10,0
+защитная среда
+0,1-10,0
+углеродный энтеросорбент ВНИИТУ-2
+остальное до 100%
+В качестве консорциума штаммов бифидобактерий он содержит штаммы бифидобактерий: Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894, в соотношении 8:2, или Bifidobacterium bifidum 791 БАГ, Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894 в соотношении 6:3:1, или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ AC-1252 и/или Bifidobacterium longum ВКПМ AC-1530 в соотношении 8:1:1, или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894 и Bifidobacterium adolescentis ВКПМ В-2944 в соотношении 6:3:1 или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ AC-1252 и Bifidobacterium adolescentis ВКПМ AC-1245 в соотношении 8:1:1.
+В качестве консорциума штаммов лактобактерий он содержит штаммы лактобактерий: Lactobacillus acidophilus ВКПМ В-5863, Lactobacillus acidophilus ВКПМ В-4108, Lactobacillus plantarum ВКПМ В-3962, Lactobacillus plantarum ВКПМ В-5002; Lactobacillus casei ВКПМ В-5724, Lactobacillus casei ВКПМ В-3960 в соотношении 1:1:1:1:4:4.
+Смесь консорциумов бифидо- и лактобактерий имеет соотношение от 1:1 до 3:1.
+Концентрат консорциума бифидобактерий, или лактобактерий, или их смесь приготовлен на питательной среде, содержащей обезжиренное молоко, нормализованное по сухому обезжиренному молочному остатку СОМО 13,5-15,0% с добавлением глюкозы и натрия лимоннокислого при следующем соотношении компонентов (мас.%):
+Глюкоза
+1,5-2,5
+Натрий лимоннокислый
+0,15-0,25
+Обезжиренное молоко, нормализованное
+по сухому обезжиренному молочному остатку
+СОМО 13,5-15%
+остальное
+В обезжиренной молочной среде искусственно увеличивают в 1,3-1,5 раза концентрацию белков и лактозы внесением сухого молока так, чтобы сухой обезжиренный молочный остаток (СОМО) достигал 13,5-15,0%. Чем выше содержание СОМО, тем выше содержание казеина, который образует буферную систему, связывая большое количество кислых метаболитов в казеинаты. Тем самым удается сдерживать нарастание кислотности среды при росте биомассы. Чем выше содержание лактозы, тем выше ростовые свойства среды - увеличение содержания лактозы на 25-30% повышает титр бифидо- и/или лактобактерий. Для предотвращения коагуляции казеина в молочную основу вводят раствор натрия лимоннокислого, который обладает сильными стабилизирующими и буферными свойствами. Кроме того, для повышения ростовых свойств молочной питательной среды вводят глюкозу в качестве дополнительного источника энергии, который способствует значительному увеличению содержания бифидо- и лактобактерий с 109 до 1010 КОЕ/мл.
+В результате удается существенно увеличить титр в процессе получения биомассы концентрата консорциума бифидо- и лактобактерий и сохранить их титр в процессе лиофильной сушки готовой формы препарата в иммобилизованной форме.
+Препарат с содержанием микробной биомассы менее 0,1 мас.% имеет низкий биотитр с преобладанием прочно связанных с сорбентом клеток, т.е. действует преимущественно как энтеросорбент. Количество микробных клеток, вводимых в препарат, не превышает 15 мас.%, вследствие чего вся биомасса бактерий препарата находится в защищенном состоянии. При этом углеродный энтеросорбент ВНИИТУ- 2 в препарате сохраняет основные свои свойства, обеспечивающие связывание и выведение из кишечника токсинов, продуктов незавершенного метаболизма и патогенных микроорганизмов.
+Штамм бифидобактерий: Bifidobacterium bifidum 8-3 депонирован во ВНИИгенетика в ВКПМ под №В 5799. Штамм Bifidobacterium longum ДВА-13 депонирован во ВНИИгенетика в ВКПМ под №В 5894. Штамм Bifidobacterium adolescentis ГО-13 депонирован во ВНИИгенетика в ВКПМ под №В-2944. Штамм Bifidobacterium bifidum 791 БАГ депонирован в коллекции культур микроорганизмов ГНЦ ВБ «Вектор» №В-686. Штамм Bifidobacterium longum Я-3 депонирован в ВНИИгенетика в ВКПМ под №АС-1252. Штамм Bifidobacterium longum 17X депонирован в ВНИИгенетика в ВКПМ под №АС-1530. Штамм Bifidobacterium adolescentis ГО-4А депонирован в ВНИИгенетика в ВКПМ под № АС-1245.
+Штаммы лактобактерий депонированы: Lactobacillus acidophilus 57S депонирован во ВНИИгенетика в ВКПМ под №В 5863; Lactobacillus acidophilus К-1-С депонирован во ВНИИгенетика в ВКПМ под №В 4108; Lactobacillus plantarum П-75 депонирован во ВНИИгенетика в ВКПМ под №В 3962; Lactobacillus plantarum 337D депонирован во ВНИИгенетика в ВКПМ под №В 5002; Lactobacillus casei C-1 депонирован во ВНИИгенетика в ВКПМ под №В 3960; Lactobacillus casei Сб депонирован во ВНИИгенетика в ВКПМ под № В-5724.
+Введение в препарат сухой микробной биомассы с биотитром 108-1010 КОЕ/г обеспечивает ему оптимальную биологическую активность. Если исходная микробная биомасса имеет титр меньше 108 КОЕ/г, то препарат обладает недостаточной биологической активностью и при введении в желудочно-кишечный тракт проявляет слабый лечебно-профилактический эффект. Титр сухой микробной биомассы более 1010 КОЕ/мл значительно увеличивает стоимость препарата без значительного увеличения лечебно-профилактического эффекта.
+Основу жидкой бактериальной суспензии для сушки составляют клетки-эубиотики в молочной питательной среде с повышенным титром клеток (109-1010 КОЕ/мл) - жидкий концентрат бифидобактерий. Молочная питательная среда с клетками-эубиотиками содержит повышенное количество белка (не менее 13% СОМ - сухого остатка молока). Это позволяет увеличить антибиотические свойства бактерий- пробиотиков в препарате. Кроме того, повышенное количество белка увеличивает антацидные свойства препарата.
+Высокая концентрация клеток в жидкой бактериальной суспензии позволяет их использовать в препарате в сухом виде в концентрации 1,0-15,0% с титром 108-1010 КОЕ/мл.
+Носитель-сорбент представляет собой механически прочные частицы порошка, или гранулы, или таблетки, выполненные из нового углеродного энтеросорбента - ВНИИТУ-2, разработанный в Конструкторско-Технологическом Институте Технического Углерода Сибирского Отделения РАН (г.Омск). Отличительными особенностями сорбента являются: преимущественное содержание мезопор (до 80%) на поверхности сорбента при величине удельной поверхности 300-400 м2/г позволяет извлекать до 95% веществ со средней молекулярной массой - 500-5000 Да, высокая химическая чистота (содержание углерода не менее 99,5%, минеральных примесей - не более 0,15%), высокая прочность гранул, которые имеют округлую форму с гладким рельефом поверхности, а также практически полное отсутствие «углеродной пыли» на поверхности и в порах.
+Хорошая гидродинамика процесса сорбционной очистки, ВНИИТУ-2 применяется:
+- для детоксикации больных с заболеваниями, сопровождающимися накоплением токсических веществ в организме;
+- при остром отравлении барбитуратами, фосфороорганическими соединениями, лекарственными препаратами, пищевыми продуктами, солями тяжелых металлов;
+- при заболеваниях печени и почек: закупорки желчных протоков, печеночной коме, циррозах, вирусном гепатите и т.д.;
+- при эндотоксикозах: перитоните, панкреатите, сепсисе, раневой инфекции, ожоговой интоксикации после действия радиационного воздействия, опухолевом росте, атеросклерозе и т.д.;
+- при аутоиммунных и психоневрологических заболеваниях: аллергии, бронхиальной астме, псориазе, красной волчанке, артритах, алкогольной интоксикации, наркомании, рассеянном склерозе.
+Препарат отличают высокая химическая чистота; шлифованная поверхность гранул и однородный состав; полная инертность и нерастворимость в контакте с биологическими жидкостями; отсутствие запаха и вкуса; высокая степень извлечения токсических веществ средней и высокой молекулярной массы и полнота выведения из организма; простота применения, не требующая предварительной подготовки энтеросорбента.
+Мезо- и макропористая структура носителя-сорбента, ячейки которого заполнены микробными клетками, также способствует защите этих иммобилизованных клеток от инактивирующих факторов внешней среды. Причем микробные клетки, находящиеся в порах, и клетки, находящиеся близко к внешней поверхности носителя-сорбента, отличаются по своим десорбционным способностям, и такая неоднородность свойств клеток, обеспечивает пролонгированное действие препарата и способствует колонизации не только верхних, но и нижних отделов кишечника. Пористый носитель, являясь энтеросорбентом, снимает эффекты местного (а через него и общего) токсикоза, что способствует выживаемости бактерий препарата и микрофлоры кишечника, а также снижает нагрузку на органы детоксикации человека или животного.
+Кроме того, при использовании в препарате в качестве микробных клеток консорциума бифидобактерий, или консорциума лактобактерий, или смеси консорциумов бифидо- и лактобактерий обеспечивается не только вытеснение из желудочно-кишечного тракта патогенных микроорганизмов (за счет антагонистических свойств указанных бактерий), но и восстановление сильно сокращенной микрофлоры кишечника при дисбактериозе и других заболеваниях.
+Используемый консорциум штаммов бифидобактерий усиливает как клиническую эффективность готовых форм биопрепаратов, так и технологические преимущества при наработке биомассы бифидобактерий:
+- расширяется спектр антагонистической активности консорциума по отношению к патогенным и условно-патогенным микроорганизмам;
+- усиливается ферментативная и синтетическая активность бактерий за счет эффекта синергизма, что позволяет активнее колонизировать слизистые кишечника;
+- возрастает стимулирующее воздействие различных штаммов бифидобактерий на иммунокомпетентные клетки желудочно-кишечного тракта и иммунную систему человека в целом;
+- значительно повышается выживаемость бактерий консорциума в условиях желудочно-кишечного тракта;
+- возрастает скорость накопления биомассы в условиях технологического процесса за счет взаимовыгодного усиления ферментативной активности и повышения эффективности использования питательных сред.
+Использование нескольких штаммов лактобактерий в составе консорциума усиливает эффект благоприятного их воздействия на организм человека, что обусловливается следующими его свойствами:
+- высокой антагонистической активностью по отношению к широкому спектру патогенных и условно-патогенных микроорганизмов;
+- выраженным воздействием на ферментативную и синтетическую активность бактерий нормальной кишечной микрофлоры;
+- стимуляцией иммунной системы человека;
+- способностью к выживанию и развитию в условиях микрофлоры желудочно-кишечного тракта.
+Ниже приведены примеры составов предлагаемого комплексного препарата бактерий-эубиотиков в иммобилизованной и лиофилизированной форме.
+Пример 1. Препарат-пробиотик "Экофлор" в виде порошка с размером частиц (40-100) мкм (мас.%):
+клетки с питательной средой консорциума лактобактерий
+с титром 1010 КОЕ/г 
+1,0 
+защитная среда, в том числе:
+Желатин
+0,085
+Аскорбиновая кислота
+0,008
+Хлористый натрий
+0,017
+Сахароза
+0,89
+энтеросорбент ВНИИТУ-2
+остальное до 100%
+Пример 2. Препарат-пробиотик "Экофлор" в виде порошка с размером частиц (40-100) мкм (мас.%):
+клетки с питательной средой консорциума бифидобактерий
+с титром 109 КОЕ/г
+7,0
+защитная среда, в том числе:
+Желатин
+0,85
+Аскорбиновая кислота
+0,08
+Хлористый натрий
+0,17
+Сахароза
+8,9
+энтеросорбент ВНИИТУ-2
+остальное до 100%
+Пример 3. Препарат-пробиотик "Экофлор" в виде гранул размером (0,5-5,0) мм (мас.%):
+клетки с питательной средой и титром 108 КОЕ/г смеси
+консорциумов бифидо- и лактобактерий в
+соотношении 1:1
+10,0
+защитная среда, в том числе:
+Желатин
+0,575
+Аскорбиновая кислота
+0,06
+Хлористый натрий
+0,15
+Сахароза
+4,215
+Энтеросорбент ВНИИТУ-2
+остальное до 100%
+Пример 4. Препарат-пробиотик "Экофлор" в виде гранул размером (0,5-5,0) мм (мас.%):
+клетки с питательной средой и титром 109 КОЕ/г
+смеси консорциумов бифидо- и лактобактерий
+в соотношении 3:1
+5,0
+защитная среда, в том числе:
+Желатин
+0,85
+Аскорбиновая кислота
+0,08
+Хлористый натрий
+0,17
+Сахароза
+8,9
+Энтеросорбент ВНИИТУ-2
+остальное до 100%
+Пример 5. Технология получения готовых форм препарата "Экофлор"
+По специальной технологии готовят исходные сорбенты типа ВНИИТУ-2 (патент РФ №2211727, МПК B01J 20/20, С01В 31/08, опубл. 10.09.2003 г.). Способ обработки гранул углеродного пористого материала для энтеросорбции включает промывание слоя материала водой и контактирование его с газообразным окислителем путем его обработки воздушно-водяной смесью в фонтанирующем слое, который создают путем подачи воздушно-водяной струи снизу вверх под слой материала со скоростью 50-150 м/с. Обработку ведут в течение 1-36 ч до достижения величины рН 6,0-7,0 и полного обеспыливания материала. Под воздействием струи воздушно-водяной смеси происходит образование фонтанирующего слоя, обеспечивающее интенсивное перемешивание гранул в воде, при котором разрушаются слабые, обеспыливаются и шлифуются прочные гранулы. При этом подача смеси воздуха с водой под нижний фильтрующий элемент предотвращает забивание фильтрующего элемента частицами обрабатываемого материала. Верхний фильтрующий элемент препятствует уносу материала из реактора, но не препятствует удалению из реактора пыли и частиц менее 0,5 мм. Интенсивность механического воздействия на гранулы материала растет по высоте слоя сверху вниз и зависит от скорости подачи воздушно-водяной смеси. В процессе обработки гранул углеродного сорбента отделившаяся пыль, адсорбируя воздух, приобретает плавучесть и восходящим потоком воды и воздуха выносится из рабочей зоны реактора в его верхнюю часть и через сливной патрубок удаляется из реактора. Кроме того, воздух является окислителем, воздействие которого на сорбент осуществляется в фонтанирующем слое до достижения рН продукта 6,0-7,0. Этим достигается хорошая инертность сорбента к процессам, протекающим в желудочно-кишечном тракте человека и животных.
+Стерилизацию сорбента перед применением ведут сухим жаром в сушильном шкафу россыпью слоем не более 1,5-2,0 см при температуре (160±2)°С в течение 2 часов. Контроль стерильности ВНИИТУ-2 определяют микробиологически.
+Получение консорциума бактерий-эубиотиков. Для получения консорциума штаммов бифидо- и/или лактобактерий производят механическое смешивание лабораторных заквасок в указанных соотношениях.
+Содержание пробиотических микроорганизмов в полученной биомассе консорциума ассоциации составляет lg 10 в 1 мл. Приготовление биомассы консорциума ведется термостатным способом в стеклянных стерильных бутылях вместимостью 15 л. Вначале приготавливают в асептических условиях молочную питательную среду на основе обрата молока, нормализованного по сухому остатку СОМО до 13,5-15,0%. В указанную молочную среду дополнительно вводят глюкозу и натрий лимоннокислый в следующем количественном соотношении (мас.%):
+Глюкоза
+1,5-2,5
+Натрий лимоннокислый
+0,15-0,25
+Обрат молока, нормализованный
+по сухому остатку 13,5-15%
+остальное до 100%
+В асептических условиях в стеклянную бутыль, содержащую 9,5 л нормализованной молочной питательной среды, вносят готовую производственную закваску консорциума бифидо- и/или лактобактерий в количестве 0,5 л. Микробную смесь осторожно перемешивают круговым вращением бутыли в течение (1-2) минут. Помещают в термостат типа ТС-80М на (4-5) часов при температуре (39-40)°С. Заквашенную смесь оставляют без перемешивания до образования сгустка и достижения кислотности не менее 90°Т. После образования сгустка бутыли с продуктом захолаживают до температуры (4±2)°С в холодильниках. Для стабилизации и упрочения сгустка захолаживание продукта производят в течение (8-10) ч для последующей иммобилизации на энтеросорбент.
+Процесс иммобилизации ВНИИТУ-2 проводят в асептических условиях. Для иммобилизации берут равные по объему (1:1) количества энтеросорбента ВНИИТУ-2 и биомассу концентрата консорциумов микроорганизмов. Для иммобилизации используют консорциум бифидобактерий (с титром не менее 1010 КОЕ/мл), или консорциум лактобактерий (с титром не менее 108 КОЕ/мл), или их смесь в объемном соотношении от 1:1 до 3:1 соответственно в соответствии с примерами 1-3.
+Смесь энтеросорбента ВНИИТУ-2 с клетками бактерий-эубиотиков тщательно перемешивают в течение 5 мин и помещают на шейкер на 1 час при интенсивности 100 колебаний в минуту при температуре 6±2°С. Процесс иммобилизации возможно вести в стеклянной посуде на роллерной установке. Для определения качества иммобилизации из исходного титра бифидобактерий и лактобактерий в концентрате бифидо- и лактобактерий вычитают полученный результат биотитрования. Процесс считается завершенным, если в растворе осталось не более 50% от исходного количества бифидо- и лактобактерий.
+Далее продукт однократно промывают в изотоническом растворе NaCl. Мутный раствор стерильно сливают, отбирают пробы и проводят контроль полноты процесса иммобилизации по МУК 4.2.577-96 (Методы микробиологического контроля продуктов детского, лечебного питания и их компонентов, п.7.1 и п.7.10). Процесс считается завершенным, если в растворе осталось не более 50% от исходного количества бифидо- и лактобактерий.
+Отмытый продукт замораживают в низкотемпературном холодильнике типа "Кельвинатор" при температуре минус (40-45)°С в течение (24-48) часов. Кассеты с предварительно замороженным препаратом перегружают в сушильную камеру при достижении температуры плит минус (20-30)°С и камеру вакуумируют. Готовый препарат "Экофлор" в сухой иммобилизованной форме фасуют во флаконы и герметично закрывают пробками. Массовая доля влаги составляет не более 3,0 мас.%.
+Таблица 1 
+Данные по адсорбционной емкости энтеросорбентов
+№ п/п
+Наименование энтеросорбента
+Адсорбционная емкость
+рН сорбента
+1
+СУМС-1 (прототип)
+0,017±0.002 г
+6,1
+2
+ЕНИИТУ-2
+0,027±0.002 г
+7,1
+В таблице 1 приведены адсорбционные емкости СУМС-1 (прототип) и ВНИИТУ 2 на основе измерения адсорбции метиленового синего согласно ФС 42-3283-96.
+Таблица 2
+Данные биологического тестирования энтеросорбента ВНИИТУ 2
+Тип энтеросорбента
+Эффективность десорбции LgT4/LgT3
+Эффективность сорбции LgT1/LgT3
+Исходный титр Т1 (КОЕ/мл)
+Сорбция T3=(T1-Т2)
+Десорбция Т4
+T3
+T2
+Иммобилизация консорциума бифидобактерий
+ВНИИТУ-2
+1,0000
+1,015
+1·1010
+3·109
+7·109
+7-109
+Иммобилизация смеси консорциумом бифидо- и лактобактерий
+ВНИИТУ-2
+0,9068
+1,007
+1·1010
+1,6·109
+8,4·109
+1-109
+Иммобилизация консорциума лактобактерий
+ВНИИТУ-2
+0,7839
+1,005
+6·108
+6·107
+5,4·108
+7-106
+Примечание:
+Т1 (КОЕ/мл) -исходный титр биомассы бактерий;
+Т2 (КОЕ/мл) - титр биомассы бактерий, оставшейся после иммобилизации на энтеросорбент;
+Т3=Т1-Т2 - титр (КОЕ/мл) бактериальных клеток, иммобилизованных на сорбенте;
+Т4 - титр (КОЕ/мл) бактериальных клеток после десорбции, определяющий клинический эффект от действия препарата.
+Кроме того, энтеросорбенты ВНИИТУ 2 оценивались в биологических тестах по:
+1) эффективности биосорбции (отношение количества сорбированных клеток к общему количеству бактерий в исходной суспензии),
+2) эффекивности биодесорбции (отношение количества бактерий, десорбированных с поверхности ВНИИТУ-2, к количеству сорбированных бактерий). Эффективность биодесорбции является важным показателем, во многом определяющим клиническую эффективность энтеросорбента. Результаты биологических тестов приведены в таблице 2.
+Таким образом, по результатам исследований энтеросорбентов ВНИИТУ-2 (таблица 1), адсорбционная емкость которых превышает СУМС-1. Эффективность биодесорбции (таблица 2), определяющая клинический эффект от действия комплексного препарата (отношение количества бактерий, десорбированных с поверхности ВНИИТУ-2 к количеству сорбированных на нем бактерий), равна 1, что показывает, что практически все бактерии могут десорбироваться в желудочно-кишечном тракте.
+Результаты доклинических исследований
+Проведенные исследования подтвердили, что комплексный препарат «Экофлор» нетоксичен для лабораторных животных, восстанавливает нормобиоценоз кишечника, элиминирует условно-патогенную и патогенную микрофлору, не вызывает побочных и непредвиденных нежелательных реакций, стимулирует процессы адаптации организма к неблагоприятным факторам внешней среды. Основные результаты исследования:
+1) морфометрические показатели животных в экспериментальных группах нарастали в соответствии с популяционным стандартом;
+2) лабораторные анализы крови оставались в пределах физиологической нормы;
+3) гистологические исследования органов показали отсутствие токсического воздействия;
+4) подтверждено отсутствие повреждающего действия на структуру кишечного эпителия со стороны препарата;
+5) патолого-анатомическое вскрытие подтвердило состояние органов в норме. Полученные результаты свидетельствуют о том, что комплексный препарат «Экофлор» успешно прошел доклинические испытания.
+Результаты клинических исследований препарата "Экофлор"
+Все пациенты (45 человек - экспериментальная группа и 25 человек - группа сравнения) имели хроническую патологию: атопический дерматит - в 44,4% случаев; острый аллергоз - в 11,1% случаев; вторичный хронический пиелонефрит - в 22,2% случаев; сахарный диабет - в 11,1% случаев; бронхиальная астма - в 11,1% случаев.
+После проведенного экспериментального курса лечения комплексным препаратом «Экофлор» были получены следующие результаты:
+1) препарат «Экофлор» способствует уменьшению абдоминального болевого синдрома, проявлений диспепсического синдрома, нормализации моторной функции кишечника, регрессу кожных высыпаний;
+2) применение «Экофлора» способствует уменьшению субъективных клинических (недомогание, слабость нарушение аппетита) и объективных лабораторных критериев (нормализация лейкоцитарного индекса интоксикации и гематологического показателя интоксикации, купирование синдрома цитолиза и нормализация общего белка сыворотки крови, а также уменьшение выраженности мочевого синдрома), отражающих синдром эндогенной интоксикации;
+3) при использовании препарата «Экофлор» в 62,2% наблюдается полное восстановление функций переваривания и всасывания в кишечнике, у остальных больных - тенденция к нормализации показателей;
+4) препарат «Эклофлор» способствует восстановлению кишечной микрофлоры: кишечной палочки, бифидофлоры; снижению кокковых форм, кишечной палочки со слабо выраженными ферментными свойствами, лактозонегативных энтеробактерий;
+5) при приеме препарата не выявлены побочные эффекты и осложнения.
+Таким образом, препарат успешно прошел клинические испытания, является безвредным и высокоэффективным средством в отношении восстановления нормобиоценоза кишечника и купирования синдрома эндогенной интоксикации.
+Claims (5)
+1. Комплексный препарат-пробиотик, включающий носитель, представляющий собой пористый энтеросорбент и клетки бактерий-эубиотиков с питательной и защитной средами, иммобилизованные на указанном энтеросорбенте, отличающийся тем, что клетки бактерий-эубиотиков с питательной средой представляют собой лиофилизированный концентрат консорциума бифидобактерий или лактобактерий, или их смесь с титром 108-1010 КОЕ/г, иммобилизованные на указанном энтеросорбенте, а в качестве пористого энтеросорбента он содержит углеродный энтеросорбент ВНИИТУ-1 или 2, при следующем соотношении компонентов препарата в сухом виде, мас.%:
+Клетки с питательной средой консорциума бифидобактерий,     или лактобактерий-эубиотиков, или их смесь     с титром 108-1010 КОЕ/г 1,0-15,0   Защитная среда 0,1-10,0   Углеродный энтеросорбент ВНИИТУ-1 или ВНИИТУ-2 Остальное.            
+2. Комплексный препарат-пробиотик по п.1, отличающийся тем, что в качестве консорциума штаммов бифидобактерий он содержит штаммы бифидобактерий: Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894, в соотношении 8:2, или Bifidobacterium bifidum 791 БАГ, Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894 в соотношении 6:3:1, или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ AC-1252 и/или Bifidobacterium longum ВКПМ AC-1530 в соотношении 8:1:1, или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ В-5894 и Bifidobacterium adolescentis ВКПМ В-2944 в соотношении 6:3:1 или Bifidobacterium bifidum ВКПМ В-5799, Bifidobacterium longum ВКПМ AC-1252 и Bifidobacterium adolescentis ВКПМ AC-1245 в соотношении 8:1:1.
+3. Комплексный препарат-пробиотик по п.1, отличающийся тем, что в качестве консорциума лактобактерий он содержит штаммы лактобактерий: Lactobacillus acidophilus ВКПМ В-5863, Lactobacillus acidophilus ВКПМ В-4108, Lactobacillus plantarum ВКПМ В-3962, Lactobacillus plantarum ВКПМ В-5002; Lactobacillus casei ВКПМ В-5724, Lactobacillus casei ВКПМ В-3960 в соотношении 1:1:1:1:4:4.
+4. Комплексный препарат-пробиотик по п.1, отличающийся тем, что смесь консорциумов бифидо- и лактобактерий имеет соотношение от 1:1 до 3:1.
+5. Комплексный препарат-пробиотик по п.1, отличающийся тем, что концентрат консорциума бифидобактерий, или лактобактерий, или их смесь приготовлен на питательной среде, содержащей обезжиренное молоко, нормализованное по сухому обезжиренному молочному остатку СОМО 13,5-15% с добавлением глюкозы и натрия лимонно-кислого при следующем соотношении компонентов, мас.%:
+Глюкоза 1,5-2,5   Натрий лимонно-кислый 0,15-0,25   Обезжиренное молоко, нормализованное     по сухому обезжиренному     молочному остатку СОМО 13,5-15% остальное            
+RU2008104741/13A
+2008-02-12
+2008-02-12
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+RU2371479C1
+(ru)
+Priority Applications (1)
+Application Number
+Priority Date
+Filing Date
+Title
+RU2008104741/13A
+RU2371479C1
+(ru)
+2008-02-12
+2008-02-12
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+Applications Claiming Priority (1)
+Application Number
+Priority Date
+Filing Date
+Title
+RU2008104741/13A
+RU2371479C1
+(ru)
+2008-02-12
+2008-02-12
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+Publications (2)
+Publication Number
+Publication Date
+RU2008104741A
+RU2008104741A
+(ru)
+2009-08-20
+RU2371479C1
+true
+RU2371479C1
+(ru)
+2009-10-27
+Family
+ID=41150541
+Family Applications (1)
+Application Number
+Title
+Priority Date
+Filing Date
+RU2008104741/13A
+RU2371479C1
+(ru)
+2008-02-12
+2008-02-12
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме 
+Country Status (1)
+Country
+Link
+RU
+(1)
+RU2371479C1
+(ru)
+Cited By (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2530174C2
+(ru)
+*
+2012-09-14
+2014-10-10
+Закрытое Акционерное Общество "Производственная Фармацевтическая Компания Обновление"
+Бактериальная система для нормализации микробиоценоза организма человека и животных 
+RU2586486C1
+(ru)
+*
+2015-08-26
+2016-06-10
+Алексей Владимирович Шабалин
+Способ производства кисломолочного напитка. 
+RU2599422C2
+(ru)
+*
+2010-07-05
+2016-10-10
+Бифинов
+Макромолекулярный комплекс бактериального происхождения и его применение для предотвращения или лечения ревматоидного артрита 
+Citations (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2118535C1
+(ru)
+*
+1997-03-20
+1998-09-10
+Институт клинической и экспериментальной лимфологии СО РАМН
+Комплексный бактериальный препарат 
+RU2164801C1
+(ru)
+*
+1999-12-06
+2001-04-10
+Дочернее государственное унитарное экспериментально-производственное предприятие "Вектор-Биальгам"
+Препарат-пробиотик в сухой иммобилизованной форме 
+RU2006100740A
+(ru)
+*
+2006-01-10
+2007-07-20
+Закрытое акционерное общество "Вектор-БиАльгам" (RU)
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме и способ его получения 
+2008
+2008-02-12
+RU
+RU2008104741/13A
+patent/RU2371479C1/ru
+not_active
+IP Right Cessation
+Patent Citations (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2118535C1
+(ru)
+*
+1997-03-20
+1998-09-10
+Институт клинической и экспериментальной лимфологии СО РАМН
+Комплексный бактериальный препарат 
+RU2164801C1
+(ru)
+*
+1999-12-06
+2001-04-10
+Дочернее государственное унитарное экспериментально-производственное предприятие "Вектор-Биальгам"
+Препарат-пробиотик в сухой иммобилизованной форме 
+RU2006100740A
+(ru)
+*
+2006-01-10
+2007-07-20
+Закрытое акционерное общество "Вектор-БиАльгам" (RU)
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме и способ его получения 
+Non-Patent Citations (1)
+* Cited by examiner, † Cited by third party
+Title
+Отчет ограниченных клинических испытаний безопасности и эффективности биологически активной добавки "ЭКОФЛОР". Министерство здравоохранения России. Новосибирск, 2004. ЛИХОЛОБОВ В. Технический углерод с разных точек зрения. Наука в Сибири. Еженедельная газета Сибирского отделения Российской академии наук. №35(2331), сентябрь 2001 г.
+*
+Cited By (3)
+* Cited by examiner, † Cited by third party
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+RU2599422C2
+(ru)
+*
+2010-07-05
+2016-10-10
+Бифинов
+Макромолекулярный комплекс бактериального происхождения и его применение для предотвращения или лечения ревматоидного артрита 
+RU2530174C2
+(ru)
+*
+2012-09-14
+2014-10-10
+Закрытое Акционерное Общество "Производственная Фармацевтическая Компания Обновление"
+Бактериальная система для нормализации микробиоценоза организма человека и животных 
+RU2586486C1
+(ru)
+*
+2015-08-26
+2016-06-10
+Алексей Владимирович Шабалин
+Способ производства кисломолочного напитка. 
+Also Published As
+Publication number
+Publication date
+RU2008104741A
+(ru)
+2009-08-20
+Similar Documents
+Publication
+Publication Date
+Title
+US8551498B2
+(en)
+2013-10-08
+Solid composition containing Bacillus-type non-pathogenic bacterial spores 
+CN102171329B
+(zh)
+2013-08-21
+具有高的草酸分解能力的乳酸菌 
+CN101919879B
+(zh)
+2012-09-05
+以凹土为载体的益生菌制剂的制备方法 
+JP5409623B2
+(ja)
+2014-02-05
+亜鉛強化バイオマス、その調製方法、および、それを含むプロバイオティック品、化粧品、ダイエタリー品および栄養補給品 
+KR100899615B1
+(ko)
+2009-05-27
+1,4-디히드록시-2-나프토산의 제조방법 
+CN116024131B
+(zh)
+2024-09-27
+一种植物乳杆菌菌株goldgut-lp101及用途 
+US6746672B2
+(en)
+2004-06-08
+Isolated bifidobacteria that produce siderophores which inhibit growth of lactococcus lactis 
+CN117025456A
+(zh)
+2023-11-10
+一种具有降血尿酸、抗炎作用的副干酪乳酪杆菌a21151及其应用 
+RU2164801C1
+(ru)
+2001-04-10
+Препарат-пробиотик в сухой иммобилизованной форме 
+CN107287136A
+(zh)
+2017-10-24
+一种具有益生功能的益生固态乳酸菌菌剂的制备方法 
+RU2118535C1
+(ru)
+1998-09-10
+Комплексный бактериальный препарат 
+CN105132328A
+(zh)
+2015-12-09
+一种可预防胃溃疡的发酵乳杆菌Lactobacillus fermentum strain suo及其用途 
+RU2317089C2
+(ru)
+2008-02-20
+Комплексный препарат-пробиотик в иммобилизованной и лиофилизированной форме и способ его получения 
+RU2471864C1
+(ru)
+2013-01-10
+Пробиотический препарат против вирусных и бактериальных инфекций &#34;токсиспорин&#34;, способ его получения, штамм бактерий bacillus licheniformis, используемый в качестве компонента пробиотического препарата 
+RU2228184C2
+(ru)
+2004-05-10
+Комплексный препарат 
+CN118909872B
+(zh)
+2025-12-30
+一种具有协同提高重金属吸附能力的复合菌剂及其微胶囊制备与应用 
+CN120189444A
+(zh)
+2025-06-24
+一种改善肠胃环境的含大青盐益生菌制剂及制备方法 
+WO2009051510A1
+(en)
+2009-04-23
+Immobilised and lyophilised complex probiotic preparation and a method for the production thereof 
+CN105154362A
+(zh)
+2015-12-16
+一种可预防胃溃疡的发酵乳杆菌Lactobacillus fermentum suo及其保健用途 
+RU2142504C1
+(ru)
+1999-12-10
+Способ получения биологически активной добавки в сухой форме, содержащей бактерии-эубиотики, и начинка для хлебных или кондитерских изделий на ее основе 
+CN113767983A
+(zh)
+2021-12-10
+一种含有婴儿籍益生菌的人乳冻干粉组合物及制备方法和应用 
+CN105132330A
+(zh)
+2015-12-09
+一种可预防胃溃疡的发酵乳杆菌Lactobacillus fermentum strain Lee及其用途 
+CN119060917B
+(zh)
+2025-02-28
+一株具有降尿酸作用的植物乳杆菌、微胶囊及其制备方法和应用 
+US20040105848A1
+(en)
+2004-06-03
+Enteric dialysis compositions and methods 
+CN105925645A
+(zh)
+2016-09-07
+一种活性乳酸菌素的制备方法及其在生物饲料中的应用 
+Legal Events
+Date
+Code
+Title
+Description
+2011-12-20
+MM4A
+The patent is invalid due to non-payment of fees
+Effective date:
+20110213
+2013-11-27
+NF4A
+Reinstatement of patent
+Effective date:
+20131127
+2016-09-27
+MM4A
+The patent is invalid due to non-payment of fees
+Effective date:
+20160213
+2017-02-13
+NF4A
+Reinstatement of patent
+Effective date:
+20170213
+2017-04-10
+PD4A
+Correction of name of patent owner
+2018-11-16
+MM4A
+The patent is invalid due to non-payment of fees
+Effective date:
+20180213
+2018-11-19
+NF4A
+Reinstatement of patent
+Effective date:
+20181119
+2019-02-19
+PD4A
+Correction of name of patent owner
+2020-11-19
+MM4A
+The patent is invalid due to non-payment of fees
+Effective date:
+20200213

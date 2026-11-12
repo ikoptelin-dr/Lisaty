@@ -1,0 +1,42 @@
+1. Int J Food Microbiol. 2011 Sep 1;149(1):19-27. doi: 
+10.1016/j.ijfoodmicro.2011.04.026. Epub 2011 May 8.
+
+New insights into physiology and metabolism of Propionibacterium freudenreichii.
+
+Thierry A(1), Deutsch SM, Falentin H, Dalmasso M, Cousin FJ, Jan G.
+
+Author information:
+(1)INRA, UMR1253 Science et Technologie du Lait et de l'Œuf, 65 rue de Saint 
+Brieuc, 35000 Rennes, France. anne.thierry@rennes.inra.fr
+
+Dairy propionibacteria are Actinobacteria, mainly isolated from dairy 
+environments. Propionibacterium freudenreichii has been used for a long time as 
+a ripening culture in Swiss-type cheese manufacture, and is more and more 
+considered for its potent probiotic effects. This review summarises the 
+knowledge on the main P. freudenreichii pathways and the main features 
+explaining its hardiness, and focuses on recent advances concerning its 
+applications as a cheese ripening agent and as a probiotic for human health. 
+Propionibacteria have a peculiar metabolism, characterised by the formation of 
+propionic acid as main fermentation end-product. They have few nutritional 
+requirements and are able to use a variety of carbon substrates. From the 
+sequence of P. freudenreichii CIRM-BIA1(T) genome, many pathways were 
+reconstituted, including the Wood-Werkman cycle, enzymes of the respiratory 
+chain, synthesis pathways for all amino acids and many vitamins including 
+vitamin B(12). P. freudenreichii displays features allowing its long-term 
+survival. It accumulates inorganic polyphosphate (polyP) as energy reserve, 
+carbon storage compounds (glycogen), and compatible solutes such as trehalose. 
+In cheese, P. freudenreichii plays an essential role in the production of a 
+variety of flavour compounds, including not only propionic acid, but also free 
+fatty acids released via lipolysis of milk glycerides and methyl-butanoic acids 
+resulting from amino acid degradation. P. freudenreichii can exert 
+health-promoting activities, such as a bifidogenic effect in the human gut and 
+promising immunomodulatory effects. Many P. freudenreichii properties involved 
+in adaptation, cheese ripening, bio-preservation and probiotic effects are 
+highly strain-dependent. The elucidation of the molecular mechanisms involved is 
+now facilitated by the availability of genome sequence and molecular tools. It 
+will help in the selection of the most appropriate strain for each application.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijfoodmicro.2011.04.026
+PMID: 21620505 [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+1. Front Microbiol. 2024 Jan 10;14:1324565. doi: 10.3389/fmicb.2023.1324565. 
+eCollection 2023.
+
+Frequently asked questions about the ISAPP postbiotic definition.
+
+Vinderola G(1), Sanders ME(2), Cunningham M(3), Hill C(4).
+
+Author information:
+(1)Instituto de Lactología Industrial (CONICET-UNL), Faculty of Chemical 
+Engineering, National University of Litoral, Santa Fe, Argentina.
+(2)International Scientific Association for Probiotics and Prebiotics, 
+Centennial, CO, United States.
+(3)International Scientific Association for Probiotics and Prebiotics, Brisbane, 
+QLD, Australia.
+(4)APC Microbiome Ireland, University College Cork, Cork, Ireland.
+
+The term postbiotic was defined by the International Scientific Association of 
+Probiotics and Prebiotics (ISAPP) as "a preparation of inanimate microorganisms 
+and/or their components that confers a health benefit on the host." Although the 
+ISAPP definition is widely cited, some concerns were aired after publication, 
+and alternative definitions of postbiotic, as well as different terms for 
+inactivated microbes, have been previously suggested. This paper addresses 
+questions about the ISAPP definition that have been raised in different forums, 
+including scientific meetings, social media commentary and personal 
+communications. We focus on the rationale, scope, wording, composition and 
+commercial implementation, as well as what is expected of postbiotics regarding 
+safety, efficacy, quantification and mechanisms of action. We hope that 
+exploring these questions will further clarify the definition and its scope and 
+support a common understanding of the concept of postbiotics.
+
+Copyright © 2024 Vinderola, Sanders, Cunningham and Hill.
+
+DOI: 10.3389/fmicb.2023.1324565
+PMCID: PMC10807003
+PMID: 38268705
+
+Conflict of interest statement: GV and CH serve on the board of directors of the 
+International Scientific Association for Probiotics and Prebiotics (ISAPP). MC 
+currently serves as the executive director of ISAPP and has previously been 
+employed by manufacturers and distributors of probiotic and postbiotic products. 
+MES serves as consulting scientific advisor and formerly as executive science 
+officer for the International Scientific Association for Probiotics and 
+Prebiotics; she has consulted with Bayer, Pepsico, and the Bill and Melinda 
+Gates Foundation; served on scientific advisory boards for Institute for 
+Advancement of Food and Nutrition Sciences, United States Pharmacopeia, Danone 
+NA, Sanofi and Cargill; and has been compensated for giving talks for Xpeer, 
+Sanofi, European Federation of Association of Dietitians and Associated British 
+Foods.

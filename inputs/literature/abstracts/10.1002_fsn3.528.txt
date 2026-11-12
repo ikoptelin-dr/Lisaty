@@ -1,0 +1,35 @@
+1. Food Sci Nutr. 2017 Nov 12;6(1):67-76. doi: 10.1002/fsn3.528. eCollection 2018
+ Jan.
+
+In situ production of active vitamin B12 in cereal matrices using 
+Propionibacterium freudenreichii.
+
+Chamlagain B(1), Sugito TA(1), Deptula P(1), Edelmann M(1), Kariluoto S(1), 
+Varmanen P(1), Piironen V(1).
+
+Author information:
+(1)Department of Food and Environmental Sciences University of Helsinki Helsinki 
+Finland.
+
+The in situ production of active vitamin B12 was investigated in aqueous 
+cereal-based matrices with three strains of food-grade Propionibacterium 
+freudenreichii. Matrices prepared from malted barley flour (33% w/v; BM), barley 
+flour (6%; BF), and wheat aleurone (15%; AM) were fermented. The effect of 
+cobalt and the lower ligand 5,6-dimethylbenzimidazole (DMBI) or its natural 
+precursors (riboflavin and nicotinamide) on active B12 production was evaluated. 
+Active B12 production was confirmed by UHPLC-UV-MS analysis. A B12 content of 
+12-37 μg·kg-1 was produced in BM; this content increased 10-fold with cobalt and 
+reached 940-1,480 μg·kg-1 with both cobalt and DMBI. With riboflavin and 
+nicotinamide, B12 production in cobalt-supplemented BM increased to 712 μg·kg-1. 
+Approximately, 10 μg·kg-1 was achieved in BF and AM and was increased to 
+80 μg·kg-1 in BF and 260 μg·kg-1 in AM with cobalt and DMBI. The UHPLC and 
+microbiological assay (MBA) results agreed when both cobalt and DMBI or 
+riboflavin and nicotinamide were supplemented. However, MBA gave ca. 20%-40% 
+higher results in BM and AM supplemented with cobalt, indicating the presence of 
+human inactive analogues, such as pseudovitamin B12. This study demonstrates 
+that cereal products can be naturally fortified with active B12 to a 
+nutritionally relevant level by fermenting with P. freudenreichii.
+
+DOI: 10.1002/fsn3.528
+PMCID: PMC5778212
+PMID: 29387363

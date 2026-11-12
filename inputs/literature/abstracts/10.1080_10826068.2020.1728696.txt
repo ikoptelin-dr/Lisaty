@@ -1,0 +1,34 @@
+1. Prep Biochem Biotechnol. 2020;50(7):635-654. doi:
+10.1080/10826068.2020.1728696.  Epub 2020 Feb 19.
+
+An overview of cell disruption methods for intracellular biomolecules recovery.
+
+Gomes TA(1), Zanette CM(1)(2), Spier MR(1).
+
+Author information:
+(1)Food Engineering Postgraduate Program, Department of Chemical Engineering, 
+Federal University of Paraná (UFPR), Curitiba, Brazil.
+(2)Food Engineering Department, Midwestern State University (UNICENTRO), 
+Guarapuava, Brazil.
+
+Bacteria, yeast, and microalgae are sources of biomolecules such as enzymes, 
+lipids, pigments, organic acids and, proteins for industrial application. These 
+high-added-value biomolecules are often intracellularly bioaccumulated, and 
+their recovery involves several downstream processes, in which the most crucial 
+stage is the disruption of the cell wall. The choice of the method influences 
+the further downstream steps and, consequently, its complexity and cost. In this 
+review, severe and gentle methods currently used for disruption or 
+permeabilization of bacteria, yeast, and microalgae were discussed based on 
+their principle, application, and feasibility. Also, recent studies regarding 
+the microbial cell disruption were presented in order to facilitate the choice 
+of the more effective method. Some factors such as cell wall composition, nature 
+of biomolecule, purity degree, scalability, and energy input are necessary to be 
+considered on selecting the most appropriate disruption method. The severe 
+methods, such as high pressure-homogenization, and ultrasonication present 
+higher yield, lower cost, and feasibility to scale-up when compared to the 
+gentle methods. However, in order to achieve a higher recovery yield, further 
+studies must focus on the optimization of operational parameters and on the 
+combination of severe and gentle methods.
+
+DOI: 10.1080/10826068.2020.1728696
+PMID: 32074000 [Indexed for MEDLINE]
