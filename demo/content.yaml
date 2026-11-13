@@ -269,3 +269,51 @@ references:
   REF-ZHENG: { cite: "Zheng J. et al. A taxonomic note on the genus Lactobacillus… Int J Syst Evol Microbiol. 2020;70(4):2782–2858.", doi: "10.1099/ijsem.0.004107" }
   REF-SCHOLZ: { cite: "Scholz C. F. P., Kilian M. The natural history of cutaneous propionibacteria… Int J Syst Evol Microbiol. 2016;66(11):4422–4432.", doi: "10.1099/ijsem.0.001367" }
   REF-QPS: { cite: "EFSA BIOHAZ Panel. Updated list of QPS-recommended microorganisms for safety risk assessments carried out by EFSA. Zenodo, 17.09.2026.", doi: "10.5281/zenodo.22812707" }
+
+# ---------- Режим --site: чистый сайт для директора по науке ----------
+# Синтетические значения заменяются полями «[…]» — их заполняет директор.
+# Демо-элементы (бейдж, метки S и Д, легенда, раздел «Согласование», подпись версии) не выводятся.
+site:
+  phone: { tel: "+79994662278", show: "+7 999 466-22-78" }
+  contact:
+    title: { ru: "Связаться с нами", en: "Contact us" }
+    text: { ru: "Позвоните: обсудим образец, документы и сроки поставки.", en: "Call us to discuss a sample, documents and delivery." }
+  overrides:
+    meta.description: { ru: "Жидкие лизаты бифидобактерий, лактобактерий и пропионовокислых бактерий — сырьё для БАД и пищевых продуктов. Запросите образец и спецификацию.", en: "Liquid lysates of bifidobacteria, lactobacilli and propionibacteria — raw material for food supplements and foods. Request a sample and specification." }
+    hero.ghost: { href: "#products", ru: "Смотреть продукты", en: "See the products" }
+    products.intro: { ru: "Виды и число штаммов — по данным завода. Показатели качества — по спецификации.", en: "Species and strain counts are from the plant. Quality figures follow the specification." }
+    products.items.3.kind: { ru: "Состав — по запросу", en: "Composition on request" }
+    products.items.4.kind: { ru: "Состав — по запросу", en: "Composition on request" }
+    products.items.5.kind: { ru: "Состав — по запросу", en: "Composition on request" }
+    tech.rows.0.measured: { ru: "[заполнить: чем измеряется результат гидролиза]", en: "[to fill: how hydrolysis is measured]" }
+    tech.rows.2.breaks: { ru: "[заполнить]", en: "[to fill]" }
+    tech.rows.2.yields: { ru: "[заполнить]", en: "[to fill]" }
+    tech.rows.2.measured: { ru: "[заполнить]", en: "[to fill]" }
+    propio.rarity_empty: { ru: "[заполнить: сравнение со спецификациями других поставщиков]", en: "[to fill: comparison with other suppliers’ specifications]" }
+    evidence.cols.1.lead: { ru: "Показатели продукта — по спецификации и сертификатам анализа партий.", en: "Product figures follow the specification and batch certificates of analysis." }
+  placeholders:
+    S-DM-BIF: { ru: "[сухие вещества, %]", en: "[dry matter, %]" }
+    S-DM-LAK: { ru: "[сухие вещества, %]", en: "[dry matter, %]" }
+    S-DM-PRO: { ru: "[сухие вещества, %]", en: "[dry matter, %]" }
+    S-PH-BIF: { ru: "[pH]", en: "[pH]" }
+    S-PH-LAK: { ru: "[pH]", en: "[pH]" }
+    S-PH-PRO: { ru: "[pH]", en: "[pH]" }
+    S-PROT: { ru: "[белок, %]", en: "[protein, %]" }
+    S-VIAB: { ru: "[живые клетки: метод, предел]", en: "[viable cells: method, limit]" }
+    S-B12-PRO: { ru: "[витамин B12, мкг/100 г]", en: "[vitamin B12, µg/100 g]" }
+    S-MICRO-TAMC: { ru: "[норма]", en: "[limit]" }
+    S-MICRO-COLI: { ru: "[норма]", en: "[limit]" }
+    S-MICRO-YM: { ru: "[норма]", en: "[limit]" }
+    S-COA-1: { ru: "[партия: сухие вещества, pH]", en: "[batch: dry matter, pH]" }
+    S-COA-2: { ru: "[партия: сухие вещества, pH]", en: "[batch: dry matter, pH]" }
+    S-COA-3: { ru: "[партия: сухие вещества, pH]", en: "[batch: dry matter, pH]" }
+    S-MOQ: { ru: "[минимальная партия]", en: "[minimum order]" }
+    S-LEAD: { ru: "[срок отгрузки]", en: "[lead time]" }
+    S-PACK: { ru: "[фасовка]", en: "[packaging]" }
+    S-SAMPLE: { ru: "[объём образца]", en: "[sample size]" }
+    S-CAV-TYPE: { ru: "[тип продукта]", en: "[product type]" }
+    S-CAV-BASE: { ru: "[основа]", en: "[base]" }
+    S-PROT-TYPE: { ru: "[тип продукта]", en: "[product type]" }
+    S-PROT-PEP: { ru: "[пептиды]", en: "[peptides]" }
+    S-FER-TYPE: { ru: "[тип продукта]", en: "[product type]" }
+    S-FER-DM: { ru: "[сухие вещества, %]", en: "[dry matter, %]" }

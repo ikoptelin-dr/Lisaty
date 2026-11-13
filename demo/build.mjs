@@ -17,7 +17,8 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const OUT = path.join(ROOT, 'demo', 'dist');
+const SITE = process.argv.includes('--site');
+const OUT = path.join(ROOT, 'demo', SITE ? 'site' : 'dist');
 const RELEASE = process.argv.includes('--release');
 const errors = [];
 const fail = (m) => errors.push(m);
@@ -25,6 +26,11 @@ const fail = (m) => errors.push(m);
 const reg = yaml.load(fs.readFileSync(path.join(ROOT, 'claims.yaml'), 'utf8'));
 const C = yaml.load(fs.readFileSync(path.join(ROOT, 'demo', 'content.yaml'), 'utf8'));
 const doiCheck = JSON.parse(fs.readFileSync(path.join(ROOT, 'inputs/literature/doi_check_2026-11-12.json'), 'utf8')).items;
+if (SITE) for (const [p, v] of Object.entries(C.site.overrides)) {
+  const keys = p.split('.'); let o = C;
+  for (const k of keys.slice(0, -1)) o = o[k];
+  o[keys.at(-1)] = v;
+}
 const claims = new Map(reg.claims.map((c) => [c.id, c]));
 const CLASSES = ['synthetic', 'literature', 'plant-document'];
 const EVIDENCE = ['in vitro', 'животные', 'человек', 'нет данных'];
@@ -67,7 +73,7 @@ function lint(where, s) {
   const t = String(s).replace(/\{\{[A-Z0-9-]+\}\}/g, ' ').replace(/<<[^>]*>>/g, ' ');
   for (const [re, why] of RULES) { const m = t.match(re); if (m) fail(`content.yaml: ${where}: ${why} — «${m[0]}» в «${s}»`); }
 }
-const SKIP = new Set(['href', 'icon', 'name', 'type', 'ac', 'cls', 'mark', 'mark_en', 'doi', 'version', 'date', 'status', 'references', 'table', 'req', 'gap']);
+const SKIP = new Set(['phone', 'placeholders', 'href', 'icon', 'name', 'type', 'ac', 'cls', 'mark', 'mark_en', 'doi', 'version', 'date', 'status', 'references', 'table', 'req', 'gap']);
 (function walk(n, where) {
   if (typeof n === 'string') return lint(where, n);
   if (Array.isArray(n)) return n.forEach((x, i) => walk(x, `${where}[${i}]`));
@@ -83,6 +89,12 @@ function makeRenderer(lang) {
   const L = (v) => (v && typeof v === 'object' && !Array.isArray(v) && ('ru' in v || 'en' in v) ? v[lang] : v);
   function mark(c) {
     const t = esc(c.text[lang]);
+    if (SITE && c.data_class === 'synthetic') {
+      const ph = C.site.placeholders[c.id];
+      if (!ph) { fail(`site.placeholders: нет поля для ${c.id}`); return ''; }
+      return `<span class="c c-ph" data-claim="${c.id}" data-class="placeholder">${esc(ph[lang])}</span>`;
+    }
+    if (SITE && c.data_class === 'plant-document') return `<span class="c c-d" data-claim="${c.id}" data-class="plant-document">${t}</span>`;
     if (c.data_class === 'synthetic') {
       const al = lang === 'ru' ? 'синтетическое значение' : 'synthetic value';
       return `<span class="c c-s" data-claim="${c.id}" data-class="synthetic">${t}<sup class="mk" title="${al}" aria-label="${al}">S</sup></span>`;
@@ -128,6 +140,21 @@ for (const [fam, pkg, file] of [['Inter', 'inter', 'inter'], ['Geist Mono', 'gei
   FONTS.push(src);
   FONT_CSS += `@font-face{font-family:"${fam}";font-style:normal;font-weight:${w};font-display:swap;src:url(fonts/${f}) format("woff2");unicode-range:${range}}`;
 }
+const SITE_CSS = `
+.brand-logo img{display:block;height:34px;width:auto}
+.pill svg{flex:none}
+.caption-gap{height:34px}
+.c-ph{color:var(--amber);border-bottom:1px dashed rgba(255,179,71,.6)}
+.contact-strip{padding:44px 0;border-top:1px solid var(--line);background:linear-gradient(180deg,rgba(255,47,58,.10),rgba(255,107,74,.04))}
+.cs-in{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px}
+.cs-in h2{margin:0 0 4px;font-size:26px}
+.cs-in p{margin:0;color:var(--soft)}
+.cs-num{display:inline-flex;align-items:center;gap:10px;text-decoration:none;color:#1a0d06;font:600 20px var(--sans);padding:12px 20px;border-radius:999px;min-height:48px;
+  background:linear-gradient(92deg,var(--amber),var(--coral) 55%,var(--crimson));box-shadow:0 10px 26px -8px rgba(255,47,58,.65)}
+.end a{color:inherit}
+@media (max-width:420px){.pill span{display:none}.pill{padding:8px 10px}}
+@media (min-width:720px){.brand-logo img{height:40px}}
+`;
 const refYear = (cite) => (cite.match(/\. ((?:19|20)\d{2})[;.,]/) || [])[1] || (cite.match(/(?:19|20)\d{2}/g) || ['']).pop();
 
 const ICON = {
@@ -136,6 +163,7 @@ const ICON = {
   drop: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"/></svg>',
   ph: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="3"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>',
   vial: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M8 3h8M9 3v15a3 3 0 0 0 6 0V3M9 12h6"/></svg>',
+  phone: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>',
   dish: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><ellipse cx="12" cy="12" rx="9" ry="5"/><circle cx="9" cy="12" r="1"/><circle cx="14" cy="11" r="1"/><circle cx="13" cy="14" r="1"/></svg>',
   search: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#9c9c9d" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
   diamond: '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><defs><linearGradient id="dg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb347"/><stop offset=".5" stop-color="#ff6b4a"/><stop offset="1" stop-color="#ff2f3a"/></linearGradient></defs><path d="M12 2l10 10-10 10L2 12z" fill="url(#dg)"/></svg>',
@@ -155,9 +183,9 @@ function page(lang) {
 
   const body = `
 <nav class="nav" aria-label="${ru ? 'Основная навигация' : 'Main navigation'}">
-  <a class="brand" href="#top">${ICON.diamond}<span>${R(C.nav.brand)}</span></a>
-  <ul class="nav-links">${C.nav.links.map((l) => `<li><a href="${l.href}">${R(l)}</a></li>`).join('')}</ul>
-  <div class="nav-right"><a class="lang" href="${C.nav.lang[lang].href}" hreflang="${ru ? 'en' : 'ru'}">${C.nav.lang[lang].label}</a><a class="pill" href="#request">${R(C.nav.cta)}</a></div>
+  ${SITE ? `<a class="brand brand-logo" href="#top"><img src="assets/logo.png" alt="${esc(L(C.nav.brand))}" width="111" height="40"></a>` : `<a class="brand" href="#top">${ICON.diamond}<span>${R(C.nav.brand)}</span></a>`}
+  <ul class="nav-links">${C.nav.links.filter((l) => !(SITE && l.href === '#director')).map((l) => `<li><a href="${l.href}">${R(l)}</a></li>`).join('')}</ul>
+  <div class="nav-right"><a class="lang" href="${C.nav.lang[lang].href}" hreflang="${ru ? 'en' : 'ru'}">${C.nav.lang[lang].label}</a>${SITE ? `<a class="pill" href="tel:${C.site.phone.tel}">${ICON.phone}<span>${C.site.phone.show}</span></a>` : `<a class="pill" href="#request">${R(C.nav.cta)}</a>`}</div>
 </nav>
 <header class="hero" id="top">
   <div class="aurora" aria-hidden="true"><div class="blade b1"></div><div class="blade b2"></div><div class="blade b3"></div><div class="blade b4"></div></div>
@@ -167,21 +195,21 @@ function page(lang) {
     <h1 class="h1">${h.h1[lang].map((l) => `<span>${R(l)}</span>`).join('')}</h1>
     <p class="sub">${R(h.sub)}</p>
     <div class="keys">${h.keys.map((k) => `<a class="key" href="${k.href}">${ICON[k.icon]}${R(k)}</a>`).join('')}</div>
-    <p class="caption">${R(h.caption)}</p>
+    ${SITE ? '<div class="caption-gap"></div>' : `<p class="caption">${R(h.caption)}</p>`}
     <div class="panel" role="group" aria-label="${R(h.panel.mode)}">
       <div class="p-search">${ICON.search}<span class="q">${R(h.panel.query)}<span class="caret" aria-hidden="true"></span></span><span class="mode">${R(h.panel.mode)}</span></div>
       <ul class="p-rows">${h.panel.rows.map((r, i) => `<li class="p-row${i === 0 ? ' on' : ''}">${ICON[r.icon]}<span class="lbl">${R(r.label)}</span><span class="val">${R(r.value)}</span><span class="kbd">${R(r.chip)}</span></li>`).join('')}</ul>
-      <div class="p-foot"><span>${R(h.panel.hints)}</span><span>${R(C.nav.brand)}</span></div>
+      <div class="p-foot"><span>${R(h.panel.hints)}</span><span>${SITE ? '' : R(C.nav.brand)}</span></div>
     </div>
     <a class="ghost" href="${h.ghost.href}">${R(h.ghost)} <span aria-hidden="true">→</span></a>
   </div>
-  <div class="badge" role="note" aria-label="${R(h.badge.title)}"><span class="bm" aria-hidden="true">S</span><span><b>${R(h.badge.title)}</b><small>${R(h.badge.text)}</small></span></div>
+  ${SITE ? '' : `<div class="badge" role="note" aria-label="${R(h.badge.title)}"><span class="bm" aria-hidden="true">S</span><span><b>${R(h.badge.title)}</b><small>${R(h.badge.text)}</small></span></div>`}
 </header>
 <main>
-  <section class="sec" aria-labelledby="legend-h"><div class="wrap">
+  ${SITE ? '' : `<section class="sec" aria-labelledby="legend-h"><div class="wrap">
     <h2 id="legend-h">${R(C.legend.title)}</h2>
     <ul class="legend">${C.legend.items.map((i) => `<li><span class="lm ${i.cls}">${ru ? i.mark : i.mark_en || i.mark}</span><span>${R(i)}</span></li>`).join('')}</ul>
-  </div></section>
+  </div></section>`}
 
   <section class="sec" id="tech" aria-labelledby="tech-h"><div class="wrap">
     <h2 id="tech-h">${R(C.tech.title)}</h2><p class="intro">${R(C.tech.intro)}</p>
@@ -219,7 +247,7 @@ function page(lang) {
     <div class="cols3">${C.evidence.cols.map((c) => `<div class="col"><h3>${R(c.title)}</h3><p class="lead">${R(c.lead)}</p>${c.items ? `<ul>${listItems(c.items)}</ul>` : ''}${c.note ? `<p class="note">${R(c.note)}</p>` : ''}</div>`).join('')}</div>
   </div></section>
 
-  <section class="sec" id="director" aria-labelledby="dir-h"><div class="wrap">
+  ${SITE ? '' : `<section class="sec" id="director" aria-labelledby="dir-h"><div class="wrap">
     <h2 id="dir-h">${R(C.director.title)}</h2>
     <ol class="steps">${C.director.steps[lang].map((s) => (lint(`director.steps.${lang}`, s), `<li>${esc(s)}</li>`)).join('')}</ol>
     <div class="tbl-wrap" tabindex="0" role="region" aria-label="${ru ? 'Таблица — ' : 'Table — '}${esc(L(C.director.title))}"><table><thead><tr>${C.director.table_head[lang].map((x) => `<th scope="col">${esc(x)}</th>`).join('')}</tr></thead><tbody>
@@ -228,7 +256,8 @@ function page(lang) {
     <h3 class="sub-h" style="margin-top:30px">${R(C.director.status_title)}</h3>
     <ul class="status">${listItems(C.director.status)}</ul>
     <p class="sign">${R(C.director.sign)}</p>
-  </div></section>
+  </div></section>`}
+  ${SITE ? `<section class="contact-strip" id="contact"><div class="wrap cs-in"><div><h2>${R(C.site.contact.title)}</h2><p>${R(C.site.contact.text)}</p></div><a class="cs-num" href="tel:${C.site.phone.tel}">${ICON.phone}<span>${C.site.phone.show}</span></a></div></section>` : ''}
 
   <section class="sec" id="request" aria-labelledby="req-h"><div class="wrap">
     <h2 id="req-h">${R(C.request.title)}</h2><p class="intro">${R(C.request.intro)}</p>
@@ -242,7 +271,7 @@ function page(lang) {
       }).join('\n      ')}
       <label class="check"><input type="checkbox" name="consent" required>${R(C.request.consent)}</label>
       <button class="key" type="submit">${R(C.request.submit)}</button>
-      <p class="fnote">${R(C.request.note)}</p>
+      ${SITE ? '' : `<p class="fnote">${R(C.request.note)}</p>`}
     </form>
   </div></section>
 
@@ -251,10 +280,10 @@ function page(lang) {
     <ol class="refs">__REFS__</ol>
   </div></section>
 </main>
-<footer class="end"><div class="wrap">${R(h.caption)}</div></footer>`;
+<footer class="end"><div class="wrap">${SITE ? `${R(C.nav.brand)} · <a href="tel:${C.site.phone.tel}">${C.site.phone.show}</a>` : R(h.caption)}</div></footer>`;
 
   const refs = refOrder.map((id, i) => { const r = C.references[id]; return `<li id="ref-${i + 1}" class="c c-ref" data-ref="${id}">${esc(r.cite)} DOI: <a href="https://doi.org/${r.doi}">${r.doi}</a></li>`; }).join('');
-  const css = FONT_CSS + fs.readFileSync(path.join(ROOT, 'demo', 'site.css'), 'utf8');
+  const css = FONT_CSS + fs.readFileSync(path.join(ROOT, 'demo', 'site.css'), 'utf8') + (SITE ? SITE_CSS : '');
   return `<!doctype html>
 <html lang="${lang}">
 <head>
@@ -262,8 +291,7 @@ function page(lang) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(L(C.meta.title))}</title>
 <meta name="description" content="${esc(L(C.meta.description))}">
-<meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#07080a">
+${SITE ? '' : '<meta name="robots" content="noindex, nofollow">\n'}<meta name="theme-color" content="#07080a">
 <link rel="icon" href="data:,">
 <link rel="preload" href="fonts/inter-cyrillic-600-normal.woff2" as="font" type="font/woff2" crossorigin>
 <style>${css}</style>
@@ -286,10 +314,11 @@ if (errors.length) {
 fs.mkdirSync(OUT, { recursive: true });
 fs.mkdirSync(path.join(OUT, 'fonts'), { recursive: true });
 for (const f of FONTS) fs.copyFileSync(f, path.join(OUT, 'fonts', path.basename(f)));
+if (SITE) { fs.mkdirSync(path.join(OUT, 'assets'), { recursive: true }); fs.copyFileSync(path.join(ROOT, 'demo/assets/logo-vector-bialgam-transparent.png'), path.join(OUT, 'assets/logo.png')); }
 fs.writeFileSync(path.join(OUT, 'index.html'), html.ru);
 fs.writeFileSync(path.join(OUT, 'en.html'), html.en);
 const byClass = {};
 for (const id of used) { const k = claims.get(id).data_class; byClass[k] = (byClass[k] || 0) + 1; }
 fs.writeFileSync(path.join(OUT, 'build-report.json'), JSON.stringify({ mode: RELEASE ? 'release' : 'demo', claims_used: used.size, by_class: byClass }, null, 2));
-console.log(`Готово (${RELEASE ? 'чистовая' : 'демо'}): demo/dist/index.html, demo/dist/en.html`);
+console.log(`Готово (${SITE ? 'сайт' : RELEASE ? 'чистовая' : 'демо'}): ${path.relative(ROOT, OUT)}/index.html, en.html`);
 console.log(`Утверждений на страницах: ${used.size}`, byClass);
